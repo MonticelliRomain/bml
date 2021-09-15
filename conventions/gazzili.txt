@@ -42,3 +42,73 @@
 4H Sign-off
 4S Fit distributionnel
 
+1H-1N--
+2C Gazilli : Nat ou 17+
+  2D 8+ PH, FM si ouvreur fort. Reste plus faible
+    2H 5!h4!c 12-16
+    2S 5!h4m irrégulier 17+
+      2N Relais 
+        3C 5!h4!c 
+        3D 5!h4!d 
+        3H 5!h4!d4!c 
+    2N Bal (54m22 / 5332) 16+-17
+    3m 55 5 perdantes 
+    3H 6+!h 6 levées 
+    3S 6!h5!s 5 perdantes 
+    3N Bal (54m22 / 5332) 16+-17
+  2H Préférence
+  2S 5!c 4!d
+  2N 5!d, 4/5!c
+  3C Préférence
+  3D 6+!d
+2DH Nat 12-16
+2S Inversée (2NT modérateur)
+2N 6!h4m 17+
+  3C Relais 
+    3D 6!h4!d 
+    3H 6!h4!c 
+3m 55 4 perdantes 
+3H 6+!h, 7 levées
+3S 65 4 perdantes 
+3N Bal 18-19
+4m 65 sans TDC
+4H Sign-off 
+
+1S-1N--
+
+2C Gazilli : Naturel ou Fort
+  2D 8+ PH, FM si ouvreur fort. Reste plus faible
+    2H 3+!h (4!h 17+, inversée avec 3!h, 6!s3!h 6 levées ou Bal 15+ avec 3!h)
+      2S Relais 
+        2N Bal 15-17 avec 3!h 
+        3CD 5!s4m3!h 
+        3H 5!s4!h 
+        3S 6!s3!h 
+        3N Bal 18-19 avec 3!h 
+    2S 5!s4!c 12-14 NF 
+    2N Bal 15-16 sans 3!h 
+    3m 54 17+ sans 3!h ou 55 5 perdantes 
+    3H 55 5 perdantes
+    3S 6+!s sans 3!h, 6 levées 
+    3N Bal 16+-17 sans 3!h 
+  2H 5!h court !s ou 6+!h 
+  2S Préférence 
+  2N 5!d4!h court !s (ensuite 3m préférence NF)
+  3C Préférence
+  3D 6+!d 
+2DHS Nat 
+2N 6!s4x / 6!s3!h 17+
+  3C Relais 
+    3D 6!s4!d 
+    3H 6!s4!h 
+    3S 6!s3!h 
+    3N 6!s4!c
+3CDH 55 4 perdantes
+3S 6+!s sans 3!h, 17+
+3N Bal 18-19 sans 3!h 
+4x 65 sans TDC 
+4S Sign-off
+
+Après une réponse faible sur un Gazilli, 3x est 5M4x 17+ ou 5M5x 5 perdantes (sauf 3m sur la réponse de 2NT et sur la réponse de 2!s après 1!h-1NT), 3M Inv, 2NT Inv avec réponse naturelle et non forcing, 4M clôture.
+
+Sur le soutien simple à 2M, l'ouvreur utilise les enchères d'essai dans les courtes (2NT court !s sur 2!h) et généralisé à 2!s (sur 2!h : nommer des forces, 2NT force !s) ou 2NT (sur 2!s, nommer des forces), saut court et TDC, 2NT puis saut long et TDC, courte puis répétition chicane et TDC.
