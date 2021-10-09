@@ -66,7 +66,7 @@
 
     4C Texas !h
     4D Texas !s
-    4C/S to play
+    4CS to play
 
 ** 1NT - 2!d : Texas !h
 
@@ -98,7 +98,7 @@ Remarques :
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
 
-  ** 1NT - 2!h : Texas !s
+** 1NT - 2!h : Texas !s
 
 Remarques : 
 
@@ -122,3 +122,78 @@ Remarques :
   3H BIC majeur fort
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
+
+** 1NT-2C : Texas !c ou 8-9H régulières
+
+1NT-2S
+  2N mini 
+    passe : 8-9H réguliers 
+    3C SO 
+    3D 5/5 mineur FM 
+    3H singleton !h 
+    3S singleton !s 
+    3N singleton !d 
+    4H 6!c/5!h NF 
+    4S 6!c/5!s NF 
+  3C maxi 
+    3SA 8-9 réguliers 
+    3D singleton !d ou 5/5 mineur 
+      3H relais 
+        3S 5/5 mineur 
+        3N singleton !d 
+    3H singleton !h 
+    3S singleton !s
+    4H 6!c/5!h NF 
+    4S 6!c/5!s NF 
+
+** 1NT-2NT : Texas !d
+
+Remarque : L'ouvreur peut moduler son soutien, 3!c max fitté et 3!d RAS.
+Il est préférable que l'ouvreur ait une tenue à !c lorsqu'il répond 3!c.
+
+1NT-2N
+  3D
+    passe : 0-6 HL 
+    3H singleton !h 
+    3S singleton !s 
+    3N singleton !c
+    4C TDC !d, singleton !c 
+    4D TDC !d sans singleton
+    4H 6!c/5!h NF 
+    4S 6!c/5!s NF 
+  3C maxi 
+    3SA 8-9 réguliers 
+    3D singleton !d ou 5/5 mineur 
+      3H relais 
+        3S 5/5 mineur 
+        3N singleton !d 
+    3H singleton !h 
+    3S singleton !s
+    4H 6!c/5!h NF 
+    4S 6!c/5!s NF
+
+** 1NT-3!c : Puppet Stayman 
+
+Remarque importante
+
+- Forcing manche
+- Ne s'emploie pas avec des mains comportant un singleton 
+- Ne s'emploie pas avec les 2 maheures 4e 
+
+1N-3C 
+  3D 0. 1 ou 2 majeures 4e
+   3H 4!s. L'ouvreur avec 4!s fit en disant 3!s (3SA = camouflage)
+   3S 4!h
+   3N pas de majeures 4e, pour jouer 
+   4CD 5 cartes 15+, 5332
+  3H 5!h 
+    3S soutien forcing 
+    3N pour jouer 
+    4CD 15+, 5332
+  3S 5!s 
+    4!h soutien forcing 
+    3N pour jouer
+    4CD 15+, 5332
+
+
+
