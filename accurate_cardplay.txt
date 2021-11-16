@@ -1,0 +1,69 @@
+#+TITLE: Accurate Cardplay
+
+#+AUTHOR: Terence Reese and Roger Trezel
+
+#+DESCRIPTION: Book deals.
+
+* Elimination play
+
+** Deal 1
+
+  Playing 4!s and the defenders begin with 3 rounds of !h
+
+  W 1!c, N X, S 2!s
+
+  #1, Dealer S, None vul, played 4S with hK lead
+  N: AQ42  J43  AKQ  653
+  E: - - - - 
+  S: K9763 92   643  AQ9
+  W: - - - -
+
+** Deal 2
+
+  Playing 6!c with !hK lead
+
+  #2, Dealer S, None vul, played 6C with hK lead
+  N: 753  6     AQ54 A9762
+  E: - - - - 
+  S: AQT4 A7    K6   KQJT3
+  W: - - - -
+
+** Deal 3
+
+  Playing 3NT with !dQ lead
+
+  #2, Dealer S, None vul, played 3N with dQ lead
+  N: K864 762 K96 Q53
+  E: - - - - 
+  S: A53 AQ4 A53 AK72
+  W: - - - - 
+
+** Deal 4
+
+  Playing 6!d with !h4 lead
+
+  #2, Dealer S, None vul, played 6D with h4 lead
+  N: 987 AQ K97542 Q4
+  E: - - - - 
+  S: AQ4 63 AQJT3 AK6
+  W: - - - -
+
+** Deal 5
+
+  Playing 4!s with !cQ lead
+
+  #2, Dealer S, None vul, played 4S with cQ lead
+  N: J43 652 KQ84 K42
+  E: - - - - 
+  S: AKQT86 K74 A53 7
+  W: - - - -
+
+** Deal 6
+
+  Playing 5!cx with !dK lead
+
+  #2, Dealer S, None vul, played 5Dx with dK lead
+  N: J5 AT874 T 97542
+  E: - - - - 
+  S: AQ2 5 J943 ADVT8
+  W: - - - -
