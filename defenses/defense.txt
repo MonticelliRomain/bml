@@ -2,17 +2,37 @@
 
 ** Sur le SA fort
 
+1NT adverse
+  X Texas !c ou Landy (BIC M 4+/4+) si suivi de 2!d
+    2C Avec une préférence M (ou sans préférence avec un unicolore !c)
+      2D Landy 
+        2H/2S Nat NF 
+        2N Relais
+          3C mini
+            3D Relais demandant la M cinquième
+            3M Invit
+          3D Max 5+!h4!s 
+          3H Max 5+!s4!h
+          4C 5/5 court !c 
+          4D 5/5 court !d
+        3C NF 
+        3D F1
+        3M Invit
+    2D Sans préférence M (au mieux 2/2)
+          Le répondant dit 2!d avec un unicolore !d ou un semi-bicolore m. L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. Les autres enchères sont naturelles avec du !c.
+
 ** Sur le SA faible
 
 Mohan : Le contre montre une bonne main, meilleure que l'ouverture d'1NT adverse (15+ HCP, à adapter aux vulnérabilités et aux atouts de la main). En réveil, la force du contre doit être équivalente.
 Ensuite, le partenaire enchérit comme si le partenaire avait ouvert d'1NT (en incluant le Stayman faible ? à discuter).
-Après le contre, le camp adverse ne peut jouer un contrat non contré en-dessous de 2S. De plus, le premier contre par chaque joueur en situation forcing est d'appel.
+Après le contre, le camp adverse ne peut jouer un contrat non contré en-dessous de 2!s. De plus, le premier contre par chaque joueur en situation forcing est d'appel.
+
 Sur 1SA - X - 2x : 
-  /begin{itemize}
-  /item contre : des points et court dans la couleur adverse
-  /item passe : des points, mais 3+ cartes dans la couleur adverse
-  /item 2y : faible, pas une main pour défendre
-  /end{itemize}
+
+  - Contre : des points et court dans la couleur adverse
+  - Passe : des points, mais 3+ cartes dans la couleur adverse
+  - 2y : faible, pas une main pour défendre
+
 
 Autres réponses :
 
@@ -20,13 +40,13 @@ Autres réponses :
   2D Choisis ta majeure
     2M
       3D fit la majeure nommée, FM
-  2H/S Forcing passe
+  2H/2S Forcing passe
   2N Nat NF
-  3C/D Nat NF
-2D Texas H
+  3C/3D Nat NF
+2D Texas !h
   2S/3C Nat NF
   2N Invit
-2H Texas S
-2S S et une Mineure
+2H Texas !s
+2S !s et une Mineure
   2N Demande la mineure
 2N Les deux mineures

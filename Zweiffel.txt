@@ -1,0 +1,188 @@
+#+TITLE: Système Zweiffel
+
+#+AUTHOR: Monticelli's/ Dehaye's
+
+#+DESCRIPTION: Short club with transfer responses.
+
+* Questions
+
+- Ouverture de 2!s ?
+
+- 1!c 3è ?
+
+
+- Enchères d'essai naturelles !
+
+
+- 1!h-2!c-2!h Non forcing ?
+
+- 1NT-3x TDC en Texas ?
+
+
+- Après ouverture de 2!d : contre = des !d ?
+
+
+
+* Enchères
+
+1C--
+    1D Walsh
+    2x fort 
+        3C beaux !c
+        reste arrêts
+    3x faible - QT9xxxx NV
+
+1M--
+    1N
+    2C Relais pour 2!d, mains limites ou limitées à la manche avec 5m
+    2D FM Ensuite c'est plus l'ouvreur qui se décrit
+    2N Relais !c
+
+1m-1M--
+    2N 
+        3C Relais 
+        3D courte - demande de courte pp 
+        3M NF 
+    3C 
+        3x arrêts 
+        3M' forcing, option pour jouer dans la couleur (?)
+    3M' 6/5 13-16
+
+1S-(P)-2N-(3C)--
+    3x court !c 
+    D 3 cartes à !c
+
+1S-1N-2C--
+    2D 5 cartes à !h, 8-10H
+    2H 6 cartes à !h, 6-9H (à confirmer)
+
+
+1N
+    2C Stayman faible 3 paliers (plutôt 1-5-4-3 ou 1-4-4-4 ?)
+        2D 
+            2HS 5-4 invit
+    2S mineure inconnue
+        2N intérêt pour les deux
+    2N Naturel
+    3X Transfert TDC
+        Rect Main pas entièrement nulle
+    4C BIC min TDC
+    4D BIc maj pour la manche
+    (P)
+        2C 
+            (D) 
+                R 4 belles cartes
+                P attend le X, ensuite, réponse avec M inversées !!
+                X naturel avec l'arrêt
+
+(1NT)--
+2C Landy
+    (D)
+        P des !c
+        R Choisis ta M
+        2DHS Naturel 
+
+Michaëls non précisés
+
+1x--
+    (1/2y)
+        2N 5+/5+ des 2 autres
+
+(1C)--
+    P 
+        (1H) Du !s 
+            D contre sur les !s 
+            1S irrégulier pas trop fort 
+            2C 5/5 plus constructif
+
+(2H)--
+    D 
+        (P) 
+            2NT Modérateur
+                (P)
+                    3C 
+                        3H Demi-arrêt 
+                        3S invit avec 4!s 
+                        3N FM avec 4!s 
+
+(2D)-- Multi 
+    D 
+        (2H)
+            D 4 belles cartes (à !h ?) ou ambition
+            2N option pour jouer en mineure
+            3H cue-bid 
+
+(2D)-- Faible à !h 
+    D d'appel = Contre sur 2!h faible
+    2H 5!s/5m
+        (2/3X)
+            D punitif
+
+Good/Bad : 
+
+1C--
+    (P)
+        1S 
+            2H 
+                2N Zone faible (sans arrêt ?) avec des longs !c
+                3C Zone forte (15+) avec des longs !c 
+
+Pas de (sur)contre de soutien, toujours des mains fortes
+
+* Jeu de la carte
+
+Smith par les grosses.
+
+** Sans-atout
+
+*** Entame
+
+Entame quatrième meilleure avec au moins le valet.
+
+Le 8 est toujours négatif.
+
+Le 9 est toujours positif ou 98(/98x ?).
+
+Si couleur du partenaire : parité sauf sur 1!c.
+
+As = ARxx ou ARx => Appel avec les petites.
+
+R = RD10xx ou ARVxx et on débloque sauf si single au mort.
+
+D peut être RD10x.
+
+Si single au mort => appel italien (après l'entame de l'as à SA donc ? Une impaire demande de continuer la couleur entamée)
+
+*** En troisième main
+
+Petit = positif sur l'entame d'un honneur (juste à SA ?)
+
+
+
+** A sans-atout et à la couleur
+
+Dans 4 cartes :
+
+- Si le partenaire joue, parité stricte (la troisième !!)
+
+- Si l'adversaire joue, la troisième indique une qualité de couleur, la deuxième pas.
+
+** À la couleur
+
+- Entame de l'as : on appelle (par les petites) avec la dame
+
+** Au switch
+
+- Valet = RDV ou V10
+
+- 10 = celle au-dessus et une autre ou 109
+
+** Cours du jeu 
+
+- Si, au cours du jeu, une grosse carte anormale est jouée, un switch est à trouver.
+
+- Défausse italienne
+
+
+
+

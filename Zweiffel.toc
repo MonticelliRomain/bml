@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Questions}{1}{section.1}%
+\contentsline {section}{\numberline {2}Enchères}{1}{section.2}%
+\contentsline {section}{\numberline {3}Jeu de la carte}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Sans-atout}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Entame}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}En troisième main}{4}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}A sans-atout et à la couleur}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}À la couleur}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Au switch}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Cours du jeu}{4}{subsection.3.5}%
