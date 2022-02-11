@@ -123,7 +123,7 @@ Remarques :
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
 
-** 1NT-2C : Texas !c ou 8-9H régulières
+** 1NT-2C : Texas !c ou 8-9H régulier
 
 1NT-2S
   2N mini 
@@ -136,7 +136,7 @@ Remarques :
     4H 6!c/5!h NF 
     4S 6!c/5!s NF 
   3C maxi 
-    3SA 8-9 réguliers 
+    3N 8-9 réguliers 
     3D singleton !d ou 5/5 mineur 
       3H relais 
         3S 5/5 mineur 
@@ -162,7 +162,7 @@ Il est préférable que l'ouvreur ait une tenue à !c lorsqu'il répond 3!c.
     4H 6!c/5!h NF 
     4S 6!c/5!s NF 
   3C maxi 
-    3SA 8-9 réguliers 
+    3N 8-9 réguliers 
     3D singleton !d ou 5/5 mineur 
       3H relais 
         3S 5/5 mineur 

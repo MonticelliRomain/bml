@@ -130,6 +130,7 @@ Good/Bad :
 Pas de (sur)contre de soutien, toujours des mains fortes
 
 #INCLUDE level_2_openings/2_club_opening.txt
+
 #INCLUDE level_2_openings/2_diamond_opening.txt
 
 

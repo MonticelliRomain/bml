@@ -17,6 +17,24 @@
   
   Une autre enchère non-ambigüe explore pour le grand chelem, demandant un complément.
 
+  Blackwood d'exclusion : Double saut anormal avec fit précisé !
+
+  Une réponse de 5NT avec une zone initiale de 2 pts (par exemple l'ouverture de 2NT) propose de découvrir un fit 4-4 au palier de 6.
+
+  En cas de bicolore et sans fit précisé par manque de place, le Blackwood est à 6 clés :
+
+    - 5H : pas de dame
+    - 5S : la dame la moins chère
+    - 5NT : la plus chère
+    - 6C : les deux
+
+Après le BW, 5NT est une demande de roi :
+
+  5NT 
+    Retour à l'atout : pas de roi.
+    6X : Roi X ou les deux autres.
+    6NT : Tous les rois.
+
   Sur un 4NT quantitatif :
 
   4NT 
@@ -25,3 +43,37 @@
     5D 3 ou 0 As 
     5H 2 As et 5!c 
     5S 2 As et 5!d 
+
+Intervention adverse sur le BW :
+
+  - Passe : 1er palier 
+  - X ou XX : 2ème palier
+  - Autre :  3ème palier et plus. 
+  
+Intervention adverse sur la réponse de 5m au BW :
+
+  - Passe : demande de Dame d'atout
+  - X ou XX : demande de nommer les Rois. 
+
+Intervention adverse par contre sur les cue-bids : 
+
+  - Passe : sans contrôle
+  - XX : contrôle du premier tour
+  - Autre : contrôle du second tour (retour à l'atout = second tour sans autre cue).
+
+
+Intervention adverse en couleur sur les cue-bids :
+
+  - X : punitif
+  - Passe : sans contrôle
+  - Autre : souvent court dans la couleur
+
+Intervention adverse par contre sur un cue-bid dans une courte connue (Splinter par exemple) :
+
+  - Passe : pas de contrôle
+  - XX : contrôle du premier tour
+  - Autre : cue-bid + contrôle du second tour
+
+
+
+
