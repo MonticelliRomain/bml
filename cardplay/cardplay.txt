@@ -67,7 +67,7 @@ Attention exception : couleur 5ème sans reprise et qu’on espère une reprise 
 
 **** Bonne entame:
 
-1.	AS R
+1.	AS R 
 2.	Singleton
 3.	Couleur du partenaire
 4.	Tête de séquence
