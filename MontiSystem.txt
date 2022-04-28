@@ -1,0 +1,29 @@
+#+TITLE: Système Monticelli's
+
+#+AUTHOR: Thomas et Romain Monticelli
+
+#+DESCRIPTION: Short club with transfer responses.
+
+* Introduction
+
+// Here are the level 1 openings
+
+#INCLUDE MontiStuff/level_1_openings/1_minor_opening.txt
+#INCLUDE MontiStuff/level_1_openings/1_major_opening.txt
+#INCLUDE MontiStuff/level_1_openings/1_notrump_opening.txt
+
+// Level 2 openings
+
+#INCLUDE MontiStuff/level_2_openings/2_club_opening.txt
+#INCLUDE MontiStuff/level_2_openings/2_diamond_opening.txt
+#INCLUDE MontiStuff/level_2_openings/2_majors_weak_opening.txt
+#INCLUDE MontiStuff/level_2_openings/2_notrump_opening.txt
+
+// Others
+
+#INCLUDE MontiStuff/preempts/preempts.txt
+#INCLUDE MontiStuff/bidding_after_pass/bidding_after_pass.txt
+#INCLUDE MontiStuff/slam_bidding/slam_bidding.txt
+#INCLUDE MontiStuff/defenses/defense.txt
+#INCLUDE MontiStuff/competitive_bidding/competitive_bidding.txt
+#INCLUDE MontiStuff/cardplay/cardplay.txt
