@@ -10,7 +10,7 @@
 // Level 2 openings
 
 #INCLUDE 2Clubs.txt
-#INCLUDE 2Diamonds.txt
-#INCLUDE 2Hearts.txt
-#INCLUDE 2Spades.txt
+// #INCLUDE 2Diamonds.txt
+// #INCLUDE 2Hearts.txt
+// #INCLUDE 2Spades.txt
 

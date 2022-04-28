@@ -1,6 +1,6 @@
 * Ouverture de 2!c
-    Description générale : Mains FM/ Bal 23+/ 6!d 6-11
-    Toutes les enchères sont naturelles F1 6 cartes 2GH
+Description générale : Mains FM/ Bal 23+/ 6!d 6-11
+Toutes les enchères sont naturelles F1 6 cartes 2GH
 
 ** Description 
 2C--
@@ -51,7 +51,7 @@
   3D 7-11H (Forcing > 4NT si main forte, mêmes dvpts)
   3HS4C NAT + Fit
 
-  
+
 ** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
 
   Ex : !s - !h ADV8 !d ARD98 !c ARV10
