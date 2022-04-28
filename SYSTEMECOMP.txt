@@ -1,13 +1,12 @@
 #+TITLE: Système Competition
 
+
+
 #+AUTHOR: Dehaye
 
 #+DESCRIPTION: Short club with transfer responses.
 
-* Introduction
 
-
-// Level 2 openings
 
 #INCLUDE 2Clubs.txt
 #INCLUDE 2Diamonds.txt
