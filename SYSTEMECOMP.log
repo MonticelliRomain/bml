@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  28 APR 2022 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  28 APR 2022 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -365,6 +365,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
+ (./SYSTEMECOMP.out) (./SYSTEMECOMP.out)
 \@outlinefile=\write3
 \openout3 = `SYSTEMECOMP.out'.
 
@@ -394,169 +395,35 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 15.
+ (./SYSTEMECOMP.toc
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 1.
+)
 \tf@toc=\write4
 \openout4 = `SYSTEMECOMP.toc'.
 
-LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 70.
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 70.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/t1txtt.fd
-File: t1txtt.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <12> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 70.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 80.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
-File: ts1txr.fd 2000/12/15 v3.1
-) [1
+ [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:112: Undefined control sequence.
-l.112 2\sA
-           \> ask\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:119: Undefined control sequence.
-l.119 3\sA
-           \> 5431\-\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:122: Undefined control sequence.
-l.122 3\sA
-           \> 5422\-\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:128: Undefined control sequence.
-l.128 2\sA
-           \> 5\h\ 5m faible\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:133: Undefined control sequence.
-l.133 3\sA
-           \> Gambling \d\ 9 levÃ©es rapides 2+ contrÃ´les extÃ©rieures\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:140: Undefined control sequence.
-l.140 2\sA
-           \> Relais 3\h +\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[2]
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:179: Undefined control sequence.
-l.179 2\sA
-           \> 5\s\ 5m\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:185: Undefined control sequence.
-l.185 3\sA
-          \-\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:186: Undefined control sequence.
-l.186 2\sA
-           \> Relais\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:192: Undefined control sequence.
-l.192 3\sA
-           \> 5\s\ 5\d\ Max\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[3]
-Overfull \hbox (19.57878pt too wide) in paragraph at lines 220--220
-[]\T1/txr/bx/n/14.4 Ouverture de 2[]$\OMS/txsy/m/n/14.4 ^^?$[]\T1/txr/bx/n/14.4 Description générale 55mm 8-12 dépend
- []
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:226: Undefined control sequence.
-l.226 2\sA
-           \> ask\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:236: Undefined control sequence.
-l.236 3\sA
-           \> 6(322) 21-23\-\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Admin/Desktop/bml/SYSTEMECOMP.tex:240: Undefined control sequence.
-l.240 3\sA
-           \> 6(322) 21-23\-\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[4] (./SYSTEMECOMP.aux)
-
-Package rerunfilecheck Warning: File `SYSTEMECOMP.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SYSTEMECOMP.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  76F674AA4225FF6005244812EBD75468;13981.
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 24.
+ [2] [3] [4] [5] [6] [7] (./SYSTEMECOMP.aux)
+Package rerunfilecheck Info: File `SYSTEMECOMP.out' has not changed.
+(rerunfilecheck)             Checksum: 3D25AD2EB3A23ECC14FC65607EE8B599;3209.
  ) 
 Here is how much of TeX's memory you used:
- 10348 strings out of 478238
- 158113 string characters out of 5847939
- 461846 words of memory out of 5000000
- 28388 multiletter control sequences out of 15000+600000
- 511589 words of font info for 125 fonts, out of 8000000 for 9000
+ 10313 strings out of 478238
+ 157632 string characters out of 5847939
+ 438623 words of memory out of 5000000
+ 28349 multiletter control sequences out of 15000+600000
+ 513642 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,3472b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on SYSTEMECOMP.pdf (4 pages, 58203 bytes).
+ 60i,6n,63p,449b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on SYSTEMECOMP.pdf (7 pages, 49771 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

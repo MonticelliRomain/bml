@@ -1,3 +1,6 @@
+\newpage
+
+
 * Ouverture de 2!d
 
 Description générale : faible !h (6!h ou 5 + 5m) / SF m (18-21 6+)/ Gambling !d
@@ -6,12 +9,12 @@ Description générale : faible !h (6!h ou 5 + 5m) / SF m (18-21 6+)/ Gambling !
 
 2D--
     2H  Rien de spécial
-        2S FM Bicolore Majeur    
+        2S   Bicolore Majeur  FM  
             2N ask
                 3C !h + long
                     3D ask
                     3H GH 3H 
-                3D  5431/5413
+                3D   5431/5413
                     3H ask
                         3S  5413
                         3N 5431

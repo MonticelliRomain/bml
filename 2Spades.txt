@@ -1,7 +1,10 @@
+\newpage
+
+
 *Ouverture de 2!s
 
 
-Description générale 55mm 8-12 dépend de la vulnérabilité / SF !s 6+ 18-21
+Description générale 55mm 8-12 dépend de la vulnérabilité / SF !s 6+ 18-23
 
 ** Description
 
@@ -39,7 +42,7 @@ Description générale 55mm 8-12 dépend de la vulnérabilité / SF !s 6+ 18-21
         3CD 5!s 6m
     2S to play
     XX Unicolore ou fort
-    
+
 ** Après contre en quatrième
 
 

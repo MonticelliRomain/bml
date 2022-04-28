@@ -1,3 +1,5 @@
+\newpage
+
 * Ouverture de 2!h
 
 
@@ -29,15 +31,16 @@ Description générale 6!s / 5!s+5m / SF !h
 
 ** Après contre en second
 
-2H X--
+2!h X--
     P 
         P SF !h
         XX 6!s 
-        2s 5!h 5m
+        2s 5!s 5m
         2N  
         3CD 5!s 6m
     2S to play
     XX Unicolore ou fort
+
 ** Après contre en quatrième
 
 
