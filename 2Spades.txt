@@ -1,0 +1,48 @@
+*Ouverture de 2!s
+    Description générale 55mm 8-12 dépend de la vulnérabilité / SF !s 6+ 18-21
+
+** Description
+
+2S--
+    2SA ask
+        3C 55mm min
+        3D 55mm max
+        3H 6!s 3!h +
+        3S 6(322) 18-20
+        3SA 6(322) 21-23
+    3C Pour jouer si 55mm
+        3D 6!s 3!d +
+        3H 6!s 3!h +
+        3S 6(322) 18-20
+        3SA 6(322) 21-23
+    3D Pour jouer si 55mm
+        3H 6!s 3!h +
+        3S 6(322) 18-20
+        3SA 6(322) 21-23 
+    3H Nat NF
+    3S Nat NF
+    4CD passe ou corrige
+    4H nat
+    4S passe ou corrige
+
+ 
+** Après contre en second
+2H X--
+    P 
+        P SF !h
+        XX 6!s 
+        2s 5!h 5m
+        2SA  
+        3CD 5!s 6m
+    2S to play
+    XX Unicolore ou fort
+** Après contre en quatrième
+2H P 2S X--
+    P 6!h 
+    XX 5!s5m
+    2SA 
+    3CD 5!s 6m
+
+** Après Intervention
+
+X Punitif dans tous les cas           
