@@ -1,45 +1,50 @@
 * Ouverture de 2!h
-    Description générale 6!s / 5!s+5m / SF !h
+
+
+Description générale 6!s / 5!s+5m / SF !h
 
 ** Description
 
 2H--
     2S 
         P 6!s
-        2SA 5!s 5m
+        2N 5!s 5m
             3CD Passe ou corrige
         3C
         3D
         3H
         3S    
-        3SA
-    2SA Relais
+        3N
+    2N Relais
         3C  5!s 5!c Min
         3D  5!s 5!d Min
         3H  6!s
             3S invit 
         3S  5!s 5!c Max  
-        3SA 5!s 5!d Max
+        3N 5!s 5!d Max
         4x SF !h nat 
     3CDH Enchère en texas la dérogation est positive
     3S 7-13 3!s +  
 
 
 ** Après contre en second
+
 2H X--
     P 
         P SF !h
         XX 6!s 
         2s 5!h 5m
-        2SA  
+        2N  
         3CD 5!s 6m
     2S to play
     XX Unicolore ou fort
 ** Après contre en quatrième
+
+
 2H P 2S X--
     P 6!h 
     XX 5!s5m
-    2SA 
+    2N 
     3CD 5!s 6m
 
 ** Après Intervention
