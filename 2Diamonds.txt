@@ -1,12 +1,13 @@
 * Ouverture de 2!d
-    Description générale : faible !h (6!h ou 5 + 5m) / SF m (18-21 6+)/ Gambling !d
+
+Description générale : faible !h (6!h ou 5 + 5m) / SF m (18-21 6+)/ Gambling !d
 
 ** Description
 
 2D--
     2H  Rien de spécial
         2S FM Bicolore Majeur    
-            2SA ask
+            2N ask
                 3C !h + long
                     3D ask
                     3H GH 3H 
@@ -20,42 +21,45 @@
             3CD Naturel
             3HS Slam try 4+
 
-        2SA 5!h 5m faible
+        2N 5!h 5m faible
             3CD Passe ou corrige 
         3CD SF 3CD
         3H 5!s 5!h 18-21 (1!s 1SA 3!h = 54 18+)   
         3S 5!s 4!h 18-21
         3SA Gambling !d 9 levées rapides 2+ contrôles extérieures 
     2S  Relais tendance misfit
-        2SA 5!h 5!c faible
+        2N 5!h 5!c faible
         3C  5!h 5!d 
         3D  6!h 
         3S  MM
         3SA 
-    2SA Relais 3!h+
+    2N Relais 3!h+
         3C 5!h 5!d
         3D 6!h 
         3H 
         3S
-        3SA
+        3N
     3CDS Enchère en texas la dérogation est positive
     3H 7-13 3!h +
 
 
 ** Après contre en second
+
 2D X--
     P Préfère les !d si 5!h 5!d
         XX 6!h 
         2H 5!h 5!c
-        2SA 5!h 6!c 
+        2N 5!h 6!c 
         3CDHS SF+
     2H to play
     XX Unicolore
+
 ** Après contre en quatrième
+
 2D P 2H X--
     P 6!h 
     XX 5!h5m
-    2SA 5!h 6m
+    2N 5!h 6m
     3CDHS SF+
 
 ** Après Intervention
