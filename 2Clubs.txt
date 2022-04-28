@@ -1,8 +1,10 @@
 * Ouverture de 2!c
+
 Description générale : Mains FM/ Bal 23+/ 6!d 6-11
 Toutes les enchères sont naturelles F1 6 cartes 2GH
 
-** Description 
+** Description
+
 2C--
   2D relais
     P FAIBLE !d
@@ -52,21 +54,21 @@ Toutes les enchères sont naturelles F1 6 cartes 2GH
   3HS4C NAT + Fit
 
 
-** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
+*** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
 
   Ex : !s - !h ADV8 !d ARD98 !c ARV10
   (2!c-2!d-2!h-2!s-3!d-3NT-4!c-...)
   
-** Après interventions
+*** Après interventions
   
-  - Contre punitif
-  - Toute enchère F1T
-  - 2NT R fort
-  - Cue demande d'arret
+  Contre punitif
+  Toute enchère F1T
+  2NT R fort
+  Cue demande d'arret
 
-** Après contre
+*** Après contre
   
-  - Passe des !c!
-  - Surcontre FORT ou UNICOLORE
-  - 2!d ambigu
-  - Nouvelle couleur F1T
+  Passe des !c!
+  Surcontre FORT ou UNICOLORE
+  2!d ambigu
+  Nouvelle couleur F1T
