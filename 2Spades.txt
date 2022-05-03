@@ -46,7 +46,7 @@ Description générale 55mm 8-12 dépend de la vulnérabilité / SF !s 6+ 18-23
 ** Après contre en quatrième
 
 
-2H P 2S X--
+2H P 2!s X--
     P 6!h 
     XX 5!s5m
     2N 
