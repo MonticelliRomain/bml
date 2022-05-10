@@ -1,3 +1,19 @@
 * Ouverture de 2!h et 2!s
 
-A compléter, pour cette année => Voir livre rouge
+Montre une main de 5 à 10PH comportant une couleur 6ème (qualité de la couleur dépend de la position et de la vulnérabilité).
+
+2M
+    3/4M Prolongation de barrage, 4M est une main faible ou forte qui espère gagner la manche.
+    2/3X Forcing un tour, l'ouvreur donne le fit (xxx ou Hx), répète sa couleur ou dit 3SA.
+    2N Relais fort
+        2/3X FM, Max avec gros honneur.
+            3M TDC
+                4Y singleton Y
+                4M pas de singleton
+        3M Mini
+        3N ARDxxx
+        4x Belle main, singleton X
+    4X Rencontre ?
+
+Attention, "La force prime sur le courte"
+
