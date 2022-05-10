@@ -9,32 +9,32 @@ Description générale : faible !h (6!h ou 5 + 5m) / SF m (18-21 6+)/ Gambling !
 
 2D--
     2H  Rien de spécial
-        2S   Bicolore Majeur  FM  
+        2S Bicolore Majeur  FM  
             2N ask
                 3C !h + long
                     3D ask
                     3H GH 3H 
-                3D   5431/5413
+                3D 5431/5413
                     3H ask
                         3S  5413
-                        3N 5431
-                3H  55xx
-                3S  64xx
+                        3N  5431
+                3H 55xx
+                3S 64xx
                 3N 5422
             3CD Naturel
             3HS Slam try 4+
 
         2N 5!h 5m faible
             3CD Passe ou corrige 
-        3CD SF 3CD
+        3CD SF 3!c!d
         3H 5!s 5!h 18-21 (1!s 1SA 3!h = 54 18+)   
         3S 5!s 4!h 18-21
         3N Gambling !d 9 levées rapides 2+ contrôles extérieures 
-    2S  Relais tendance misfit
+    2S Relais tendance misfit
         2N 5!h 5!c faible
-        3C  5!h 5!d 
-        3D  6!h 
-        3S  MM
+        3C 5!h 5!d 
+        3D 6!h 
+        3S MM
         3N 
     2N Relais 3!h+
         3C 5!h 5!d
