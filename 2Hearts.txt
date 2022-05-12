@@ -18,11 +18,11 @@ Description générale 6!s / 5!s+5m / SF !h
         3S    
         3N
     2N Relais
-        3C  5!s 5!c Min
-        3D  5!s 5!d Min
-        3H  6!s
+        3C 5!s 5!c Min
+        3D 5!s 5!d Min
+        3H 6 cartes à !s
             3S invit 
-        3S  5!s 5!c Max  
+        3S 5!s 5!c Max  
         3N 5!s 5!d Max
         4x SF !h nat 
     3CDH Enchère en texas la dérogation est positive
@@ -31,11 +31,11 @@ Description générale 6!s / 5!s+5m / SF !h
 
 ** Après contre en second
 
-2H X--
+2H-X--
     P 
         P SF !h
         XX 6!s 
-        2s 5!s 5m
+        2S 5!s 5m
         2N  
         3CD 5!s 6m
     2S to play
@@ -44,7 +44,7 @@ Description générale 6!s / 5!s+5m / SF !h
 ** Après contre en quatrième
 
 
-2H P 2S X--
+2H-P-2S-X--
     P 6!h 
     XX 5!s5m
     2N 
