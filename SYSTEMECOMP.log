@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  28 APR 2022 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  28 APR 2022 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -407,23 +407,23 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 24.
- [2] [3] [4] [5] [6] [7] (./SYSTEMECOMP.aux)
+ [2] [3] [4] [5] [6] [7] [8] (./SYSTEMECOMP.aux)
 Package rerunfilecheck Info: File `SYSTEMECOMP.out' has not changed.
 (rerunfilecheck)             Checksum: 3D25AD2EB3A23ECC14FC65607EE8B599;3209.
  ) 
 Here is how much of TeX's memory you used:
- 10313 strings out of 478238
- 157632 string characters out of 5847939
+ 10314 strings out of 478238
+ 157638 string characters out of 5847939
  438623 words of memory out of 5000000
  28349 multiletter control sequences out of 15000+600000
  513642 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,63p,449b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on SYSTEMECOMP.pdf (7 pages, 49771 bytes).
+Output written on SYSTEMECOMP.pdf (8 pages, 50167 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
