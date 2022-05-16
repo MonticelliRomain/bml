@@ -15,8 +15,8 @@
   1N   8-10 3-!h!s
   2C   FMI : fit !c, 10+ (voir développements plus loin)
   2D   6+!d (et 2GH), 18H+
-  2H   5+!s 4+!h, 5-8H, idem sur 1!d
-  2S   5+!s 4+!h, 9-10H, idem sur 1!d
+  2H   TODO
+  2S   TODO
   2N	 11-12 BAL (3!c NF, reste FM)
   3C	 5!c, main irrégulière ~5-9 H
   3X	 Barrage 7 cartes
@@ -35,22 +35,12 @@
         3N SO
         4X cue fit !s
     2S 5!d4!s FM
-  1N 12-14 H, BAL
-    2C checkback stayman avec des mains INV+
-      2X
-        3C 5!d5!c FM (fit différé)
-        3D 6+!d FM
-      2D Pas de M/4
-      2H 4!h (avec ou sans 4!s)
-      2S 4!s
-    3C 5!d4!c INV
-    3D 6!d INV
+  1N 12-14 H, BAL (suite, TODO double 2)
 
 ** La séquence 1!c - 1M 
 
   1C-1M;
-  1N
-    2D  5!d4M faible to play
+  1N suite TODO double 2
   2C
     2D  3eme couleur forcing
 
@@ -85,15 +75,15 @@
 
   1D-2C;
   2D irrégulier 11-15, BAL 12-13
-  2M inversée NAT
+  2M inversée NAT (ou 4-4-4-1)
   2N BAL 14 ou 18-19 
     3C relais
       3D 18-19, le reste NAT 14
-  3C 16+ PJS Fit 4ème ou 18-19 et 3 cartes
+  3C 16+ PJS Fit 3ème (plutôt irrég)
   3D 6+!d, 16+ problème dans une ou deux M
   3M 65 sans inversée
   3N 6+!d, 16+ avec les arrêts M
 
-#INCLUDE conventions/minor_inverted_fit.txt
+#INCLUDE MontiStuff/conventions/minor_inverted_fit.txt
 
 ** Enchère du répondant après une inversée

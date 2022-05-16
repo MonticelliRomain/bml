@@ -1,0 +1,892 @@
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newcent}
+\usepackage{helvet}
+\usepackage{graphicx}
+\usepackage[pdftex, pdfborder={0 0 0}]{hyperref}
+\frenchspacing
+
+\include{bml}
+\title{Système Monticelli's}
+\author{Thomas et Romain Monticelli}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+
+\section{Ouverture de 1m}
+
+\subsection{Le Walsh}
+
+À partir de 2 cartes. Le Walsh, basé sur le principe ``la majeure d'abord'', consistant à ne présenter les \d\ que dans les mains fortes ou sans majeures, est utilisé.
+En cas de fit fort sans majeure, le fit mineur inversé est utilisé.
+
+\begin{bidtable}
+1\c---\\
+1\d \> 3 possibilités :\\
+\>4+\d\ et inv+\\
+\>5+\d , 3-\h \s\ et 6-10H\\
+\>BAL 5-7H et 3-\h \s \\
+1\h \> \h /4+ (possibilité de \d\ plus longs que \h\ si <11h)\\
+1\s \> \s /4+ (possibilité de \d\ plus longs que \s\ si <11h)\\
+1NT \> 8-10 3-\h \s \\
+2\c \> FMI : fit \c , 10+ (voir développements plus loin)\\
+2\d \> 6+\d\ (et 2GH), 18H+\\
+2\h \> TODO\\
+2\s \> TODO\\
+2NT	 \> 11-12 BAL (3\c\ NF, reste FM)\\
+3\c	 \> 5\c , main irrégulière ~5-9 H\\
+3X	 \> Barrage 7 cartes\\
+3NT	 \> 12-14 BAL
+\end{bidtable}
+
+\subsection{La séquence 1\pdfc\ - 1\pdfd}
+
+\begin{bidtable}
+1\c-1\d;\\
+1M \> 12-17 H, M/4 Main irrégulière (5\c )\\
+1\h\+\\
+1\s \> 4eme couleur forcing\\
+\>(L’ouvreur réagit comme sur une enchère NAT mais ne peut pas dire 4\s ) \+\\
+2\s \> 12-14\\
+3\s \> 15+\+\\
+3NT \> SO\\
+4X \> cue fit \s \-\-\\
+2\s \> 5\d 4\s\ FM\-\\
+1NT \> 12-14 H, BAL (suite, TODO double 2)
+\end{bidtable}
+
+\subsection{La séquence 1\pdfc\ - 1M}
+
+\begin{bidtable}
+1\c-1M;\\
+1NT \> suite TODO double 2\\
+2\c\+\\
+2\d \> 3eme couleur forcing\-
+\end{bidtable}
+
+\subsection{La séquence 1m - 1M}
+
+\begin{bidtable}
+1m-1M;\\
+2NT \> pas de fit\+\\
+3\c \> réponses dans l'ordre, style Baron\+\\
+3\d \> 5m\\
+3M \> 3M\\
+\>3M' 4M'\\
+\>3N aucun des cas précédents\-\\
+3\d \> fit dans la m (FM ou TDC)\\
+3M \> NAT NF\\
+3M' \> BIC (55 ou 65) FM\\
+3NT \> SO\\
+4m/M' \> cue avec atout M\\
+4\h \> (sur 1\s ) BIC NF\\
+4M \> SO\\
+4NT \> quantitatif\-\\
+3NT \> fit main régulière\\
+4(3)M’ \> splinter\\
+4m’ \> splinter\\
+4m \> 5+m 4+M\\
+4M \> main extrêmement irrégulière avec peu de points d’honneurs
+\end{bidtable}
+
+\subsection{La séquence 1m - 2\pdfh}
+
+\subsection{La séquence 1m - 2\pdfs}
+
+\subsection{La séquence 1\pdfd\ - 2\pdfc}
+
+\begin{bidtable}
+1\d-2\c;\\
+2\d \> irrégulier 11-15, BAL 12-13\\
+2M \> inversée NAT (ou 4-4-4-1)\\
+2NT \> BAL 14 ou 18-19\+\\
+3\c \> relais\+\\
+3\d \> 18-19, le reste NAT 14\-\-\\
+3\c \> 16+ PJS Fit 3ème (plutôt irrég)\\
+3\d \> 6+\d , 16+ problème dans une ou deux M\\
+3M \> 65 sans inversée\\
+3NT \> 6+\d , 16+ avec les arrêts M
+\end{bidtable}
+
+\subsection{Le fit mineur inversé}
+
+\begin{bidtable}
+1\c-2\c \> --\\
+2NT \> 12-14- BAL\+\\
+3\c \> SO\\
+3\d \> arrêt \d \+\\
+3\s \> arrêt \s \+\\
+4\c \> SO, pas d'arrêt \h \-\-\\
+Autre \> : arrêt\\
+Sauts \> : courtes\+\\
+4NT \> : to play (des points dans les courtes)\-\-\\
+2\d \> 14+, arrêt \d , arrêts \h /\s\ possibles\+\\
+2\h \> arrêt \h\ et pas mini\\
+2\s \> arrêt \s , pas d'arrêt \h\ et pas mini\\
+2NT \> arrêts des autres couleurs mais mini\\
+3\c \> pas d'arrêts des autres couleurs et mini\\
+3\d \> singleton (ou chicane) \d \-\\
+2\h \> 14+, arrêt \h , pas d'arrêt \d , arrêt \s\ possible\\
+2\s \> 14+, arrêt \s , pas d'arrêts \h /\d \\
+3\c \> 12-14- irrégulier\+\\
+Sauts \> : courtes\+\\
+4NT \> : to play (des points dans les courtes)\-\-\\
+3\d \> 14+, court \d , \c\ mieux que Vxxx\\
+3\h \> 14+, court \h , \c\ mieux que Vxxx\\
+3\s \> 14+, court \s , \c\ mieux que Vxxx\\
+3NT \> 18-19 Bal\\
+4\d \> 15-18, chicane \d , beaux \c \\
+4\h \> 15-18, chicane \h , beaux \c \\
+4\s \> 15-18, chicane \s , beaux \c 
+\end{bidtable}
+
+\begin{bidtable}
+1\d-2\d \> --\\
+2NT \> 12-14- BAL\+\\
+3\c \> arrêt \c \+\\
+3\s \> arrêt \s \+\\
+4\d \> SO, pas d'arrêt \h \-\-\\
+3\d \> SO\\
+Autre \> : arrêt\\
+Sauts \> : courtes\+\\
+4NT \> : to play (des points dans les courtes)\-\-\\
+2\h \> 14+, arrêt \h , arrêts \s /\c\ possibles\+\\
+2\s \> arrêt \s\ et pas mini\\
+2NT \> arrêts des autres couleurs mais mini\\
+3\c \> arrêt \c , pas d'arrêt \s\ et pas mini\\
+3\d \> pas d'arrêts des autres couleurs et mini\\
+3\h \> singleton (ou chicane) \h \-\\
+2\s \> 14+, arrêt \s , pas d'arrêt \h , arrêt \c\ possible\\
+3\c \> 14+, arrêt \c , pas d'arrêts \h /\s \\
+3\d \> 12-14- irrégulier\+\\
+Sauts \> : courtes\+\\
+4NT \> : to play (des points dans les courtes)\-\-\\
+3\h \> 14+, court \h , \d\ mieux que Vxxx\\
+3\s \> 14+, court \s , \d\ mieux que Vxxx\\
+3NT \> 18-19 Bal\\
+4\c \> 14+, court \c , \d\ mieux que Vxxx\\
+4\h \> 15-18, chicane \h , beaux \d \\
+4\s \> 15-18, chicane \s , beaux \d \\
+5\c \> 15-18, chicane \c , beaux \d 
+\end{bidtable}
+
+\subsubsection{Soutien au niveau de 3}
+
+\begin{bidtable}
+1m\+\\
+3m \> NF, on peut jouer ce contrat\+\\
+4m \> prolongation de barrage\\
+3x \> demande d'arrêt dans cette couleur\\
+4x \> courte\-\-
+\end{bidtable}
+
+\subsubsection{Après interventions}
+
+Le FMI ne s'applique (passer par le surcontre)
+
+\begin{bidtable}
+1\d-X\+\\
+2\d \> 6-9\\
+2NT \> 10-11 fitté (Truscott)\\
+3\d \> barrage 6+\-
+\end{bidtable}
+
+\begin{bidtable}
+1\c-1\s\+\\
+2\c \> fit 6-10\\
+2\s \> 11+, pas 4\h , souvent fitté \c \\
+2NT \> naturel 10-12 avec arrêt\\
+3\c \> barrage\\
+4\c \> barrage\-
+\end{bidtable}
+
+\subsection{Enchère du répondant après une inversée}
+
+\section{Ouverture de 1M}
+
+\subsection{Fit limite TODO}
+
+\subsection{2NT Fitté par 3 cartes FM TODO finir}
+
+\begin{bidtable}
+1M-2NT\\
+3\c \> 12-14 avec une courte\+\\
+3\d \> Relais\+\\
+3\h \> Court \c \\
+3\s \> Court \d \\
+3NT \> Court M'\-\\
+3M \> TODO\-\\
+3\d \> 12-14 Pas de courte\+\\
+3M \> TODO\-
+\end{bidtable}
+
+\subsection{Le gazzili}
+
+\begin{bidtable}
+1\h-1\s--\\
+1NT \> BAL 12-15 (2\c\ Roudi, Reste Nat)\\
+2\c \> Gazilli : Soit NAT, soit Fort\+\\
+2\d \> 8+PH, FM si ouvreur fort. Tout le reste est plus faible, sauf 3M.\+\\
+2\h \> 5\h 4\c\ 12-16 NF. Ensuite, Passe ou NAT Inv+\\
+2\s \> 3 cartes à \s \+\\
+2NT \> Relais\+\\
+3m \> 5\h 4m3\s \\
+3\h \> 6\h 3\s\ 6 levées\\
+3\s \> BAL 15-17 avec 3\s \\
+3NT \> BAL 18-19 avec 3\s \-\-\\
+2NT \> BAL (54m22 / 5332) 15-16 sans 3\s \\
+3m \> 5\h 4m 17+ (ou 5\h 5m 5 perdantes)\\
+3\h \> 6\h 3\s\ 6 levées\\
+3\s \> 5+\h 4\s\ 15-17\+\\
+3NT \> demande de courte\\
+4x \> cue\-\\
+3NT \> BAL (54m22 / 5332) 16+-17 sans 3\s \-\\
+2\h \> Préférence\\
+2\s \> 5\s\ court \h\ ou 6+\s \\
+2NT \> 5\d 4\s\ court \h\ (ensuite 3m préférence NF).\\
+3\c \> Préférence\\
+3\d \> 6+\d \\
+3\h \> Fit différé\\
+3\s \> INV\-\\
+2x \> NAT (Sur la répétition à 2\h , 3\h\ est Inv)\\
+2NT \> 6\h /4x ou 6\h /3\s \+\\
+3\c \> Relais\+\\
+3\d \> 6\h 4\d \\
+3\h \> 6\h 3\s \\
+3\s \> 6\h 4\s \\
+3NT \> 6\h 4\c \-\-\\
+3m \> 55 4 perdantes\\
+3\h \> 6+\h\ sans 3\s , 7 levées\\
+3\s \> 5\h 4\s\ 18-20\+\\
+3NT \> demande de courte\\
+4x \> cue\-\\
+3NT \> BAL 18-19 sans 3\s \\
+4m \> Fit 20+PJS, Splinter\\
+4\h \> Sign-off\\
+4\s \> Fit distributionnel
+\end{bidtable}
+
+\begin{bidtable}
+1\h-1NT--\\
+2\c \> Gazilli : Nat ou 17+\+\\
+2\d \> 8+ PH, FM si ouvreur fort. Reste plus faible\+\\
+2\h \> 5\h 4\c\ 12-16\\
+2\s \> 5\h 4m irrégulier 17+\+\\
+2NT \> Relais\+\\
+3\c \> 5\h 4\c \\
+3\d \> 5\h 4\d \\
+3\h \> 5\h 4\d 4\c \-\-\\
+2NT \> Bal (54m22 / 5332) 16+-17\\
+3m \> 55 5 perdantes\\
+3\h \> 6+\h\ 6 levées\\
+3\s \> 6\h 5\s\ 5 perdantes\\
+3NT \> Bal (54m22 / 5332) 16+-17\-\\
+2\h \> Préférence\\
+2\s \> 5\c\ 4\d \\
+2NT \> 5\d , 4/5\c \\
+3\c \> Préférence\\
+3\d \> 6+\d \-\\
+2\d\h \> Nat 12-16\\
+2\s \> Inversée (2NT modérateur)\\
+2NT \> 6\h 4m 17+\+\\
+3\c \> Relais\+\\
+3\d \> 6\h 4\d \\
+3\h \> 6\h 4\c \-\-\\
+3m \> 55 4 perdantes\\
+3\h \> 6+\h , 7 levées\\
+3\s \> 65 4 perdantes\\
+3NT \> Bal 18-19\\
+4m \> 65 sans TDC\\
+4\h \> Sign-off
+\end{bidtable}
+
+\begin{bidtable}
+1\s-1NT--
+\end{bidtable}
+
+\begin{bidtable}
+2\c \> Gazilli : Naturel ou Fort\+\\
+2\d \> 8+ PH, FM si ouvreur fort. Reste plus faible\+\\
+2\h \> 3+\h\ (4\h\ 17+, inversée avec 3\h , 6\s 3\h\ 6 levées ou Bal 15+ avec 3\h )\+\\
+2\s \> Relais\+\\
+2NT \> Bal 15-17 avec 3\h \\
+3\c\d \> 5\s 4m3\h \\
+3\h \> 5\s 4\h \\
+3\s \> 6\s 3\h \\
+3NT \> Bal 18-19 avec 3\h \-\-\\
+2\s \> 5\s 4\c\ 12-14 NF\\
+2NT \> Bal 15-16 sans 3\h \\
+3m \> 54 17+ sans 3\h\ ou 55 5 perdantes\\
+3\h \> 55 5 perdantes\\
+3\s \> 6+\s\ sans 3\h , 6 levées\\
+3NT \> Bal 16+-17 sans 3\h \-\\
+2\h \> 5\h\ court \s\ ou 6+\h \\
+2\s \> Préférence\\
+2NT \> 5\d 4\h\ court \s\ (ensuite 3m préférence NF)\\
+3\c \> Préférence\\
+3\d \> 6+\d \-\\
+2\d\h\s \> Nat\\
+2NT \> 6\s 4x / 6\s 3\h\ 17+\+\\
+3\c \> Relais\+\\
+3\d \> 6\s 4\d \\
+3\h \> 6\s 4\h \\
+3\s \> 6\s 3\h \\
+3NT \> 6\s 4\c \-\-\\
+3\c\d\h \> 55 4 perdantes\\
+3\s \> 6+\s\ sans 3\h , 17+\\
+3NT \> Bal 18-19 sans 3\h \\
+4x \> 65 sans TDC\\
+4\s \> Sign-off
+\end{bidtable}
+
+Après une réponse faible sur un Gazilli, 3x est 5M4x 17+ ou 5M5x 5 perdantes (sauf 3m sur la réponse de 2NT et sur la réponse de 2\s\ après 1\h -1NT), 3M Inv, 2NT Inv avec réponse naturelle et non forcing, 4M clôture.
+
+Sur le soutien simple à 2M, l'ouvreur utilise les enchères d'essai dans les courtes (2NT court \s\ sur 2\h ) et généralisé à 2\s\ (sur 2\h\ : nommer des forces, 2NT force \s ) ou 2NT (sur 2\s , nommer des forces), saut court et TDC, 2NT puis saut long et TDC, courte puis répétition chicane et TDC.
+
+\section{Ouverture de 1NT}
+
+\begin{bidtable}
+1NT\+\\
+2\c \> Stayman\\
+2\d \> Texas \h \\
+2\h \> Texas \s \\
+2\s \> ambigu : 8-9 H REG ou Texas \c\ TODO developpements\\
+2NT \> Texas \d \\
+3X \> NAT 6 cartes, TDC\+\\
+3X+1 \> intéressé, ambigu\-\\
+3NT \> Pour jouer\\
+4\c \> Bic mineur\+\\
+4\d \> fit \d \\
+4\h\s \> fit \c \\
+4NT \> Coup de frein\-\\
+4\d \> Bic M\\
+4\h\s \> Pour jouer\\
+4NT \> Quantitatif\\
+5\c\d \> Pour jouer\-
+\end{bidtable}
+
+\subsection{Stayman}
+
+Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
+Utilisé avec une majeure 5e dans la zone 8-9H.
+
+\begin{bidtable}
+2\c \> TODO
+\end{bidtable}
+
+\subsection{1NT - 2\pdfd\ : Texas \pdfh\ TODO}
+
+Remarques :
+
+\begin{itemize}
+\item Avec 4 cartes à \h\ et minimum, 4333 on rectifie le plus souvent à 3\h\ 
+
+\item avec 4 cartes à \h\ et maximum, on rectifie à 2NT
+
+\end{itemize}
+
+\subsection{1NT - 2\pdfh\ : Texas \pdfs\ TODO}
+
+Remarques :
+
+\begin{itemize}
+\item avec 4 cartes à \s\ et maximum, on rectifie à 2NT
+
+\end{itemize}
+
+\subsection{1NT-2C : Texas \pdfc\ TODO}
+
+\subsection{1NT-2NT : Texas \pdfd\ TODO}
+
+Remarque : L'ouvreur peut moduler son soutien, 3\c\ max fitté et 3\d\ RAS.
+Il est préférable que l'ouvreur ait une tenue à \c\ lorsqu'il répond 3\c .
+
+\section{Ouverture de 2\pdfc}
+
+\subsection{Définition}
+
+\begin{itemize}
+\item FAIBLE en \d\ (constructif VUL et en 1ère et 2ème NV) et 11-13 en 4ème
+
+\item 22-24 BAL
+
+\item GAMBLING solide en \c\ 
+
+\item FM sauf Bicolores Majeurs
+
+\end{itemize}
+
+\begin{bidtable}
+2\c--\+\\
+2\d \> relais\+\\
+Pass \> FAIBLE \d \\
+2\h \> 24+ balancé\\
+\>Bicolore avec au moins 4\h \\
+\>Unicolore \h\ balancé 22-25\+\\
+2\s \> relais\+\\
+2NT \> 25H et + (développements comme sur 2N)\\
+3\c \> 5+\c , =4\h \\
+3\d \> 5+\d , =4\h \\
+3\h \> 5+\h , 4+\c \\
+3\s \> 5+\h , 4+\d \\
+3NT \> Unicolore \h\ Gambling (style régulier avec 6/7\h\ plein et 2 As)\\
+4\c\d \> 6\h /5m moins fort que 3\h\ suivi de 4\c\ (5+/5)\\
+\>Ex: \s\ 2 \h\ ADV987 \d\ 8 \c\ ARDT2\-\-\\
+2\s \> Bicolore avec 4+\s \\
+\>Unicolore \s\ balancé 22-25\+\\
+2NT \> relais\+\\
+3\c \> 5+\c , =4\s \\
+3\d \> 5+\d , =4\s \\
+3\h \> 5+\s , 4+\c \\
+3\s \> 5+\s , 4+\d \\
+3NT \> Unicolore \s\ Gambling\\
+4\c\d \> 6\s /5m moins fort que 3\s\ suivi de 4\c\ (5+/5)\-\-\\
+2NT \> 22+ - 24H\\
+3\c\d \> Unicolores ou bicolore mineur (la collante est ambigue)\\
+3\h\s \> Unicolores irréguliers\\
+3NT \> Gambling \c \\
+4\c\d \> Bicolores 6/5m \h\ (6\h -5\c /\d\ + faible que 2\c -2\d -2\h -2\s -4\c /\d )\\
+4\h\s \> Bicolores 6/5m \s\ (pareil)\-\\
+2\h\s3\c \> F1T (pas forcing en paires !)\\
+\>Nouvelle couleur GF\+\\
+2NT \> Max misfit\\
+3\d \> Min\\
+3x/4x \> Fit, Splinters mains faibles\-\\
+2NT \> Relais F1 avec espoir de manche en face d’un faible à \d \+\\
+3\c \> faible \d\ et une courte\+\\
+3\d \> NF courte s’annonce par paliers si max\\
+\>(=> Passe si min du faible, annonce la courte par palier si max du faible)\-\\
+3\d \> faible \d\ sans courte\\
+3\h \> Max pièce \c /\h , pas de courte\+\\
+3P \> relais\+\\
+3NT \> court \c \\
+4\c \> court \h \-\-\\
+3\s \> Max force sans courte\\
+3NT \> beaux \d\ ARD ou ARVT sans courte\\
+4X \> GF\-\\
+3\d \> 7-11H (Forcing > 4NT si main forte, mêmes dvpts)\\
+3\h\s4\c \> NAT + Fit\-
+\end{bidtable}
+
+\subsection{Avec les mains TRICOLORES, on reparle toujours sur 3NT.}
+
+Ex : \s\ - \h\ ADV8 \d\ ARD98 \c\ ARV10
+(2\c -2\d -2\h -2\s -3\d -3NT-4\c -...)
+
+\subsection{Après interventions}
+
+\begin{itemize}
+\item Contre punitif
+
+\item Toute enchère F1T
+
+\item 2NT R fort
+
+\item Cue demande d'arret
+
+\end{itemize}
+
+\subsection{Après contre}
+
+\begin{itemize}
+\item Passe des \c !
+
+\item Surcontre FORT ou UNICOLORE
+
+\item 2\d\ ambigu
+
+\item Nouvelle couleur F1T
+
+\end{itemize}
+
+\section{Ouverture de 2\pdfd}
+
+\subsection{Définition}
+
+\begin{itemize}
+\item Unicolore FI
+
+\item Bicolore Majeur FI ou FM
+
+\end{itemize}
+
+\begin{bidtable}
+2\d-2\h\\
+2\s \> Montre un bicolore majeur \textbf{+ long à \s }\+\\
+2NT \> Relais\+\\
+3\h \> 5/5 MAJ FI 18-21 PH\\
+3\s \> 6\s /4\h\ FI 18-21 PH\\
+3NT \> 5422 FM\\
+4\c\d \> Tricolore parfait\\
+4\h \> 65 FM\\
+4\s \> 74 FM\\
+3\d \> 5431 FM\\
+3\c \> FM ambigu\+\\
+3\d \> Relais\+\\
+3\h \> 55 FM\\
+3\s \> 64 FM\\
+3NT \> 5413 FM\-\-\-\\
+3\c\d \> Aucun intérêt pour les majeures, naturel (pas belle 6e)\\
+3\h\s \> TDC\\
+4\h\s \> NF\-
+\end{bidtable}
+
+\begin{bidtable}
+2\d-2\h\\
+2NT \> Montre un bicolore majeur \textbf{+ long à \h }\+\\
+3\c \> Relais\+\\
+3\d \> Résidu mineur 31 ou 30\+\\
+3\h \> Relais\+\\
+3\s \> 4513\\
+3NT \> 4531\\
+4X \> 4603 ou 4630\-\-\\
+3\h\\
+3\s \> 65 FM\\
+3NT \> 5422 FM\\
+4\c\d \> Tricolore parfait\\
+4\h \> 74 FM\-\-
+\end{bidtable}
+
+\begin{bidtable}
+2\d-2\h\\
+3\c\d\h\s \> ACOL naturel (=FI) Collante ambigue, éventuellement pour tenter de jouer 3NT de la main forte\+\\
+3\c\+\\
+3\s \> Ambigu\+\\
+3NT \> pour jouer\+\\
+4\h \> TDC avec cue \s \\
+4NT \> Quantitatif\-\-\\
+4X \> Cue, TDC fit \h \-\\
+3NT \> 9-10 plis en \d\ avec au moins 2 grosses pièces extérieures\-
+\end{bidtable}
+
+\begin{bidtable}
+2\d\+\\
+2\s \> Naturel 5 cartes avec deux gros honneurs ou 5/5 correct\\
+3\c\d\h\s \> Transferts pour unicolores Q+ avec 2 gros honneurs\\
+\>Le soutien ou la rectification du texas montre un intérêt pour la couleur du répondant\\
+2NT \> 5/5 Mineur FM\-
+\end{bidtable}
+
+\subsection{Après intervention en 2e}
+
+\subsubsection{Contre}
+
+\begin{itemize}
+\item Punitif si intervention au palier de 2
+
+\item Appel si intervention au palier de 3 ou plus
+
+\end{itemize}
+
+\subsubsection{Passe RAS}
+
+Ensuite, contre de l'ouvreur est punitif au niveau de 2 et montre le bicolore majeur ou une demande d'arrêt au niveau de 3.
+
+\subsubsection{3\pdfc\pdfd\pdfh\pdfs\ Transferts (Transfert cue - Tricolore court)}
+
+\subsubsection{2NT Bicolore mineur}
+
+\subsubsection{Après 2\pdfd\ - X}
+
+\begin{itemize}
+\item Passe : envie de jouer
+
+\item Tout le reste sauf 2\h\ : Naturel
+
+\item XX : Naturel (4 belles cartes, pas 5 ou 6)
+
+\end{itemize}
+
+\subsection{Après intervention en 4e}
+
+\begin{itemize}
+\item PASSE, CUE-BID et ENCHERES A SAUT montrent le BICOLORE MAJEUR JUSQU’À 3\s .
+
+\end{itemize}
+
+\begin{itemize}
+\item CONTRE demande l’arrêt
+
+\end{itemize}
+
+\subsection{Corollaires (à vérifier avec Gazilli !)}
+
+\begin{bidtable}
+1\s-1NT\\
+3\h \> montre un 5=/4= dans la zone 18-21H
+\end{bidtable}
+
+\begin{bidtable}
+1\s-1NT\\
+4\h \> montre un 6/5 de 14 à 17H
+\end{bidtable}
+
+\begin{bidtable}
+1\h-1NT\\
+3\s \> montre un 6/5 de 14 à 17H, c’est NF !
+\end{bidtable}
+
+\section{Ouverture de 2\pdfh\ et 2\pdfs}
+
+Montre une main de 5 à 10PH comportant une couleur 6ème (qualité de la couleur dépend de la position et de la vulnérabilité).
+
+\begin{bidtable}
+2M\+\\
+3/4M \> Prolongation de barrage, 4M est une main faible ou forte qui espère gagner la manche.\\
+2/3X \> Forcing un tour, l'ouvreur donne le fit (xxx ou Hx), répète sa couleur ou dit 3SA.\\
+2NT \> Relais fort\+\\
+2/3X \> FM, Max avec gros honneur.\+\\
+3M \> TDC\+\\
+4Y \> singleton Y\\
+4M \> pas de singleton\-\-\\
+3M \> Mini\\
+3NT \> ARDxxx\\
+4x \> Belle main, singleton X\-\\
+4X \> Rencontre ?\-
+\end{bidtable}
+
+Attention, ``La force prime sur le courte''
+
+\section{Ouverture de 2NT}
+
+Cette ouverture peut contenir une majeure 5e.
+
+\begin{bidtable}
+2NT---\\
+3\c \> Puppet Stayman\\
+3\d \> Texas \h \\
+3\h \> Texas \s \\
+3\s \> Texas pour 3N\\
+3NT \> 5\s\ et 4\h \\
+4\c \> Bicolore mineur TDC\\
+4\d \> Bicolore majeur, limité à la manche ou certitude de chelem
+\end{bidtable}
+
+\subsection{Le Puppet Stayman}
+
+\begin{bidtable}
+2NT-3\c \> ---\\
+3\d \> 4\h\ et/ou 4\s \+\\
+3\h \> 4 cartes à \s \+\\
+3\s \> fit \s \+\\
+4X \> envie de chelem\-\\
+3NT \> 4 cartes à \h\ (il est donc nécessaire de passer par 3\h\ avec\\
+\>les deux majeures 4e et des envies de chelem)\\
+\>4X fit avec envie de chelem\-\\
+3\s \> 4 cartes à \h\ et pas 4 cartes à \s \\
+3NT \> 3-\h\ et 3-\s \\
+4\d \> 4\h\ et 4\s\ sans envie de chelem\-\\
+3\h \> 5\h \\
+3\s \> 5\s \\
+3NT \> 3-\h\ et 3-\s 
+\end{bidtable}
+
+\subsection{Les Texas}
+
+\begin{bidtable}
+2NT---\\
+3\d\+\\
+3\h \> 2\h \\
+3\s \> 5\s\ et 2\h \+\\
+4\c/4\d \> ctrl \c /\d\ et fit \s \\
+4\h/4\s \> Arrêt\-\\
+3NT \> 3+\h\ et ctrl \s \\
+4\c \> 3+\h\ et ctrl \c\ (sans ctrl \s )\\
+4\d \> 3+\h\ et ctrl \d \\
+4\h \> 3+\h\ et tous les ctrl\-
+\end{bidtable}
+
+\begin{bidtable}
+3\h\+\\
+3\s \> 2\s \\
+3NT \> 5\h\ et 2\s \+\\
+4\c/4\d \> ctrl \c /\d\ et fit \h \\
+4\h/4\s \> Arrêt\-\\
+4\c \> 3+\s\ et ctrl \c \\
+4\d \> 3+\s\ et ctrl \d\ (sans ctrl \c )\\
+4\h \> 3+\s\ et ctrl \h \\
+4\s \> 3+\s\ et tous les ctrl\-
+\end{bidtable}
+
+\begin{bidtable}
+3\s\+\\
+3NT\+\\
+4\c/4\d \> Envie ou certitude de chelem à \c /\d . L'ouvreur décourage par 4SA.\\
+4\h/S \> Envie de chelem à \h /\s . L'ouvreur passe ou demande les clés.\\
+\>Avec certitude de chelem, il faut passer par un texas.\-\-
+\end{bidtable}
+
+\subsection{Autres réponses}
+
+\begin{bidtable}
+4\c\+\\
+4\d \> fit \d \\
+4\h \> fit \c\ et ctrl \h \\
+4\s \> fit \c , ctrl \s , pas de ctrl \h \-
+\end{bidtable}
+
+\begin{bidtable}
+4\d \> L'ouvreur choisit sa majeure
+\end{bidtable}
+
+\begin{bidtable}
+4NT \> Minimum, l'ouvreur passe.\\
+\>Maximum, les réponses sont les suivantes :\+\\
+5\c \> 1 ou 4 As\\
+5\d \> 0 ou 3 As\\
+5\h \> 2 As et 5C\\
+5\s \> 2 As et 5D\\
+5NT \> 2 As et pas de min 5e\-
+\end{bidtable}
+
+\section{Les barrages et ouvertures à haut palier}
+
+\subsection{Namyats 4\pdfc/4\pdfd}
+
+Cette ouverture montre une couleur \h /\s\ 8e fermée ou 7e fermée avec un as.
+La rectification à la manche est un arrêt.
+
+L'enchère juste au-dessus montre un intérêt pour le chelem et demande à l'ouvreur de:
+
+\begin{itemize}
+\item Nommer la manche sans as annexe
+
+\item Nommer son as annexe
+
+\end{itemize}
+
+\subsection{3SA}
+
+Mineure 8e fermée sans rien à côté. 
+4/5\c \d\ PoC
+
+\section{Enchères après passe}
+
+TBD
+
+\section{Enchères de chelem}
+
+L'enchère de 4NT est un Blackwood à 5 clés incluant le roi d'atout. L'atout est la couleur explicitement ou implicitement (via cue-bid) fittée ou à défaut la dernière couleur nommée naturellement
+
+\begin{bidtable}
+4NT\+\\
+5\c \> 4 ou 1 clé(s)\\
+5\d \> 3 ou 0 clé(s)\\
+5\h \> 2 clés sans dame d'atout\\
+5\s \> 2 clés avec dame d'atout\\
+5NT \> 1 clé et une chicane\\
+6x \> 2 clés et chicane x utile (ou chicane au-dessus si x = atout)\-
+\end{bidtable}
+
+Sur une réponse 5m, le palier immédiatement supérieur en dehors de l'atout est un relais pour la demande de la dame d'atout et des rois spécifiques.
+Avec la dame d'atout, on nomme économiquement la couleur du premier roi ou 5SA déniant un roi.
+
+Le retour à l'atout au palier le plus économique dénie la dame d'atout. Ensuite, le palier au-dessus demande de nommer les rois dans un ordre économique.
+
+Une autre enchère non-ambigüe explore pour le grand chelem, demandant un complément.
+
+Blackwood d'exclusion : Double saut anormal avec fit précisé !
+
+Une réponse de 5NT avec une zone initiale de 2 pts (par exemple l'ouverture de 2NT) propose de découvrir un fit 4-4 au palier de 6.
+
+En cas de bicolore et sans fit précisé par manque de place, le Blackwood est à 6 clés :
+
+\begin{itemize}
+\item 5H : pas de dame
+
+\item 5S : la dame la moins chère
+
+\item 5NT : la plus chère
+
+\item 6C : les deux
+
+\end{itemize}
+
+Après le BW, 5NT est une demande de roi :
+
+\begin{bidtable}
+5NT\+\\
+Retour \> à l'atout : pas de roi.\\
+6X \> : Roi X ou les deux autres.\\
+6NT \> : Tous les rois.\-
+\end{bidtable}
+
+Sur un 4NT quantitatif :
+
+\begin{bidtable}
+4NT\+\\
+Passe \> mini\\
+5\c \> 4 ou 1 As\\
+5\d \> 3 ou 0 As\\
+5\h \> 2 As et 5\c \\
+5\s \> 2 As et 5\d \-
+\end{bidtable}
+
+Intervention adverse sur le BW :
+
+\begin{itemize}
+\item Passe : 1er palier 
+
+\item X ou XX : 2ème palier
+
+\item Autre :  3ème palier et plus.
+
+\end{itemize}
+
+Intervention adverse sur la réponse de 5m au BW :
+
+\begin{itemize}
+\item Passe : demande de Dame d'atout
+
+\item X ou XX : demande de nommer les Rois.
+
+\end{itemize}
+
+Intervention adverse par contre sur les cue-bids :
+
+\begin{itemize}
+\item Passe : sans contrôle
+
+\item XX : contrôle du premier tour
+
+\item Autre : contrôle du second tour (retour à l'atout = second tour sans autre cue).
+
+\end{itemize}
+
+Intervention adverse en couleur sur les cue-bids :
+
+\begin{itemize}
+\item X : punitif
+
+\item Passe : sans contrôle
+
+\item Autre : souvent court dans la couleur
+
+\end{itemize}
+
+Intervention adverse par contre sur un cue-bid dans une courte connue (Splinter par exemple) :
+
+\begin{itemize}
+\item Passe : pas de contrôle
+
+\item XX : contrôle du premier tour
+
+\item Autre : cue-bid + contrôle du second tour
+
+\end{itemize}
+
+\section{Défense TODO}
+
+\subsection{Sur le SA fort}
+
+\subsection{Sur le SA faible}
+
+\section{Enchères compétitives}
+
+\section{Jeu de la carte TODO
+}
+
+\end{document}

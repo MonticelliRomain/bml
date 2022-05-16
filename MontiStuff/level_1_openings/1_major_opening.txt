@@ -16,7 +16,9 @@
 //1x - X - 2y (au-dessus) : faible ou rencontre ?
 //Cue-bid de l'ouverture majeure : FM ? Développements à discuter
 
-** 2NT Fitté par 3 cartes 11+
+** Fit limite TODO
+
+** 2NT Fitté par 3 cartes FM TODO finir
 
 1M-2N
 3C  12-14 avec une courte
@@ -24,41 +26,8 @@
     3H Court !c
     3S Court !d
     3N Court M'
-  3M Invit
+  3M TODO
 3D 12-14 Pas de courte
-  3M Invit
+  3M TODO
 
-** 3!c Fitté par 4 cartes 11+
-
-1M-3C
-3D  12-14
-  3M Invit
-  3M' Relais
-    3S (sur 3!h) court !h
-    3N Pas de courte
-    4C Court !c
-    4D Court !d
-    4H (sur 3!s) court !s
-
-** 3!d Fitté par 4 cartes 11+
-
-1H-3D
-3S Demande de courte
-  3N Pas de courte
-    4C Court !c
-    4D Court !d
-    4H Court !s
-3N Force à !s
-4CD Forces
-
-1S-3D
-3H Force à !h
-3N Demande de courte
-  4C Court !c
-  4D Court !d
-  4H Court !h
-4CDH Forces
-
-// TODO redondance entre 3 et 4 C dans la séquence
-
-#INCLUDE conventions/gazzili.txt
+#INCLUDE MontiStuff/conventions/gazzili.txt
