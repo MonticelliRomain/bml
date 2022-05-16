@@ -6,6 +6,21 @@
 
 #+DESCRIPTION: 
 
+Description générale.
+Pour rendre les séquences forcing, je propose qu'on joue que toutes enchères au palier de 3 est FM avec au moins un léger espoir de chelem.
+Pas conséquent, l'utilisation de la 4ème forcing a plutot tendance à montrer des mains invitationnelles excepté quelques cas rares.
+Maujeure par 5/ carreau par 4/ NT 15-17
+Ouvertures au palier de 2 Système assez complexe => étude nécessaire
+Fit majeur : 2NT fit FM Fit, différé invit plutot tendance nat  => permet de jouer 2 sur 1M-2x
+Blackwood 3041
+On joue double 2 sur any 1x 1y 1nt je peux te fournir une descritpion détaillée si ça t'intéresse
+développements sur 1NT : 3x nat tdc 2t stay tout texas avec demande de  forve à 2P sans 4 maj 
+Que veulent dire les redemandes à 2C et 2P après 2T??
+développementssur 2NT => puppet faudrait décrire plus en détail toutes les séquences
+Sur 1X 1Y 2NT on sais ce qu'on joue
+Encore pas mal à faire surtout sur les interventions/ systèmes adverses
++ jeu de la cartes
+Gazzili??
 
 
 #INCLUDE 2Clubs.txt
