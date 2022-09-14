@@ -1,0 +1,232 @@
+* Cachalot
+
+** Conditions d'emploi et définition
+
+1. Ouverture d’1 !c ou d’1 !d
+2. Intervention par 1 !d ou 1 !h
+3. Réponse avec au moins 4 cartes dans une majeure
+4. Modification de l’enchère de 1 !s
+
+Le but est de faire jouer le contrat par l’ouvreur et donc le joueur 
+qui est intervenu devra entamer.
+
+1C-1D
+X remplace l'enchère d'1!h
+1H remplace l'enchère d'1!s
+1S remplace le contre d'appel
+1N 8-10H avec tenue
+
+1CD-1H
+X remplace l'enchère d'1!s
+1S remplace le contre d'appel
+1N 8-10H avec tenue
+
+Rem : Après un contre d’appel, il n’y a pas de cachalot
+
+** Attitude de l’ouvreur. Le répondant a 
+nommé une majeure
+
+1. Avec 4 cartes dans la majeure, l’ouvreur exprime son soutien 
+au palier qui convient. (*)
+2. Avec 12-14H régulier, l’ouvreur redemande à 1SA, avec ou 
+sans tenue, avec 2 ou 3 cartes dans la majeure du répondant 
+mais sans 4 cartes à !s (comme sans cachalot).
+3. La rectification au niveau de 1 montre précisément 3 cartes. 
+Elle est forcing, donc illimitée. Ne s’emploie pas si l’ouvreur 
+peut répondre 1SA ou 2SA (2SA promet une tenue)
+
+(*)Rem :
+
+1. 3SA n’est plus un fit 18-19 régulier lorsqu’il y a une intervention. On passe
+par un cue-bid puis on fit.
+2. Les splinters existent mais attention de bien faire jouer le contrat de la 
+bonne main.
+3. l’inversée existe mais dénie 3 cartes dans la majeure du répondant.
+
+1C-1D-X-P
+1H garantit 3 cartes à !h et s’utilise dans 3 situations
+
+1. Avec 4 cartes à !s
+2. Avec une distribution irrégulière ou 2326
+3. Avec 18-19H régulier sans tenue à !d
+Rem : par inférence, 3 !c dénie 3 cartes à !h
+
+1C-1D-1H-P
+1S
+
+1CD-1H-X-P
+1S
+
+Guarantissent 3 cartes à !s et s’utilisent dans 2 situations:
+
+1. Avec une distribution irrégulière ou 3226
+2. Avec 18-19H régulier sans tenue dans la couleur d’intervention
+
+** Développement après une redemande à 1SA
+
+1. Le Roudi fixe reste d’application comme sans intervention
+2.Le Texas qui rallonge la majeure, rectification obligatoire
+
+Avec 5 !s et 4 !h nommer les !h en Texas qui est faible ou FM. 
+Propositionnel, il faut passer par le Roudi fixe.
+
+1C-1D-1H-P
+1N-P-2D
+
+L’ouvreur ne dira 2 !h qu’avec 4 cartes à !h, sinon 2 !s
+
+Rem : le Texas est également employé sur la redemande de 2SA de l’ouvreur
+
+La répétition de la majeure montre exactement 4 cartes et un soutien 
+de 5 cartes forcing de manche dans la mineure d’ouverture
+
+1C-1D-X-P
+1NT-P-2H
+
+1C-1D-1H-P
+1NT-P-2S
+
+** Développements après 1!c-1!d-X-P-1!h
+
+*** Retrouver un soutien !s de la bonne main
+
+1C-1D-X-P
+1H--
+1N 4 cartes à !s, illimité donc forcing
+  2C 12-13H le plus souvent 6 cartes
+    2D demande des précisions (pas obligatoire)
+      2S singleton !d (on donne son résidu)
+      2N pas de singleton mais tenue à !d
+      2H pas de singleton 2326
+      3C singleton !s sans tenue à !d
+  2D fit 18-19H reg ou irreg 17H+
+  2S 12-14H
+  2N 18-19H sans tenue
+  3C 14-16H le plus souvent 6 cartes
+    3D demande des précisions (pas obligatoire)
+      3S résidu donc singleton !d
+      3N tenue à !d singleton !s
+      3H singleton !s sans tenue à !d
+  3S 14-16H, court !d
+  4S 16+-18H, court !d
+  3D 18H+, court !d
+
+*** Le répondant a 5 cartes à !h (sans 4 cartes à !s)
+
+1C-1D-X-P
+1H
+  2D 14H+
+  2H 6-9H
+  3H 9+-11H
+  4H 11+-13H
+
+Rem : L’enchère de 2 !d ne garantit pas 5 cartes à !h, on l’apprendra par la suite
+
+*** Le répondant exprime son soutien à !c
+
+Il promet 5 cartes à !c et dénie 5 cartes à !h
+
+1C-1D-X-P
+1H
+  2C 6-10H
+  3C 11+H FM
+    3N tenue à !d régulier (donc 4 cartes à !s) 
+    3D même distribution mais sans tenue à !s
+    3S résidu donc singleton à !d
+    3H singleton à !s (par inférence)
+
+*** Le répondant utilise le relais à 1 !s
+
+Cette enchère dénie 5 cartes à !h, elle dénie 4 cartes à !s et elle dénie un soutien à !c faible ou fort.
+Elle peut être utilisée avec un soutien limite 10+/11-H à !c
+Demande de renseignements sur la force et la distribution de l’ouvreur.
+
+1C-1D-X-P
+1H-P-1S-P--
+1N 12-14H régulier avec ou sans l’arrêt (et donc il possède 4 !s et 3 !h)
+2C 12-14H 5 ou 6 cartes à !c irrégulier (ou 6322)
+2D FM, 17H+ régulier sans tenue, ou unicolore !c
+2S Bicolore cher, 17H+
+3C 6 cartes à !c, 14-16H
+
+*** Le répondant utilise le cue-bid à 2 !d
+
+Cette enchère est FM. Elle dénie 4 cartes à !s
+S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !s et 14H+ (voir avant).
+
+** Développements après 1!c-1!d-1!h-P-1!s
+
+*** Exprimer un soutien !s
+
+Le répondant possède donc 5 cartes à !s
+
+1C-1D-1H-P
+1S--
+2D 14H+
+2S 6-9H
+3S 9+-11H
+4S 11+-13H
+
+*** Exprimer son soutien à !c
+
+Il promet 5 cartes à !c et dénie 5 cartes à !s
+
+1C-1D-1H-P
+1S--
+2C 6-10H
+3C 11H+ FM
+
+*** Exprimer 4 cartes à !h
+
+L’enchère de 2 !h est naturelle, toute zone et donc forcing pour un tour.
+Naturel, forcing illimité 6H+
+
+1C-1D-1H-P
+1S-P-2H-P--
+2S 12/14H irrégulier (ou 3226)
+2N 18/19H régulier sans tenue !d (on jouera à !s une manche ou plus)
+3C 15H+ irrégulier
+3D 4 cartes à !h, 17H+
+3H 4 cartes à !h, 12/13H
+4H 4 cartes à !h, 14/16H
+
+***  Le relais à 1SA
+
+Relais forcing un tour sans enchère naturelle. Dénie 5 cartes à !s et dénie 4 cartes à !h. 
+Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
+
+1C-1D-1H-P
+1S-P-1N-P--
+2C irreg ,11/14H, 5 ou 6 cartes à !c (3226 possible)
+2D irreg ,17H+ sans 4 cartes à !h
+2H irreg ,17H+ naturel bicolore cher
+2S irreg ,15/16H, 5 cartes à !c . Non forcing (singleton !d ou !h mais on devrait pouvoir le deviner)
+2N reg, 18/19H sans tenue à !d
+3C irreg ,15/16H, 6 cartes à !c
+  3D relai
+    3H (résidu) avec singleton !d
+    3S avec singleton !h
+
+*** Le cue-bid à 2 !d
+
+Soit un soutien !s 14H+
+Soit une main régulière, FM sans tenue à !d
+
+1C-1D-1H-P
+1S-P-2D-P--
+2H résidu 3 ou 4 cartes à !h et donc cours à !d 
+2S montre 6322 sans tenue à !d
+2N tenue à !d, 6322 ou singleton !h possible.
+3C courte à !h sans tenue !d
+3D 18-19H régulière sans tenue !d
+
+** Développements après 1!c-1!h-X-P-1!s
+
+Peu de modifications par rapport à la séquence
+1C-1D-1H-P
+1S
+
+Les enchères de soutiens et le relais à 1SA restent inchangés.
+Le cue-bid des deux joueurs s’exprime par l’enchère de 2!h
+L’enchère de 2!d est un bicolore cher chez l’ouvreur et non forcing, canapé avec 4!s 5+!d chez le 
+répondant.

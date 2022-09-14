@@ -9,8 +9,11 @@
 // Here are the level 1 openings
 
 #INCLUDE level_1_openings/1_minor_opening.txt
+#INCLUDE conventions/2_1FM.txt
 #INCLUDE level_1_openings/1_major_opening.txt
-#INCLUDE level_1_openings/1_notrump_opening.txt
+#INCLUDE conventions/cachalot.txt
+#INCLUDE level_1_openings/1_notrump_opening_with_major5.txt
+#INCLUDE defenses/defense_on_1_nt.txt
 
 // Level 2 openings
 
@@ -24,6 +27,5 @@
 #INCLUDE preempts/preempts.txt
 #INCLUDE bidding_after_pass/bidding_after_pass.txt
 #INCLUDE slam_bidding/slam_bidding.txt
-#INCLUDE defenses/defense.txt
 #INCLUDE competitive_bidding/competitive_bidding.txt
 #INCLUDE cardplay/cardplay.txt

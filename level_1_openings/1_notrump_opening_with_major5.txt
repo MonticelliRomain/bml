@@ -1,0 +1,206 @@
+* Ouverture de 1NT
+
+L’ouverture de 1SA se fait avec une main régulière de 15-17H. 
+Les mains 5m-4!h22 et 54m22 de 15-17H sont également recommandées pour cette 
+ouverture.
+Elle peut comporter une majeure cinquième de 15-16H dans une main régulière. Il est 
+conseillé alors que le doubleton comporte un honneur. L’autre majeure troisième est un plus 
+également
+
+1N
+  2C Stayman // tentative de commentaire
+  2D Texas !h
+  2H Texas !s
+  2S ambigu : 8-9 H REG ou Texas !c
+  2N Texas !d
+  3C Puppet Stayman
+  3D 6 belles !d, 6-7 H sans singleton, NF.
+  3H  5/4m court !h, FM
+  3S 5/4m court !s, FM
+  3N Pour jouer
+  4C Bic mineur
+    4D fit !d
+    4HS fit !c
+    4N Coup de frein
+  4D  Bic M : certitude de manche ou de chelem
+  4HS  Pour jouer
+  4N  Quantitatif
+  5CD  Pour jouer
+
+** Stayman
+
+ Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
+  Utilisé avec une majeure 5e dans la zone 8-9H.
+
+1NT-2C
+2D Pas de majeure 4e
+  2H Misère dorée : 8-9H et 5!h
+  2S Misère dorée : 8-9H et 5!s
+  2N 8-9HL, NF
+  3CD 5!c/!d, FM, problème pour 3SA ou TDC
+  3H 5!s/4!h, FM
+  3H 5!h/4!s, FM
+  4m BIC M TDC, court m
+    4M coup de frein
+    4N BW !h
+  4N Quantitatif
+
+2H 
+  2S Misère dorée : 8-9H et 5!s
+  2N 8-9HL, NF
+  3CD 5!c/!d, FM, problème pour 3SA ou TDC
+  3H fit !h NF
+  3S Fit !s TDC
+  4CD Splinter
+  4N Quantitatif
+2S
+  2N 8-9HL, NF. L'ouvreur dit 3!h max avec 3!h pour retrouver le fit en cas de misère dorée
+  3CD 5!c/!d, FM, problème pour 3SA ou TDC
+  3H fit !s TDC
+  3S Fit !s NF
+  4CD Splinter
+  4N Quantitatif
+2NT
+  3C Texas !h 
+  3D Texas !s
+  3H TDC
+  3S TDC
+  4C Texas !h
+  4D Texas !s
+  4HS to play 
+
+// Quand utiliser quelle réponse ? 4C Texas !h, 4D Texas !s 4CS to play
+
+** 1NT - 2!d : Texas !h
+
+Remarques : 
+
+- Avec 4 cartes à !h et minimum, 4333 on rectifie le plus souvent à 3!h
+- avec 4 cartes à !h et maximum, on rectifie à 2NT 
+
+1NT-2D
+2C
+  2S Bicolore 5!h/5x dans la zone 6-7H pour trouver une manche miracle
+    2N Relais 
+      3C !h/!c 
+      3D !h/!d 
+      3H !h/!s 
+  2N Relais FM. Soit BIC 5!h/4m, soit Unicolore !h TDC 
+    3C 2 cartes à !h
+      3D Singleton !s 
+        3H 
+          3S les !c
+          3N les !d NF
+          4C les !d Forcing
+      3H Singleton !c 
+      3S singleton !d 
+      3N 5!h4m22 honneurs concentrés
+      4CDH contrôle, unicolore !h TDC
+    3H 3 cartes, pas intéressé par m donc sans 4m 
+  3m BIC 5+!h/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3S/4C/4D Splinter
+  4N Quantitatif 16-17 HL - 5332
+
+** 1NT - 2!h : Texas !s
+
+Remarques : 
+
+- avec 4 cartes à !s et maximum, on rectifie à 2NT 
+
+1NT-2H
+2S
+  2N Relais FM. Soit BIC 5!s/4m, soit Unicolore !s TDC 
+    3C 2 cartes à !h
+      3D Singleton !h 
+        3H 
+          3S les !c
+          3N les !d NF
+          4C les !d Forcing
+      3H Singleton !c 
+      3S singleton !d 
+      3N 5!s4m22 honneurs concentrés
+      4CDH contrôle, unicolore !s TDC
+    3S 3 cartes, pas intéressé par m donc sans 4m 
+  3m BIC 5+!s/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3H BIC majeur fort
+  3S/4C/4D Splinter
+  4N Quantitatif 16-17 HL - 5332
+
+** 1NT-2S : Texas !c ou 8-9H régulier
+
+1NT-2S
+2N mini 
+  P 8-9H réguliers 
+  3C SO 
+  3D 5/5 mineur FM 
+  3H singleton !s 
+  3S singleton !h
+  3N singleton !d
+  4D singleton !d ambition de chelem 
+  4H 6!c/5!h NF 
+  4S 6!c/5!s NF 
+3C maxi 
+  3N 8-9 réguliers 
+  3D singleton !d ou 5/5 mineur 
+    3H relais 
+      3S 5/5 mineur 
+      3N singleton !d
+      4D singleton !d ambition de chelem
+  3H singleton !s
+  3S singleton !h
+  4H 6!c/5!h NF 
+  4S 6!c/5!s NF 
+
+** 1NT-2NT : Texas !d
+
+Remarque : L'ouvreur peut moduler son soutien, 3!c max fitté et 3!d RAS.
+Il est préférable que l'ouvreur ait une tenue à !c lorsqu'il répond 3!c.
+
+1NT-2N
+3D
+  P 0-6 HL 
+  3H singleton !s
+  3S singleton !h 
+  3N singleton !c
+  4C TDC !d, singleton !c 
+  4D TDC !d sans singleton
+  4H 6!c/5!h NF 
+  4S 6!c/5!s NF 
+3C maxi 
+  3D 0-6HL
+  3H singleton !s
+  3S singleton !h
+  3N singleton !c
+  4C TDC !d, singleton !c 
+  4D TDC !d sans singleton
+  4H 6!c/5!h NF 
+  4S 6!c/5!s NF 
+
+** 1NT-3!c : Puppet Stayman 
+
+Remarque importante
+
+- Forcing manche
+- Ne s'emploie pas avec des mains comportant un singleton 
+- Ne s'emploie pas avec les 2 maheures 4e 
+
+1N-3C 
+3D 0, 1 ou 2 majeures 4e
+  3H 4!s. L'ouvreur avec 4!s fit en disant 3!s (3SA = camouflage)
+  3S 4!h
+  3N pas de majeures 4e, pour jouer 
+  4CD 5 cartes 15+, 5332
+3H 5 cartes à !h 
+  3S ambition de chelem à !h 
+  3N pour jouer 
+  4CD 15+, 5332
+3S 5 cartes à !s 
+  4H ambition de chelem à !s 
+  3N pour jouer
+  4CD 15+, 5332
+
+** 1NT-3!h/!s : 5/4 mineurs court !h/!s
+
+Bicolore mineurs 5/4 avec une courte dans la couleur annoncée, forcing manche avec au 
+moins 9H. L’ouvreur donne 3SA avec au moins 1 arrêt et demi dans la couleur de la courte.
+Sinon, il se décrit naturelle. Il peut même fitter le résidu s’il possède cette majeure 5ième

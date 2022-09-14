@@ -1,0 +1,278 @@
+* Le 2 sur 1 FM
+
+Notre étude est limitée à l’ouverture en majeure. 
+Donc à faire/ définir : 1 !d -2 !c
+Note : 
+L’ancien système reste évidemment après une ouverture en 3ième puisque le 2/1 FM promet 
+l’ouverture et que le n°1 a passé
+
+** Introduction
+
+Les enchères non forcing en standard francais
+
+1S-2C
+2D-2S
+
+1S-2C
+2H-2N
+
+1S-2C
+2D-3C
+
+Une constante : le répondant a enchéri exactement 11H(L)
+
+Les changements:
+
+1. 1SA va jusque 11H
+2. Le changement de couleur 2 sur 1 promet la valeur d’une ouverture
+3. Le changement de couleur à saut au niveau de 3 est limite
+
+Remarques:
+
+1. Si on considère que l’on aurait ouvert une main ne comportant que 11H, il faut 
+l’assimiler à un 2/1 FM
+2. A l’inverse, l’évaluation de la main est « rétroactive ». On aurait ouvert cette main 
+mais lorsque le partenaire ouvre d’1 !h, la chicane est dévaluée et donc il faut la 
+considérer comme une non-ouverture et dire 1SA
+
+** 1SA va jusque 11
+
+La réponse de 1SA est agrandie à la zone 6-11H. 
+Ses conditions d’emploi sont inchangées. 
+L’enchère est définie comme « semi-forcing ».
+
+*** Attitude de l'ouvreur
+
+Une seule modification : il ne passe pas avec 14H régulier et nomme sa 
+première mineure de 3 cartes (voir corrolaires gazzili ?)
+
+*** Attitude du répondant
+
+Quand le répondant a répondu 1SA dans la zone 10/11H, il doit ensuite 
+le signaler
+
+1. Par une enchère impossible
+2. Par l’enchère de 2SA
+
+** Le saut au niveau de 3
+
+Nommer sa couleur avec saut avec une belle couleur 6ième et 11H(L). 
+L’expression de ce saut est non forcing. Il dénie l’autre majeure 4ième
+Rem : si on a passé d’entrée, ces enchères sont des rencontres.
+
+Conséquence : répétition de la couleur du répondant
+Minimum 14H avec 2 gros honneurs dans une couleur au moins 6ième
+
+** Les nouveaux soutiens directs
+
+1H--
+2H 8-10DH (dans la zone 5-7DH répondre 1 !s ou 1SA)
+3H 8-10DH - 4 atouts (évitez 8H – 4333)
+2N 11-14DH – 3 ou 4 atouts, en-dessous du 2/1 FM
+3N 13-14H - 4 ou 5 atouts, sans singleton (rarement 16DH)
+3S/4C/4D 7-10H - Splinter : 5 atouts – 2 cartes clés
+
+*** La séquence 1M – 2SA
+
+Enchère charnière où il est possible de s’arrêter avant la manche mais également de la déclarer en 
+face d’un ouvreur minimum.
+
+**** Attitude de l’ouvreur après la séquence 1M-2SA
+
+1. Il freine à 3M avec 12/13H réguliers ou 11/13H avec honneur singleton.
+Rem : le répondant avec 13/14DH peut nommer l’autre majeure 4ième pour retrouver un fit 4-4
+ ex : 1 !h - 2SA – 3 !h - 3 !s ou 1 !s - 2SA – 3 !s - 4 !h
+2. Il saute à 4M dans la zone au-dessus de 3M, également avec 6 cartes en M ou bicolore 5-5 sans 
+espoir de chelem
+3. 3SA avec 5332 de 14 à 18H (attention à un petit doubleton) 
+4. Nomme l’autre majeure de 4 cartes, toute zone (sauf 11/12H et 5422)
+5. Nomme une mineure de 4 cartes à partir de 17H, ambitions de chelem (peut-être dans la 
+mineure. Celle-ci doit donc être de bonne qualité.
+Cas rare : 3 !c avec 18/19H réguliers (donc même dans 2 cartes !)
+
+*** Le 2 sur 1 FM
+
+**** Le fit différé au niveau de 2
+
+1. Exprime un soutien d’au moins 3 cartes dans la majeure 
+d’ouverture dans une zone 16DH+ (15+
+DH).
+2. Le plus souvent avec une distribution régulière ou un 
+problème de qualité ou de longueur, soit dans la mineure soit 
+à l’atout.
+3. 2 !c peut se faire avec 2 cartes
+2 !d avec au moins 4 cartes, plutôt cinq
+2 !h toujours 5 cartes mais à éviter avec un soutien !s. (si 
+l’ouvreur soutient les !h, on jouera à !h)
+
+Demande des renseignements essentiellement distributionnels sur 
+la main de l’ouvreur.
+
+**** Séquences après 1M – 2 !c
+
+1S-2C
+2D-2S--
+2N 14H+ avec les mains qui ne correspondent pas aux autres enchères
+  3C Relais
+    3D singleton le moins cher
+    3H singleton le plus cher
+    3S 17H+, 5422
+    3N 14-16H, 5422
+3C ctrl d’honneur, As ou le Roi à !c, singleton !h
+3D 5 !s et 5 !d 12-14H, avec 15H+ dire 3 !d sur 2 !c
+3H ctrl d’honneur, As ou le Roi à !h, singleton !c
+3S 6 !s et 4 !d
+3N 5242 – 11/13H
+4C Splinter !c, sans ctrl !h - 11/13H
+4H Splinter !h, sans ctrl !c - 11/13H
+
+1S-2C
+2H-2S--
+2N 14H+ avec les mains qui ne correspondent pas aux autres enchères
+  3C Relais
+    3D singleton le moins cher
+    3H singleton le plus cher
+    3S 17H+, 5422
+    3N 14-16H, 5422
+3C ctrl d’honneur, As ou le Roi à !c, singleton !d
+3D ctrl d’honneur, As ou le Roi à !d, singleton !c
+3H 5 !s et 5 !h 
+3S 6 !s et 4 !h
+3N 5422 – 11/13H
+4C Splinter !c, sans ctrl !d - 11/13H
+4H Splinter !d, sans ctrl !c - 11/13H
+
+1H-2C
+2D-2H--
+2N 14H+ avec les mains qui ne correspondent pas aux autres enchères
+  3C Relais
+    3D singleton !c
+    3H singleton !s
+    3S 17H+, 5422
+    3N 14-16H, 5422
+2S ctrl d’honneur, As ou le Roi à !s, singleton !c
+3C ctrl d’honneur, As ou le Roi à !c, singleton !s
+3D 5 !h et 5 !d
+3H 6 !h et 4 !d 
+3S Splinter !s, sans ctrl !c - 11/13H
+3N 2542 – 11/13H
+4C Splinter !c, sans ctrl !s - 11/13H
+
+2N
+
+Une certitude, le répondant n’a pas 3 cartes à !s. 
+L’enchère exprime une distribution régulière ou semi-régulière (voir 2 séquences plus bas)
+
+1S-2C
+2D--
+2N Sans tenue !h, il utilise la 4ième couleur forcing à 2 !h.
+  3C 5143
+  3D 55 
+  3H 5341 
+  3S 64
+  3N 5242 limité à 16H
+  4N 5242 17/18H 
+  5N 5242 19/20H
+
+1S-2C
+2H--
+2N Pas nécessairement l’arrêt !d
+  3C 5413
+  3D 5431 
+  3H 55 
+  3S 64
+  3N 5422 limité à 16H
+  4N 5422 17/18H 
+  5N 5422 19/20H
+
+
+
+1S-2C--
+2S  L’enchère de 2 !s ne peut exprimer que 2 distributions : 5332 ou 6 cartes à !s.
+    Avec 6 très beaux !s, à partir de 14H, l’ouvreur saute à 3 !s
+  2N Relais avec au moins 2 cartes à !s. L’enchère exprime une distribution régulière ou semi-régulière
+    3C 6 !s et singleton !c
+    3D 6 !s et singleton !d
+    3H 6 !s et singleton !h
+    3S 6322
+    3N 5332
+  3C Unicolore, ambition de chelem
+  3DH Tendance naturelle, bicolore ou sans tenue dans la 4ième, singleton !s très fréquent.
+  3S Soutien forcing, beaux !c et au moins 2 honneurs à !s
+  3N 12-15H, singleton !s, les 2 autres couleurs sont tenues.
+  4C 5 !c 4 !s 13-15DH et singleton moins cher
+  4D 5 !c 4 !s 13-15DH et singleton plus cher
+  4S 5 !c 4 !s 13-15DH, honneurs concentrés régulier
+
+1S-2C
+2D--
+3H 6-5 forcing
+4H 6-5 non forcing
+
+1S-2C--
+3C L’enchère de 3 !c est obligatoire avec 4 cartes à !c. 
+  3S  L’enchère de 3 !s impose l’atout !s et montre une plus belle main que 4 !s.
+      L’ouvreur précise sa distribution et ses ctrl d’honneur des les couleurs courtes.
+    3N 5431, pas de ctrl du résidu. 
+      4C relais
+        4D singleton moins cher
+        4H singleton plus cher
+    4C 5422, 14H+
+    4D ctrl d’honneur à !d, courte à !h
+    4H ctrl d’honneur à !h, courte à !d
+    4S 5422, 11-13H
+
+Rem:
+
+1S-2C
+3N 6 beaux !s et 4 beaux !c
+
+**** Séquences après 1 !s – 2 !h
+
+1S-2H
+2S-2N--
+3C 5 !s 4+ !c
+3D 5 !s 4+ !d
+3H 6 !s et singleton !h
+3S 6 !s régulier
+3N 5233 exactement
+4C 6 !s et singleton !c
+4D 6 !s et singleton !d
+
+1S-2H--
+3H 11H+, 3 ou 4 cartes à !h
+4H 5422, 11-13H, plutôt des points perdus dans les mineures (très faible)
+4CD Splinter atténué, environ 3 cartes clés
+3N Splinter fort, 5 cartes clés 
+2N 
+  ()
+    4CD 17H-19H régulier et 4 cartes à !h (donc 5422)
+    4H 17H-19H régulier et 3 cartes à !h
+    4N 18-19H et 2 cartes à !h
+
+**** Séquences dérivées après 1!h d’ouverture
+
+1H-2C-2S-- S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
+2N  main régulière avec au moins 2 cartes à !h (peut cacher un soutien !h)
+  3C 5413
+  3D 5431 
+  3H 64
+  3S 5422 15H+ : seule enchère conventionnelle !
+  3N 5422 12-14H 
+3S 14h+
+  3N OUI mais : pas minimum avec un problème pour nommer un ctrl.
+  4CDH Ctrl
+  4S minimum
+4S 12-13H+
+
+1H-2C-2H--
+2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). L’atout !s n’est plus recherché.
+  2N promet une tenue à !d.
+  3H 6 cartes. 
+  3C 3 cartes ou un honneur second sans tenue à !d
+  3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes (ou l’As pour jouer de la bonne main
+2N main régulière avec au moins 2 cartes à !h (relai qui ne promet pas d'arrêt)
+  3C 6 !h et singleton !c
+  3D 6 !h et singleton !d
+  3H 6322
+  3N 5332
