@@ -57,12 +57,12 @@
   3D 7-11H (Forcing > 4NT si main forte, mêmes dvpts)
   3HS4C NAT + Fit
 
-** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
+Avec les mains TRICOLORES, on reparle toujours sur 3NT.
 
   Ex : !s - !h ADV8 !d ARD98 !c ARV10
   (2!c-2!d-2!h-2!s-3!d-3NT-4!c-...)
   
-** Après interventions
+** Après intervention
   
   - Contre punitif
   - Toute enchère F1T

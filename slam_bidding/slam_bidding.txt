@@ -7,8 +7,8 @@
     5D 3 ou 0 clé(s)
     5H 2 clés sans dame d'atout
     5S 2 clés avec dame d'atout
-    5N 1 clé et une chicane
-    6x 2 clés et chicane x utile (ou chicane au-dessus si x = atout)
+    5N nombre impair de clé et une chicane
+    6x nombre pair de clés et chicane x utile (ou chicane au-dessus si x = atout)
 
   Sur une réponse 5m, le palier immédiatement supérieur en dehors de l'atout est un relais pour la demande de la dame d'atout et des rois spécifiques.
   Avec la dame d'atout, on nomme économiquement la couleur du premier roi ou 5SA déniant un roi.
@@ -44,16 +44,7 @@ Après le BW, 5NT est une demande de roi :
     5H 2 As et 5!c 
     5S 2 As et 5!d 
 
-Intervention adverse sur le BW :
-
-  - Passe : 1er palier 
-  - X ou XX : 2ème palier
-  - Autre :  3ème palier et plus. 
-  
-Intervention adverse sur la réponse de 5m au BW :
-
-  - Passe : demande de Dame d'atout
-  - X ou XX : demande de nommer les Rois. 
+To do : DOPI/ROPI
 
 Intervention adverse par contre sur les cue-bids : 
 

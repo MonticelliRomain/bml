@@ -152,7 +152,7 @@ Demande de renseignements sur la force et la distribution de l’ouvreur.
 *** Le répondant utilise le cue-bid à 2 !d
 
 Cette enchère est FM. Elle dénie 4 cartes à !s
-S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !s et 14H+ (voir avant).
+S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !h et 14H+ (voir avant).
 
 ** Développements après 1!c-1!d-1!h-P-1!s
 

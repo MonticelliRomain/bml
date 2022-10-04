@@ -100,8 +100,8 @@ DH).
 2. Le plus souvent avec une distribution régulière ou un 
 problème de qualité ou de longueur, soit dans la mineure soit 
 à l’atout.
-3. 2 !c peut se faire avec 2 cartes
-2 !d avec au moins 4 cartes, plutôt cinq
+3. 2 !c peut se faire avec 2 cartes.
+2 !d avec au moins 4 cartes, plutôt cinq.
 2 !h toujours 5 cartes mais à éviter avec un soutien !s. (si 
 l’ouvreur soutient les !h, on jouera à !h)
 
@@ -158,10 +158,10 @@ la main de l’ouvreur.
 3N 2542 – 11/13H
 4C Splinter !c, sans ctrl !s - 11/13H
 
-2N
-
-Une certitude, le répondant n’a pas 3 cartes à !s. 
-L’enchère exprime une distribution régulière ou semi-régulière (voir 2 séquences plus bas)
+1S-2C
+2x--
+2N Une certitude, le répondant n’a pas 3 cartes à !s. 
+  L’enchère exprime une distribution régulière ou semi-régulière (voir 2 séquences plus bas)
 
 1S-2C
 2D--
@@ -189,8 +189,10 @@ L’enchère exprime une distribution régulière ou semi-régulière (voir 2 s�
 
 1S-2C--
 2S  L’enchère de 2 !s ne peut exprimer que 2 distributions : 5332 ou 6 cartes à !s.
-    Avec 6 très beaux !s, à partir de 14H, l’ouvreur saute à 3 !s
-  2N Relais avec au moins 2 cartes à !s. L’enchère exprime une distribution régulière ou semi-régulière
+    Avec 6 très beaux !s, à partir de 14H, l’ouvreur saute à 3 !s.
+    Si il est 5332, il est limité a 14H.
+  2N Relais avec au moins 2 cartes à !s. 
+    L’enchère exprime une distribution régulière ou semi-régulière
     3C 6 !s et singleton !c
     3D 6 !s et singleton !d
     3H 6 !s et singleton !h
@@ -203,6 +205,7 @@ L’enchère exprime une distribution régulière ou semi-régulière (voir 2 s�
   4C 5 !c 4 !s 13-15DH et singleton moins cher
   4D 5 !c 4 !s 13-15DH et singleton plus cher
   4S 5 !c 4 !s 13-15DH, honneurs concentrés régulier
+2N 5332 15+
 
 1S-2C
 2D--
@@ -212,7 +215,7 @@ L’enchère exprime une distribution régulière ou semi-régulière (voir 2 s�
 1S-2C--
 3C L’enchère de 3 !c est obligatoire avec 4 cartes à !c. 
   3S  L’enchère de 3 !s impose l’atout !s et montre une plus belle main que 4 !s.
-      L’ouvreur précise sa distribution et ses ctrl d’honneur des les couleurs courtes.
+      L’ouvreur précise sa distribution.
     3N 5431, pas de ctrl du résidu. 
       4C relais
         4D singleton moins cher

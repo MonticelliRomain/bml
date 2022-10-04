@@ -7,7 +7,7 @@
 
   1C---
   1D   3 possibilités : 
-       4+!d et inv+
+       5+!d et inv+
        5+!d, 3-!h!s et 6-10H
        BAL 5-7H et 3-!h!s
   1H   !h/4+ (possibilité de !d plus longs que !h si <11h)
@@ -15,8 +15,8 @@
   1N   8-10 3-!h!s
   2C   FMI : fit !c, 10+ (voir développements plus loin)
   2D   6+!d (et 2GH), 18H+
-  2H   5+!s 4+!h, 5-8H, idem sur 1!d
-  2S   5+!s 4+!h, 9-10H, idem sur 1!d
+  2H   5+!s 4+!h, 5-9H, idem sur 1!d
+  2S   5+!s 4+!h, 10-11H, idem sur 1!d
   2N	 11-12 BAL (3!c NF, reste FM)
   3C	 5!c, main irrégulière ~5-9 H
   3X	 Barrage 7 cartes
@@ -79,6 +79,22 @@
      
 ** La séquence 1m - 2!h
 
+1m-2H 5+!s 4+!h 5-9
+  2S Nat NF
+  2N Relay
+    3C Mini
+      3D Relay
+        3H 54
+        3S 55
+        3N 64
+    3D Max 54
+    3H Max 55
+    3S Max 64
+  3C Nat NF
+  3D Nat NF
+  3M Invit
+  3N Nat
+
 ** La séquence 1m - 2!s
 
 ** La séquence 1!d - 2!c
@@ -97,3 +113,4 @@
 #INCLUDE conventions/minor_inverted_fit.txt
 
 ** Enchère du répondant après une inversée
+
