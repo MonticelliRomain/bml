@@ -10,6 +10,7 @@
 
 #INCLUDE level_1_openings/1_minor_opening.txt
 #INCLUDE conventions/2_1FM.txt
+#INCLUDE conventions/gazzili.txt
 #INCLUDE conventions/cachalot.txt
 #INCLUDE level_1_openings/1_notrump_opening_with_major5.txt
 #INCLUDE defenses/defense_on_1_nt.txt
