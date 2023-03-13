@@ -1,0 +1,12 @@
+* Défense sur les ouvertures Multi
+
+Principe général sur les ouvertures de type Multifonction :
+    - X montre soir 12-15 semi-balancé, soit 16+ si irrégulier ou 20+ si balancé.
+    - Passe puis X est d'appel- L'annonce de la couleur adverse (si une seule couleur connue) est d'appel (style tricolore, 4441/5431) ou bicolore cher).
+    - 2X est naturel avec l'ouverture.
+    - 3X est naturel avec 7-8 levées.
+    - 2SA est balancé 16-19 avec arrêt(s).
+    - Ensuite, sur un X d'appel et une enchère adverse en 3è, X est d'appel (du saut et transformable).
+
+En pratique :
+
