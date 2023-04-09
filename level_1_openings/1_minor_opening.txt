@@ -60,8 +60,8 @@
   2N pas de fit
     3C réponses dans l'ordre, style Baron
       3D 5m
-      3M 3M
-      3M' 4M'
+      3M 3cM
+      3M' 4cM'
       3N aucun des cas précédents
     3D fit dans la m (FM ou TDC)
     3M NAT NF
@@ -97,6 +97,8 @@
 
 ** La séquence 1m - 2!s
 
+Cfr 1m-2!h
+
 ** La séquence 1!d - 2!c
 
   1D-2C;
@@ -113,4 +115,32 @@
 #INCLUDE conventions/minor_inverted_fit.txt
 
 ** Enchère du répondant après une inversée
+
+Pour s'arrêter à une partielle après une inversée de l'ouvreur, le répondant dispose de deux enchères :
+
+- La répétition de sa couleur au niveau de 2 montrant 6 cartes (parfois 5, en cas de distribution 5521 ou belle couleur).
+  La plupart du temps, l'ouvreur passera.
+
+  Cependant, il dispose de trois enchères non forcing :
+    1. 2SA avec l'arrêt dans la dernière couleur (et probablement un complément dans la couleur du répondant).
+    2. Le soutien au palier de 3, invitationnel.
+    3. La répétition de sa couleur d'ouverture.
+  Toutes les autres enchères sont FM.
+
+- L'enchère conventionnelle de 2NT (Lebensohl, transfert pour 3!c) : main faible ou une main avec 5 cartes en majeure si celle-ci est répétable au niveau de 2.
+L'ouvreur rectifiera le transfert sauf s'il est maximum. Il se décrira alors le plus naturellement possible, rendant la séquence FM.
+Après la rectification du transfert, le répondant :
+
+  1. Passe s'il souhaite jouer 3!c
+  2. Corrige à 3!d, 3!h ou 3!s SO (sauf répétition de la couleur de réponse)
+  3. Répète, le cas échéant, sa couleur au niveau de 3 avec 5 cartes pour laisser l'ouvreur choisir la manche adéquate (voir exemple)
+  4. Enchérit la manche avec des mains ayant eu de très ténus espoirs de chelem
+
+N AQ642 T52 K86 J5
+
+  1C-1S 
+  2H-2N
+  3C-3S
+
+
 

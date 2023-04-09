@@ -1,8 +1,10 @@
 * Défense sur les ouvertures Multi
 
 Principe général sur les ouvertures de type Multifonction :
-    - X montre soir 12-15 semi-balancé, soit 16+ si irrégulier ou 20+ si balancé.
-    - Passe puis X est d'appel- L'annonce de la couleur adverse (si une seule couleur connue) est d'appel (style tricolore, 4441/5431) ou bicolore cher).
+
+    - X montre soit 12-15 semi-balancé, soit 16+ si irrégulier ou 20+ si balancé.
+    - Passe puis X est d'appel.
+    - L'annonce de la couleur adverse (si une seule couleur connue) est d'appel (style tricolore, 4441/5431) ou bicolore cher).
     - 2X est naturel avec l'ouverture.
     - 3X est naturel avec 7-8 levées.
     - 2SA est balancé 16-19 avec arrêt(s).
@@ -10,3 +12,29 @@ Principe général sur les ouvertures de type Multifonction :
 
 En pratique :
 
+** 2!c multi (les deux M faibles ou fort)
+
+    - X 12-15 semi-balancé ou fort irrégulier ou 20-22 balancé
+    - 2!d naturel
+    - 2M semi-saturel (4+ cartes, voire 3 belles) 13-17
+    - 2NT semi-balancé 16-19 avec arrêts majeurs
+    - 3X NAT 7/8 levées
+    - 3SA pour jouer
+    - Passe puis 2SA avec les mineures (5+ 4+)
+    - Passe puis 3SA bicolore m très distribué
+
+** 2!d Multi (unicolore M faible ou fort)
+
+    - X 12-15 semi balancé, en principe 3+ 3+ dans les M, ou fort
+    - 2M naturel
+    - 2NT semi-BAL 16-19 avec les arrêts majeurs
+    - 3X naturel, 7-8 levées
+    - Passe puis X d'appel
+    - Passe puis 2NT avec les mineures (5+ 4+)
+
+    Après 2!d - 2M, en 4è :
+
+    - X est d'appel sur la M et 3!c d'appel sur la M'
+    - 2NT ou 3SA naturel
+    - 3M bicolore m 
+    - 4m bicolore mM'

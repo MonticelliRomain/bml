@@ -65,7 +65,7 @@ Guarantissent 3 cartes à !s et s’utilisent dans 2 situations:
 ** Développement après une redemande à 1SA
 
 1. Le Roudi fixe reste d’application comme sans intervention
-2.Le Texas qui rallonge la majeure, rectification obligatoire
+2. Le Texas qui rallonge la majeure, rectification obligatoire
 
 Avec 5 !s et 4 !h nommer les !h en Texas qui est faible ou FM. 
 Propositionnel, il faut passer par le Roudi fixe.
@@ -131,7 +131,7 @@ Il promet 5 cartes à !c et dénie 5 cartes à !h
   2C 6-10H
   3C 11+H FM
     3N tenue à !d régulier (donc 4 cartes à !s) 
-    3D même distribution mais sans tenue à !s
+    3D même distribution mais sans tenue à !d 
     3S résidu donc singleton à !d
     3H singleton à !s (par inférence)
 

@@ -1,4 +1,4 @@
-** Le gazzili
+** Le Gazzili
 
 1H-1S--
 1N BAL 12-15 (2!c Roudi, Reste Nat)
@@ -112,3 +112,5 @@
 Après une réponse faible sur un Gazilli, 3x est 5M4x 17+ ou 5M5x 5 perdantes (sauf 3m sur la réponse de 2NT et sur la réponse de 2!s après 1!h-1NT), 3M Inv, 2NT Inv avec réponse naturelle et non forcing, 4M clôture.
 
 Sur le soutien simple à 2M, l'ouvreur utilise les enchères d'essai dans les courtes (2NT court !s sur 2!h) et généralisé à 2!s (sur 2!h : nommer des forces, 2NT force !s) ou 2NT (sur 2!s, nommer des forces), saut court et TDC, 2NT puis saut long et TDC, courte puis répétition chicane et TDC.
+
+Après un contre de 2T, 2!d montre 8+ et l'arrêt. Sans arrêt, le répondant passe ou montre une préférence faible.

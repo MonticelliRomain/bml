@@ -9,6 +9,7 @@
 // Here are the level 1 openings
 
 #INCLUDE level_1_openings/1_minor_opening.txt
+#INCLUDE conventions/gazzili.txt
 #INCLUDE conventions/2_1FM.txt
 #INCLUDE conventions/cachalot.txt
 #INCLUDE level_1_openings/1_notrump_opening_with_major5.txt
@@ -23,6 +24,7 @@
 
 // Others
 
+#INCLUDE defenses/defense_on_multi.txt
 #INCLUDE preempts/preempts.txt
 #INCLUDE bidding_after_pass/bidding_after_pass.txt
 #INCLUDE slam_bidding/slam_bidding.txt
