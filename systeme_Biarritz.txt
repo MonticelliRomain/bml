@@ -9,7 +9,6 @@
 // Here are the level 1 openings
 
 #INCLUDE level_1_openings/1_minor_opening.txt
-#INCLUDE conventions/minor_inverted_fit.txt
 #INCLUDE level_1_openings/1_major_opening.txt
 #INCLUDE level_1_openings/1_notrump_opening.txt
 

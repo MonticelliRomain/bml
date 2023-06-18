@@ -60,5 +60,3 @@
 4CDH Forces
 
 // TODO redondance entre 3 et 4 C dans la séquence
-
-#INCLUDE conventions/gazzili.txt
