@@ -1,5 +1,6 @@
 * Ouverture de 1NT
 
+** Développements sur le 2!c Stayman
 1N
   2C Stayman // tentative de commentaire
     2D
@@ -7,6 +8,28 @@
       2S Relais distributionnel FM (recherche de chelem mineur)
       2N Invit, avec ou sans majeures 4e
       3C/3D Nat, 4M/5+!c/!d, problème pour SA ou vue de chelem
+      3H 5!s/4!h, FM.
+        3SA pas de fit 
+          4S forcing
+      3S 5!h/4!s, FM.
+        3N pas de fit
+          4H forcing
+      4C/4D Bicolore majeur, TDC court !c/!d. Si pas d'intérêt : 4m
+    2H 
+      2S TDC à !h
+      2N Invit sans 4!c (avec ou sans !s)
+      3C/3D 4!s/5+!c/!d, problème dans l'autre mineur ou vue de chelem
+      3H Invit
+      4N quantitatif non fitté (avec 4!s)
+    2S 
+      2N Invit sans 4!s (avec ou sans !h)
+      3C/3D 4!h/5+!c/!d, problème dans l'autre mineur ou vue de chelem
+      3H TDC à !s
+      3S Invit
+      4N quantitatif non fitté (avec 4!h)
+
+  ** Développements sur 2!s Texas !c 
+  
   2D Texas !h
   2H Texas !s
   2S ambigu : 8-9 H REG ou Texas !c
