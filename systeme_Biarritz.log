@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.6)  18 JUN 2023 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.6)  19 JUN 2023 12:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex
-(c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex
+**c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.tex
+(c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-02> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -51,7 +51,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
 ) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-04 v7.00g Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
@@ -83,35 +83,28 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 \Hy@linkcounter=\count185
 \Hy@pagecounter=\count186
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-04 v7.00g Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-04 v7.00g Hyperref: patches for babel languages
 ) (c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count187
- (c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-04 v7.00g Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
-Package hyperref Info: Hyper figures OFF on input line 4178.
-Package hyperref Info: Link nesting OFF on input line 4183.
-Package hyperref Info: Hyper index ON on input line 4186.
-Package hyperref Info: Plain pages OFF on input line 4193.
-Package hyperref Info: Backreferencing OFF on input line 4198.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4431.
+Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count188
  (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4790.
+LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen142
  (c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -121,15 +114,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count189
 \Field@Width=\dimen143
 \Fld@charsize=\dimen144
-Package hyperref Info: Hyper figures OFF on input line 6061.
-Package hyperref Info: Link nesting OFF on input line 6066.
-Package hyperref Info: Hyper index ON on input line 6069.
-Package hyperref Info: backreferencing OFF on input line 6076.
-Package hyperref Info: Link coloring OFF on input line 6081.
-Package hyperref Info: Link coloring with OCG OFF on input line 6086.
-Package hyperref Info: PDF/A mode OFF on input line 6091.
-LaTeX Info: Redefining \ref on input line 6131.
-LaTeX Info: Redefining \pageref on input line 6135.
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
  (c:/texlive/2020/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
 with kernel methods
@@ -140,7 +133,7 @@ with kernel methods
 )
 Package hyperref Info: Driver: hpdftex.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-02-04 v7.00g Hyperref driver for pdfTeX
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
  (c:/texlive/2020/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
 with kernel methods
@@ -159,7 +152,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \@input{bml.aux}
 \openout2 = `bml.aux'.
 
-(c:/Users/tom-2/Documents/bml/bml.tex (c:/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
+(c:/Users/romain.monticelli/Documents/System/bml/bml.tex (c:/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -298,7 +291,7 @@ File: t1txr.fd 2000/12/15 v3.1
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box50
-) (c:/Users/tom-2/Documents/bml/systeme_Biarritz.aux)
+) (c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.aux)
 \openout1 = `systeme_Biarritz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 13.
@@ -333,8 +326,6 @@ File: utxexa.fd 2000/12/15 v3.1
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
  (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count199
@@ -356,7 +347,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 13.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -367,6 +358,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
+ (c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.out) (c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.out)
 \@outlinefile=\write3
 \openout3 = `systeme_Biarritz.out'.
 
@@ -396,20 +388,21 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 15.
-\tf@toc=\write4
-\openout4 = `systeme_Biarritz.toc'.
-
-LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 21.
+ (c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.toc
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 1.
  [1
 
 
 
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 206.
- [4]
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write4
+\openout4 = `systeme_Biarritz.toc'.
+
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 21.
+ [2] [3] [4] [5]
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 241.
  (c:/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
@@ -420,785 +413,27 @@ File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
 (Font)              scaled to size 9.49997pt on input line 274.
- [5] [6]
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:376: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.376 3\h \> Arret \> !h, \> pas \>
-                                    d'arret \> !s\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:376: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.376 3\h \> Arret \> !h, \> pas \> d'arret \>
-                                               !s\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:377: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.377 3\s \> Arret \> !s, \> pas \>
-                                    d'arret \> !h\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:377: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.377 3\s \> Arret \> !s, \> pas \> d'arret \>
-                                               !h\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 3\h \> 4!d/5!c \> FM \> avec \>
-                                      un \> problème \> d'arrêt \> !s \> (...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 3\h \> 4!d/5!c \> FM \> avec \> un \>
-                                            problème \> d'arrêt \> !s \> (...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...d/5!c \> FM \> avec \> un \> problème \>
-                                                   d'arrêt \> !s \> (1345 \...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...\> avec \> un \> problème \> d'arrêt \>
-                                                   !s \> (1345 \> ou \> 2245...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...c \> un \> problème \> d'arrêt \> !s \>
-                                                   (1345 \> ou \> 2245 \> sa...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...> problème \> d'arrêt \> !s \> (1345 \>
-                                                   ou \> 2245 \> sans \> GH ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...lème \> d'arrêt \> !s \> (1345 \> ou \>
-                                                   2245 \> sans \> GH \> M)....
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ... d'arrêt \> !s \> (1345 \> ou \> 2245 \>
-                                                   sans \> GH \> M). \> L'ou...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...t \> !s \> (1345 \> ou \> 2245 \> sans \>
-                                                   GH \> M). \> L'ouvreur \>...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...s \> (1345 \> ou \> 2245 \> sans \> GH \>
-                                                   M). \> L'ouvreur \> dira ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...345 \> ou \> 2245 \> sans \> GH \> M). \>
-                                                   L'ouvreur \> dira \> 3!s ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...2245 \> sans \> GH \> M). \> L'ouvreur \>
-                                                   dira \> 3!s \> avec \> l'...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...sans \> GH \> M). \> L'ouvreur \> dira \>
-                                                   3!s \> avec \> l'arrêt \...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ... GH \> M). \> L'ouvreur \> dira \> 3!s \>
-                                                   avec \> l'arrêt \> et \>...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...). \> L'ouvreur \> dira \> 3!s \> avec \>
-                                                   l'arrêt \> et \> un \> p...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...eur \> dira \> 3!s \> avec \> l'arrêt \>
-                                                   et \> un \> problème \> ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ... dira \> 3!s \> avec \> l'arrêt \> et \>
-                                                   un \> problème \> � \> !...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...\> 3!s \> avec \> l'arrêt \> et \> un \>
-                                                   problème \> � \> !h \> e...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...c \> l'arrêt \> et \> un \> problème \>
-                                                   � \> !h \> et \> 3NT \> a...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...l'arrêt \> et \> un \> problème \> � \>
-                                                   !h \> et \> 3NT \> avec \...
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...�t \> et \> un \> problème \> � \> !h \>
-                                                   et \> 3NT \> avec \> les ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...et \> un \> problème \> � \> !h \> et \>
-                                                   3NT \> avec \> les \> deu...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...n \> problème \> � \> !h \> et \> 3NT \>
-                                                   avec \> les \> deux \> ar...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...blème \> � \> !h \> et \> 3NT \> avec \>
-                                                   les \> deux \> arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...\> � \> !h \> et \> 3NT \> avec \> les \>
-                                                   deux \> arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:380: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 ...!h \> et \> 3NT \> avec \> les \> deux \>
-                                                   arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:385: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.385 3\h \> Arret \> !h, \> pas \>
-                                    d'arret \> !s\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:385: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.385 3\h \> Arret \> !h, \> pas \> d'arret \>
-                                               !s\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:386: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.386 3\s \> Arret \> !s, \> pas \>
-                                    d'arret \> !h\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:386: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.386 3\s \> Arret \> !s, \> pas \> d'arret \>
-                                               !h\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:391: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.391 3NT \> 2245 \> sans \> GH \>
-                                   M
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7]
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 3\h \> 5!d4!c \> FM \> avec \>
-                                     un \> problème \> d'arrêt \> !s \> (1...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 3\h \> 5!d4!c \> FM \> avec \> un \>
-                                           problème \> d'arrêt \> !s \> (1...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...!d4!c \> FM \> avec \> un \> problème \>
-                                                   d'arrêt \> !s \> (1345 \...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...\> avec \> un \> problème \> d'arrêt \>
-                                                   !s \> (1345 \> ou \> 2245...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...c \> un \> problème \> d'arrêt \> !s \>
-                                                   (1345 \> ou \> 2245 \> sa...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...> problème \> d'arrêt \> !s \> (1345 \>
-                                                   ou \> 2245 \> sans \> GH ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...lème \> d'arrêt \> !s \> (1345 \> ou \>
-                                                   2245 \> sans \> GH \> M)....
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ... d'arrêt \> !s \> (1345 \> ou \> 2245 \>
-                                                   sans \> GH \> M). \> L'ou...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...t \> !s \> (1345 \> ou \> 2245 \> sans \>
-                                                   GH \> M). \> L'ouvreur \>...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...s \> (1345 \> ou \> 2245 \> sans \> GH \>
-                                                   M). \> L'ouvreur \> dira ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...345 \> ou \> 2245 \> sans \> GH \> M). \>
-                                                   L'ouvreur \> dira \> 3!s ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...2245 \> sans \> GH \> M). \> L'ouvreur \>
-                                                   dira \> 3!s \> avec \> l'...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...sans \> GH \> M). \> L'ouvreur \> dira \>
-                                                   3!s \> avec \> l'arrêt \...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ... GH \> M). \> L'ouvreur \> dira \> 3!s \>
-                                                   avec \> l'arrêt \> et \>...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...). \> L'ouvreur \> dira \> 3!s \> avec \>
-                                                   l'arrêt \> et \> un \> p...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...eur \> dira \> 3!s \> avec \> l'arrêt \>
-                                                   et \> un \> problème \> ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ... dira \> 3!s \> avec \> l'arrêt \> et \>
-                                                   un \> problème \> � \> !...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...\> 3!s \> avec \> l'arrêt \> et \> un \>
-                                                   problème \> � \> !h \> e...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...c \> l'arrêt \> et \> un \> problème \>
-                                                   � \> !h \> et \> 3NT \> a...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...l'arrêt \> et \> un \> problème \> � \>
-                                                   !h \> et \> 3NT \> avec \...
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...�t \> et \> un \> problème \> � \> !h \>
-                                                   et \> 3NT \> avec \> les ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...et \> un \> problème \> � \> !h \> et \>
-                                                   3NT \> avec \> les \> deu...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...n \> problème \> � \> !h \> et \> 3NT \>
-                                                   avec \> les \> deux \> ar...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...blème \> � \> !h \> et \> 3NT \> avec \>
-                                                   les \> deux \> arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...\> � \> !h \> et \> 3NT \> avec \> les \>
-                                                   deux \> arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:401: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.401 ...!h \> et \> 3NT \> avec \> les \> deux \>
-                                                   arrêts.\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/tom-2/Documents/bml/systeme_Biarritz.tex:407: LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.407 3NT \> 2254 \> sans \> GH \>
-                                   M
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[8] [9] [10] [11] [12] [13] [14] [15]
+ [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 902.
  (c:/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
-) [16] [17] [18] [19] [20] (c:/Users/tom-2/Documents/bml/systeme_Biarritz.aux)
-
-Package rerunfilecheck Warning: File `systeme_Biarritz.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `systeme_Biarritz.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  17F0D4AB2719087056192F5DDCE576D5;8062.
+) [17] [18] [19] [20] [21] (c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.aux)
+Package rerunfilecheck Info: File `systeme_Biarritz.out' has not changed.
+(rerunfilecheck)             Checksum: 7A95C4C475204F6855F77963032ADFC7;3408.
  ) 
 Here is how much of TeX's memory you used:
- 10479 strings out of 479303
- 146947 string characters out of 5871220
- 425765 words of memory out of 5000000
- 27367 multiletter control sequences out of 15000+600000
+ 7434 strings out of 479303
+ 108325 string characters out of 5871220
+ 406445 words of memory out of 5000000
+ 24321 multiletter control sequences out of 15000+600000
  457983 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,16n,74p,514b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,16n,74p,533b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:/Users/tom-2/Documents/bml/systeme_Biarritz.pdf (20 pages, 91168 bytes).
+Output written on c:/Users/romain.monticelli/Documents/System/bml/systeme_Biarritz.pdf (21 pages, 97335 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 114 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 460 PDF objects out of 1000 (max. 8388607)
+ 421 compressed objects within 5 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 393 words of extra memory for PDF output out of 10000 (max. 10000000)
 

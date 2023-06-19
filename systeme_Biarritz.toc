@@ -1,74 +1,74 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Ouverture de 1m}{1}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Le Walsh}{1}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1\textcolor {RedOrange}{$\vardiamondsuit $}{}}{1}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1M}{2}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}La séquence 1m - 1M}{2}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}La séquence 1m - 2\textcolor {Red}{$\varheartsuit ${}}{}}{2}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}La séquence 1m - 2\textcolor {Blue}{$\spadesuit ${}}{}}{3}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}La séquence 1\textcolor {RedOrange}{$\vardiamondsuit $}{}\ - 2\textcolor {OliveGreen}{$\clubsuit $}{}}{3}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Le fit mineur inversé}{3}{subsection.2.8}%
-\contentsline {subsubsection}{\numberline {2.8.1}Soutien au niveau de 3}{4}{subsubsection.2.8.1}%
-\contentsline {subsubsection}{\numberline {2.8.2}Après interventions}{4}{subsubsection.2.8.2}%
-\contentsline {subsection}{\numberline {2.9}Enchère du répondant après une inversée}{5}{subsection.2.9}%
-\contentsline {section}{\numberline {3}Ouverture de 1M}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}2NT Fitté par 3 cartes 11+}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}3\textcolor {OliveGreen}{$\clubsuit $}{}\ Fitté par 4 cartes 11+}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}3\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Fitté par 4 cartes 11+}{6}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Ouverture de 1NT}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Développements sur le 2\textcolor {OliveGreen}{$\clubsuit $}{}\ Stayman}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Développements sur 2\textcolor {Blue}{$\spadesuit ${}}{}\ Texas \textcolor {OliveGreen}{$\clubsuit $}{}}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Développements sur 2NT Texas \textcolor {RedOrange}{$\vardiamondsuit $}{}}{8}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Définition}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Après intervention}{9}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Après contre}{9}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}\ et 2\textcolor {Blue}{$\spadesuit ${}}{}}{9}{section.6}%
-\contentsline {section}{\numberline {7}Ouverture de 2NT}{10}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Le Puppet Stayman}{10}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Les Texas}{10}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Autres réponses}{11}{subsection.7.3}%
-\contentsline {section}{\numberline {8}Défense sur les ouvertures Multi}{11}{section.8}%
-\contentsline {subsection}{\numberline {8.1}2\textcolor {OliveGreen}{$\clubsuit $}{}\ multi (les deux M faibles ou fort)}{12}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}2\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Multi (unicolore M faible ou fort)}{12}{subsection.8.2}%
-\contentsline {section}{\numberline {9}Défense sur 1SA}{13}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Sur le SA fort}{13}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Sur le SA faible}{13}{subsection.9.2}%
-\contentsline {section}{\numberline {10}Les barrages et ouvertures à haut palier}{14}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Namyats 4\textcolor {OliveGreen}{$\clubsuit $}{}/4\textcolor {RedOrange}{$\vardiamondsuit $}{}}{14}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}3SA}{14}{subsection.10.2}%
-\contentsline {section}{\numberline {11}Enchères après passe}{14}{section.11}%
-\contentsline {section}{\numberline {12}Enchères de chelem}{14}{section.12}%
-\contentsline {section}{\numberline {13}Enchères compétitives}{16}{section.13}%
-\contentsline {section}{\numberline {14}Jeu de la carte}{16}{section.14}%
-\contentsline {subsection}{\numberline {14.1}L'entame}{16}{subsection.14.1}%
-\contentsline {subsubsection}{\numberline {14.1.1}Entame à SA}{16}{subsubsection.14.1.1}%
-\contentsline {paragraph}{Entame dans sa propre couleur longue:}{16}{section*.2}%
-\contentsline {paragraph}{Couleur de 3 cartes avec mini séquence:}{16}{section*.3}%
-\contentsline {paragraph}{Entame dans la couleur des adversaires (pas le choix) :}{16}{section*.4}%
-\contentsline {paragraph}{Pas de séquence dans couleur longue:}{16}{section*.5}%
-\contentsline {paragraph}{Si 2 couleurs longues:}{16}{section*.6}%
-\contentsline {paragraph}{Si couleur longue mais pas belle:}{16}{section*.7}%
-\contentsline {paragraph}{Dans la couleur du partenaire:}{17}{section*.8}%
-\contentsline {paragraph}{Couleur de 3 cartes sans séquence:}{17}{section*.9}%
-\contentsline {paragraph}{Entames particulières à SA}{17}{section*.10}%
-\contentsline {subsubsection}{\numberline {14.1.2}Entame à la couleur}{17}{subsubsection.14.1.2}%
-\contentsline {paragraph}{Bonne entame:}{17}{section*.11}%
-\contentsline {paragraph}{Entame à éviter:}{17}{section*.12}%
-\contentsline {paragraph}{Entame neutre:}{18}{section*.13}%
-\contentsline {paragraph}{Entame particulière à la couleur}{18}{section*.14}%
-\contentsline {subsubsection}{\numberline {14.1.3}Carte en 3ème à SA}{18}{subsubsection.14.1.3}%
-\contentsline {paragraph}{Carte obligatoire:}{18}{section*.15}%
-\contentsline {subsubsection}{\numberline {14.1.4}Signalisation:}{18}{subsubsection.14.1.4}%
-\contentsline {paragraph}{Attitude:}{18}{section*.16}%
-\contentsline {paragraph}{Parité}{18}{section*.17}%
-\contentsline {paragraph}{Sur l’entame d’une petite carte}{18}{section*.18}%
-\contentsline {paragraph}{Sur l’entame d’un honneur}{19}{section*.19}%
-\contentsline {paragraph}{Le mort est maitre}{19}{section*.20}%
-\contentsline {paragraph}{Le mort est court}{19}{section*.21}%
-\contentsline {paragraph}{Carte en 3ème position à la couleur}{19}{section*.22}%
-\contentsline {paragraph}{Sur entame d’une petite carte}{19}{section*.23}%
-\contentsline {paragraph}{Sur l’entame d’un honneur}{19}{section*.24}%
-\contentsline {paragraph}{Si le mort est maitre}{19}{section*.25}%
-\contentsline {paragraph}{Si le mort est court}{20}{section*.26}%
-\contentsline {subsubsection}{\numberline {14.1.5}Analyse de la première levée}{20}{subsubsection.14.1.5}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Ouverture de 1m}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Le Walsh}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1\textcolor {RedOrange}{$\vardiamondsuit $}{}}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1M}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}La séquence 1m - 1M}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}La séquence 1m - 2\textcolor {Red}{$\varheartsuit ${}}{}}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}La séquence 1m - 2\textcolor {Blue}{$\spadesuit ${}}{}}{4}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}La séquence 1\textcolor {RedOrange}{$\vardiamondsuit $}{}\ - 2\textcolor {OliveGreen}{$\clubsuit $}{}}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Le fit mineur inversé}{4}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Soutien au niveau de 3}{6}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Après interventions}{6}{subsubsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.9}Enchère du répondant après une inversée}{6}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Ouverture de 1M}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2NT Fitté par 3 cartes 11+}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}3\textcolor {OliveGreen}{$\clubsuit $}{}\ Fitté par 4 cartes 11+}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}3\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Fitté par 4 cartes 11+}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Ouverture de 1NT}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Développements sur le 2\textcolor {OliveGreen}{$\clubsuit $}{}\ Stayman}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Développements sur 2\textcolor {Blue}{$\spadesuit ${}}{}\ Texas \textcolor {OliveGreen}{$\clubsuit $}{}}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Développements sur 2NT Texas \textcolor {RedOrange}{$\vardiamondsuit $}{}}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Définition}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Après intervention}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Après contre}{10}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}\ et 2\textcolor {Blue}{$\spadesuit ${}}{}}{11}{section.6}%
+\contentsline {section}{\numberline {7}Ouverture de 2NT}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Le Puppet Stayman}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Les Texas}{12}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Autres réponses}{12}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Défense sur les ouvertures Multi}{13}{section.8}%
+\contentsline {subsection}{\numberline {8.1}2\textcolor {OliveGreen}{$\clubsuit $}{}\ multi (les deux M faibles ou fort)}{13}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}2\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Multi (unicolore M faible ou fort)}{13}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Défense sur 1SA}{14}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Sur le SA fort}{14}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Sur le SA faible}{14}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Les barrages et ouvertures à haut palier}{15}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Namyats 4\textcolor {OliveGreen}{$\clubsuit $}{}/4\textcolor {RedOrange}{$\vardiamondsuit $}{}}{15}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}3SA}{15}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Enchères après passe}{15}{section.11}%
+\contentsline {section}{\numberline {12}Enchères de chelem}{15}{section.12}%
+\contentsline {section}{\numberline {13}Enchères compétitives}{17}{section.13}%
+\contentsline {section}{\numberline {14}Jeu de la carte}{17}{section.14}%
+\contentsline {subsection}{\numberline {14.1}L'entame}{17}{subsection.14.1}%
+\contentsline {subsubsection}{\numberline {14.1.1}Entame à SA}{17}{subsubsection.14.1.1}%
+\contentsline {paragraph}{Entame dans sa propre couleur longue:}{17}{section*.2}%
+\contentsline {paragraph}{Couleur de 3 cartes avec mini séquence:}{17}{section*.3}%
+\contentsline {paragraph}{Entame dans la couleur des adversaires (pas le choix) :}{17}{section*.4}%
+\contentsline {paragraph}{Pas de séquence dans couleur longue:}{17}{section*.5}%
+\contentsline {paragraph}{Si 2 couleurs longues:}{17}{section*.6}%
+\contentsline {paragraph}{Si couleur longue mais pas belle:}{17}{section*.7}%
+\contentsline {paragraph}{Dans la couleur du partenaire:}{18}{section*.8}%
+\contentsline {paragraph}{Couleur de 3 cartes sans séquence:}{18}{section*.9}%
+\contentsline {paragraph}{Entames particulières à SA}{18}{section*.10}%
+\contentsline {subsubsection}{\numberline {14.1.2}Entame à la couleur}{18}{subsubsection.14.1.2}%
+\contentsline {paragraph}{Bonne entame:}{18}{section*.11}%
+\contentsline {paragraph}{Entame à éviter:}{18}{section*.12}%
+\contentsline {paragraph}{Entame neutre:}{19}{section*.13}%
+\contentsline {paragraph}{Entame particulière à la couleur}{19}{section*.14}%
+\contentsline {subsubsection}{\numberline {14.1.3}Carte en 3ème à SA}{19}{subsubsection.14.1.3}%
+\contentsline {paragraph}{Carte obligatoire:}{19}{section*.15}%
+\contentsline {subsubsection}{\numberline {14.1.4}Signalisation:}{19}{subsubsection.14.1.4}%
+\contentsline {paragraph}{Attitude:}{19}{section*.16}%
+\contentsline {paragraph}{Parité}{19}{section*.17}%
+\contentsline {paragraph}{Sur l’entame d’une petite carte}{19}{section*.18}%
+\contentsline {paragraph}{Sur l’entame d’un honneur}{20}{section*.19}%
+\contentsline {paragraph}{Le mort est maitre}{20}{section*.20}%
+\contentsline {paragraph}{Le mort est court}{20}{section*.21}%
+\contentsline {paragraph}{Carte en 3ème position à la couleur}{20}{section*.22}%
+\contentsline {paragraph}{Sur entame d’une petite carte}{20}{section*.23}%
+\contentsline {paragraph}{Sur l’entame d’un honneur}{20}{section*.24}%
+\contentsline {paragraph}{Si le mort est maitre}{20}{section*.25}%
+\contentsline {paragraph}{Si le mort est court}{21}{section*.26}%
+\contentsline {subsubsection}{\numberline {14.1.5}Analyse de la première levée}{21}{subsubsection.14.1.5}%

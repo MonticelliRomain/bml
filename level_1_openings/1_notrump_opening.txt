@@ -35,10 +35,9 @@
 ** Développements sur 2!s Texas !c 
 
 
-
 1N
-  2S
-    2N 
+  2S texas !c
+    2N positif (honneur 3è et max)
       3C pour jouer
       3D 5!c/5!d forcing
         3H Arret !h, pas d'arret !s
@@ -48,7 +47,7 @@
       3H 4!d/5!c FM avec un problème d'arrêt !s (1345 ou 2245 sans GH M). L'ouvreur dira 3!s avec l'arrêt et un problème à !h et 3NT avec les deux arrêts.
       3S 3145 FM
       3N pour jouer
-    3C
+    3C pour jouer
       3D 5!c/5!d forcing
         3H Arret !h, pas d'arret !s
         3S Arret !s, pas d'arret !h
@@ -58,19 +57,18 @@
       3S 3145 FM
       3N 2245 sans GH M
 
-
 ** Développements sur 2NT Texas !d
 
 
 
 1N
-  2N
-    3C
+  2N texas !d
+    3C positif (honneur 3è et max)
       3D pour jouer
       3H 5!d4!c FM avec un problème d'arrêt !s (1345 ou 2245 sans GH M). L'ouvreur dira 3!s avec l'arrêt et un problème à !h et 3NT avec les deux arrêts.
       3S 3154 FM
       3N pour jouer
-    3D 
+    3D pour jouer
       3H 1354 FM 
       3S 3154 FM 
       3N 2254 sans GH M 
