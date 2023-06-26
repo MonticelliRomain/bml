@@ -1,5 +1,31 @@
 * Enchères après passe
 
-  Drury : 2T toujours fitté majeur, 2M en réponse montre une main qui n'a pas d'espoir de manche en face d'un passe initial.
-  Tout saut = rencontre (2/3X => 5+X, 4M)
-  2SA : fit 4 cartes et une courte. 3!c demande la courte, réponse par palier.
+
+
+ 1S 
+  1N 6-11H, misfit
+  2C Drury, 3!s 10-12 DH/ 4!s jeu plat, (2!s avec GH et 11 points H)
+    2D/2H naturel avec une ouverture correcte
+    2S Main n'ayant pas d'espoir de manche en face d'un passe initial
+    2N 14+ 17-, jeu régulier avec des arrêts un peu partout
+    3C/3D/3H Beau 5-5, 16+
+    3S 6!s, 16/18
+    3N 17+ 19, jeu régulier
+  2D/2H Naturel. Belle couleur souvent 6ème, 8-11 H.
+  2S 6-9HL
+  2N Fit 4e et un singleton
+    3C Relais 
+      3D Singleton !d
+      3H Singleton !h (ou !c si fit !h)
+      3S Singleton !c (ou !s si fit !h)
+  3C/3D/3H Rencontre : 5 belles cartes, 4+ !s, 9/11H : L'ouvreur revient à la majeur au palier qu'il souhaite ou nomme un contrôle si TDC. Si double fit, BW 6 clés ?
+  3S Barrage
+  4C/4D/4H Splinter avec 5 atouts
+  4S Barrage
+
+** Après intervention
+
+Le contre remplace le Drury (en plus de garder sa signification habituelle). Le cue-bid montre 4 cartes.
+
+Les enchères de rencontre restent d'application, le Splinter s'effectue uniquement dans la couleur d'intervention.
+
