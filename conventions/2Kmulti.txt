@@ -1,0 +1,48 @@
+* Ouverture de 2!K
+
+
+2D
+    2H Relais - NF
+        2S faible
+        3C/3D/3H/3S FI dans la couleur
+        3N Gambling fort à !D 
+    2S P/C 
+    2N Relais fort - 16+ HCP
+        3C Min avec !h 
+        3D Min avec !s 
+        3H Max avec !s 
+        3S Max avec !s 
+    3C Naturel F1 
+    3D Naturel F1
+    3H/3S P/C 
+    3N Pour jouer
+    4C Demande à l'ouvreur de nommer sa couleur en transfert
+    4D Demande à l'ouvreur de nommer sa couleur 
+    4H/4S Pour jouer 
+
+** Après intervention 
+
+Par contre : 
+
+2D
+    Dbl
+        P Pour jouer 2!d contré 
+        Redbl Pour que l'ouvreur joue 2!h/2!s 
+        2H pour jouer 2!h/2!s
+        2S System on 
+        3C/3D Naturel non forcing
+        3h/3S/3N/4C/4D/4H/4S System on
+
+
+Par intervention :
+
+2D
+    2X
+        Dbl Punitif
+        3C/3D Naturel forcing
+        3H + System on
+
+
+
+
+

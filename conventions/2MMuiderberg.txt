@@ -1,0 +1,37 @@
+* 2M Muiderberg
+
+2H
+    Pass pour jouer
+    2S Naturel F1
+    2N Relais 
+        3C Min !c 
+        3D Min !d
+        3H Max !c 
+        3S Max !d 
+        3N Max 0544
+    3C P/C 
+    3D Invit à !h 
+    3H pour jouer 
+    3S Fort avec des !s 
+    3N pour jouer 
+
+2S 
+    Pass pour jouer
+    2N Relais 
+        3C Min !c 
+        3D Min !d
+        3H Max !c 
+        3S Max !d 
+        3N Max 0544
+    3C P/C 
+    3D Invit à !h
+    3H Invit !s 
+    3S pour jouer
+    3N pour jouer 
+
+
+** Après intervention 
+
+X punitif, XX démarre une séquence punitive.
+
+Reste : System on.
