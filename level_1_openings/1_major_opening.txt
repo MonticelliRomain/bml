@@ -6,7 +6,7 @@
     3N Pas de courte
     4x Court x
 3S 18+ avec une courte
-  3N Relai
+  3N Relais
     4x Court x
 3N 18-19 BAL
 4x Bic (4!h après 1!h = 6!h5!s, 4!s après 1!s = 6!s5!h)
@@ -27,6 +27,15 @@
   3M Invit
 3D 12-14 Pas de courte
   3M Invit
+3H 15-17
+  3S Relais
+    3N Pas de courte
+    4x Court x
+3S 18+ avec une courte
+  3N Relais
+    4x Court x
+3N 18-19 BAL
+4x Bic (4!h après 1!h = 6!h5!s, 4!s après 1!s = 6!s5!h)
 
 ** 3!c Fitté par 4 cartes 11+
 
@@ -39,6 +48,15 @@
     4C Court !c
     4D Court !d
     4H (sur 3!s) court !s
+3H 15-17
+  3S Relais
+    3N Pas de courte
+    4x Court x
+3S 18+ avec une courte
+  3N Relais
+    4x Court x
+3N 18-19 BAL
+4x Bic (4!h après 1!h = 6!h5!s, 4!s après 1!s = 6!s5!h)
 
 ** 3!d Fitté par 4 cartes 11+
 
@@ -58,5 +76,24 @@
   4D Court !d
   4H Court !h
 4CDH Forces
+
+** Autres séquences 
+
+1H 
+  2H 6-10
+    2S Essai généralisé (2NT force !s)
+    3S/4C/4D Splinter ayant besoin de la bonne main en face pour le chelem
+    3N Proposition
+  3S/4C/4D Splinter 11-15 DH 
+  3N 13-15 non fitté
+
+Après interventions :
+
+  Saut => Rencontre 
+  
+  Cue-bid FM (fit limite passe par le contre)
+    3M 15+
+    4M 12-14
+    4X 12-14 5-5
 
 // TODO redondance entre 3 et 4 C dans la séquence

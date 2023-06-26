@@ -1,6 +1,6 @@
 * 2M Muiderberg
 
-2H
+2H 5+!h/4+ m, 6-10
     Pass pour jouer
     2S Naturel F1
     2N Relais 
@@ -11,11 +11,11 @@
         3N Max 0544
     3C P/C 
     3D Invit à !h 
-    3H pour jouer 
+    3H Pour jouer 
     3S Fort avec des !s 
-    3N pour jouer 
+    3N Pour jouer 
 
-2S 
+2S 5+!s/4+m, 6-10
     Pass pour jouer
     2N Relais 
         3C Min !c 
@@ -25,9 +25,9 @@
         3N Max 0544
     3C P/C 
     3D Invit à !h
-    3H Invit !s 
-    3S pour jouer
-    3N pour jouer 
+    3H Invit à !s 
+    3S Pour jouer
+    3N Pour jouer 
 
 
 ** Après intervention 

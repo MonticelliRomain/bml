@@ -15,7 +15,8 @@
 // Level 2 openings
 
 #INCLUDE level_2_openings/2_club_opening.txt
-#INCLUDE level_2_openings/2_majors_weak_opening.txt
+#INCLUDE conventions/2Kmulti.txt
+#INCLUDE conventions/2MMUiderberg.txt
 #INCLUDE level_2_openings/2_notrump_opening.txt
 
 // Others

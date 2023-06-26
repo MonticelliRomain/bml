@@ -62,7 +62,7 @@
 
 
 1N
-  2N texas !d
+  2N Texas !d
     3C positif (honneur 3è et max)
       3D pour jouer
       3H 5!d4!c FM avec un problème d'arrêt !s (1345 ou 2245 sans GH M). L'ouvreur dira 3!s avec l'arrêt et un problème à !h et 3NT avec les deux arrêts.
