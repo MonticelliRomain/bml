@@ -1,0 +1,139 @@
+** Double-Deux
+
+    Après toute séquence 1X - 1Y - 1Z, 2!c, 2!d et 2NT sont artificiels. 2!c montre
+    une main faible à carreau ou des mains invites ou une main de manche avec 5 cartes
+    dans sa majeure. 2!d est un relais FM et demande à l'ouvreur de se décrire.
+    2NT montre des mains faibles avec des trèfles ou des mains chelemisantes avec plus de
+    trèfles que de cartes dans la première couleur.
+    Les enchères au niveau de 3 sont chelemisantes et naturelles, et un bicolore cher
+    au niveau de 2 est FM, a priori avec un 6-5
+
+*** L'ouvreur dit 1NT
+
+    1C-1H-1NT
+      2C Relais pour 2!d, invit ou mieux
+      2D Relais FM
+      2H Pour jouer
+      2S TDC 6!h 5!s
+      2N Faible avec des trèfles ou FM fitté trèfle avec exactement 4!h.
+          Force le partenaire à dire 3!c
+      3C TDC fitté trèfles avec 5 coeurs
+      3D TDC 5-5. 3!h montre le fit, 3NT est négatif, le reste est contrôle fitté carreaux
+      3H TDC 6 mauvaises cartes. Avec 6 belles cartes on aurait dit 2!h sur 1!c
+      3S 4 piques 5 coeurs, pour laisser le choix entre 3SA, 4C et 4P
+      3N Pour les jouer
+      4H Pour les jouer
+      5T Pour les jouer
+      4N Invit
+      5N Invit pour 7
+
+
+    Après un 2!c - 2!d, les réponses du répondant sont naturelles:
+
+    1C-1H-1N-2C-2D
+      2H Invit avec 5!h. Une nouvelle couleur de la part de l'ouvreur montre une force et
+         est une enchère d'essais. 2NT est enchère d'essais généralisée fittée.
+         3NT et 4!h sont pour jouer.
+      2S Invit avec 6!h 5!s
+      2N Invit sans 5!h
+      3C Invit fitté trèfles
+      3D Invit 5-5
+      3H Invit 6 cartes
+      3N 5 coeurs, pour laisser le choix entre 3NT et 4!h
+
+    1D-1S-1N-2C-2D
+      P Pour les jouer
+      2H 5!s 4!h invit
+      2S Invit avec 5 cartes
+      2N Invit sans 5 cartes
+      3C 5-5 invit
+      3D Invit avec 4+ carreaux
+      3H 5-5 invit
+      3S Invit avec 6 cartes
+      3N 5!s, pour laisser le choix entre 3NT et 4!s
+
+
+    Après un 2!d, les réponses de l'ouvreur sont naturelles, avec l'enchère impossible
+    qui montre une main avec une courte qu'on ne peut pas annoncer autrement:
+
+    1C-1H-1N-2D
+      2H Trois cartes
+      2S 3145
+      2N 3244
+      3C 3235
+      3D 2245
+
+    1C-1S-1N-2D
+      2H Quatre cartes
+      2S Trois cartes
+      2N 2344
+      3C 2335
+      3D 2245
+      3H 1345
+
+
+    Après un 2NT, l'ouvreur doit dire 3!c. Le répondant passe avec une main faible
+    et reparle avec une main chelemisante. Les réponses sont naturelles et les
+    continuations aussi:
+
+    1D-1S-1N-2N-3C
+      P Pour les jouer
+      3D Quelque chose comme 4135. L'ouvreur dit 3NT si pas intéressé, 3!s si
+         trois beaux piques, 4!c pour chelemisant à trèfles, ou 3!h ou 4!d pour
+         chelemisant à carreaux.
+      3H Quelque chose comme 4315. De même, l'ouvreur donne sa couleur de préférence
+         ou 3NT si pas intéressé
+      3S 6!c 5!s
+      3N 4225 non forcing
+      3C 6 trèfles, demande à l'ouvreur de nommer les contrôles.
+      4N 4225 invit
+      5N 4225 invit pour 7
+
+*** L'ouvreur ne dit pas 1NT
+
+    L'ouvreur peut encore avoir 18-19 points, donc il n'est pas obligé de rectifier
+    les transferts de 2!c ou de 2NT s'il a peur que le partenaire passe.
+
+    1C-1H-1S
+      1N 6-10
+      2C Invit ou 12-14 (15) avec 5 coeurs. Ici l'ouvreur n'a pas peur que le partenaire
+         passe la réponse de 2!d. En effet, il a promis plus de coeurs que de carreaux.
+      2D Relais FM
+      2H 6-9 (10) avec 6 cartes
+      2S 6-9 (10) avec 4 cartes
+      2NT 5+!c, plus de trèfles que de coeurs, faible ou TDC
+      3C TDC 5!h 5!c (Il faut 5 trèfles car l'ouvreur n'en a promis que 3)
+      3D TDC 5!h 5!d
+      3S TDC 4 cartes
+      3N 12-14 (15) sans 5 coeurs
+
+
+    1C-1H-1S-2C-2D
+      2H Invit 5 cartes
+      2S Invit 4 cartes
+      2N Invit sans 5!h ni 4!s
+      3C Invit avec 5 trèfles et 4 coeurs
+      3D Invit 5-5
+      3H Invit 6 cartes
+      3S Invit 4 piques et 5 coeurs
+      3N 12-14 (15) avec 5!h
+
+
+    1C-1H-1S-2D
+      2H 3 cartes
+      2S 6!c 5!s
+      2N 4!s 5!c 15-17 sans 3 coeurs
+      3C  4!s 5!c 12-14 sans 3 coeurs
+      3D 4045
+      3H TDC 3 cartes
+      3S TDC 6!c 5!s
+      3N 4234 12-14
+
+    1C-1H-1S-2N
+
+    Ici l'ouvreur peut ne pas rectifier le transfert s'il est 18-19. Surtout que si c'est le cas, il est irrégulier
+    et il y a donc au moins un fit 10e à trèfle. La 4e couleur demande l'arrêt.
+
+    1D-1H-1S-2C
+
+    De nouveau si l'ouvreur est 18-19 il peut ne pas rectifier le transfert pour ne pas jouer 2!d lorsque 3NT gagne.

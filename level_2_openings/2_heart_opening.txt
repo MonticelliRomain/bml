@@ -1,0 +1,78 @@
+* Ouverture de 2!h 
+
+** Description 
+
+1/2/3e main
+
+- Acol fort indeterminé à !h 
+- Unicolore 6e à !s 5-10 HCP 
+- Bicolore 5/5 !s + mineure, 5-10 HCP
+
+4e main : Unicolore 6e !h 10-13 HCP 
+
+** Développements 
+
+2H 
+    Pass  
+    2S Pour jouer si faible à !s (< 15 HCP) 
+        Pass Unicolore !s faible ou 5/5 faible avec de beaux !s (rare) 
+        2N Bicolore 5+/5+ !s/!c ou !s/!d 
+            3C Pour jouer avec des !c ou corriger avec des !d 
+            3D Pour jouer avec des !d ou proposition de manche avec des !c 
+            3N Proposition naturelle 
+            4/5C Double fit P/C 
+            4D/4H/4S Chicane - TdC 
+        3C/3D 2e couleur ou résidu 3e si la main possède une courte 
+        3H 6!s tendance 6322
+    2N Relais fort 
+        3C 5!c mini 
+            3D Tendance naturel FM 
+            3H Fit !s Forcing 
+            3S Fit !s Invit 
+            4C Fit !c Forcing 
+        3D 5!d mini 
+            3H Fit !s Forcing 
+            3S Fit !s Invit 
+            4C Fit !d + contrôle !c 
+            4D Fit !d Forcing, pas de ctrl !c  
+        3H 6!s 
+            3S NF (oriente la main)
+        3S 5!c maxi 
+        3N 5!d maxi 
+        4C/4D Acol !h - Premier contrôle disponible 
+        4H Acol !h 
+        4S Acol !h (cue-bid) 
+    3C/3D/3C Texas !d, !h et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
+    3S 3/4 !s et 7-13 HCP 
+        Pass L'enchère la plus fréquente de l'ouvreur faible 
+        3N Proposition de jouer 3NT sur base d'un Acol !h 
+        4S Montre une main faible avec un supplément de distribution (6/5, 6/4, ...)
+        4C/4D Tentative à base d'un Acol !h (généralement avec une courte)
+    3N Pour jouer 
+    4C/4D Naturel, bon fit !s, 10+ HCP 
+    4H !! Pour jouer en face d'un Acol Fort ou 4P en face du 2 faible.
+    4S Pour jouer en face d'un 2 faible ou au moins 5!h en face d'un jeu fort 
+
+** Après intervention 
+
+2H 
+    Dbl 
+        Pass pas 3 cartes à !s 
+            Pass 
+                ReDbl 6!s (Principe : faire jouer le répondant le + souvent possible !)
+                2S 5!s + 5m
+        ReDbl Unicolore autonome soit misfit !s soit semi-fit !s avec tolérance pour les mineures
+            Pass 
+                Pass Acol !h 
+                2S 6!s 
+                2N/3C 5!c/5!d pour faire jouer le partenaire dans son unicolore.
+        2S au moins 2!s
+            Dbl
+                Pass 6!s Toujours selon le même principe 
+                ReDbl 5!s + 5m  
+                2N Acol !h + arrêt !s 
+                3C 5!s + 6!c faible 
+                3D 5!s + 6!d faible 
+                3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s)
+        2N fitté 
+        3X/4H System on 

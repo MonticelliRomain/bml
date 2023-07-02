@@ -30,7 +30,7 @@ conseillé alors que le doubleton comporte un honneur. L’autre majeure troisi�
 ** Stayman
 
  Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
-  Utilisé avec une majeure 5e dans la zone 8-9H.
+ Utilisé avec une majeure 5e dans la zone 8-9H.
 
 1NT-2C
 2D Pas de majeure 4e
@@ -208,6 +208,6 @@ Remarque importante
 
 ** 1NT-3!h/!s : 5/4 mineurs court !h/!s
 
-Bicolore mineurs 5/4 avec une courte dans la couleur annoncée, forcing manche avec au 
+Bicolore mineur 5/4 avec une courte dans la couleur annoncée, forcing manche avec au 
 moins 9H. L’ouvreur donne 3SA avec au moins 1 arrêt et demi dans la couleur de la courte.
-Sinon, il se décrit naturelle. Il peut même fitter le résidu s’il possède cette majeure 5ième
+Sinon, il se décrit de manière naturelle. Il peut même fitter le résidu s’il possède cette majeure 5ème.
