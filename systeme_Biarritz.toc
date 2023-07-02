@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {2.5}La séquence 1m - 2\textcolor {Red}{$\varheartsuit ${}}{}}{4}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}La séquence 1m - 2\textcolor {Blue}{$\spadesuit ${}}{}}{4}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}La séquence 1\textcolor {RedOrange}{$\vardiamondsuit $}{}\ - 2\textcolor {OliveGreen}{$\clubsuit $}{}}{4}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Le fit mineur inversé}{4}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.8}Le fit mineur inversé}{5}{subsection.2.8}%
 \contentsline {subsubsection}{\numberline {2.8.1}Soutien au niveau de 3}{6}{subsubsection.2.8.1}%
 \contentsline {subsubsection}{\numberline {2.8.2}Après interventions}{6}{subsubsection.2.8.2}%
 \contentsline {subsection}{\numberline {2.9}Enchère du répondant après une inversée}{6}{subsection.2.9}%
@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {4}Ouverture de 1NT}{8}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Développements sur le 2\textcolor {OliveGreen}{$\clubsuit $}{}\ Stayman}{8}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Développements sur 2\textcolor {Blue}{$\spadesuit ${}}{}\ Texas \textcolor {OliveGreen}{$\clubsuit $}{}}{9}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Développements sur 2NT Texas \textcolor {RedOrange}{$\vardiamondsuit $}{}}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Développements sur 2NT Texas \textcolor {RedOrange}{$\vardiamondsuit $}{}}{10}{subsection.4.3}%
 \contentsline {section}{\numberline {5}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{10}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Définition}{10}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Après intervention}{11}{subsection.5.2}%
@@ -42,37 +42,38 @@
 \contentsline {subsection}{\numberline {11.1}Namyats 4\textcolor {OliveGreen}{$\clubsuit $}{}/4\textcolor {RedOrange}{$\vardiamondsuit $}{}}{17}{subsection.11.1}%
 \contentsline {subsection}{\numberline {11.2}3SA}{17}{subsection.11.2}%
 \contentsline {section}{\numberline {12}Enchères après passe}{17}{section.12}%
-\contentsline {section}{\numberline {13}Enchères de chelem}{17}{section.13}%
+\contentsline {subsection}{\numberline {12.1}Après intervention}{18}{subsection.12.1}%
+\contentsline {section}{\numberline {13}Enchères de chelem}{18}{section.13}%
 \contentsline {section}{\numberline {14}Enchères compétitives}{19}{section.14}%
 \contentsline {section}{\numberline {15}Jeu de la carte}{19}{section.15}%
 \contentsline {subsection}{\numberline {15.1}L'entame}{19}{subsection.15.1}%
 \contentsline {subsubsection}{\numberline {15.1.1}Entame à SA}{19}{subsubsection.15.1.1}%
-\contentsline {paragraph}{Entame dans sa propre couleur longue:}{19}{section*.2}%
-\contentsline {paragraph}{Couleur de 3 cartes avec mini séquence:}{19}{section*.3}%
-\contentsline {paragraph}{Entame dans la couleur des adversaires (pas le choix) :}{19}{section*.4}%
-\contentsline {paragraph}{Pas de séquence dans couleur longue:}{19}{section*.5}%
-\contentsline {paragraph}{Si 2 couleurs longues:}{19}{section*.6}%
-\contentsline {paragraph}{Si couleur longue mais pas belle:}{19}{section*.7}%
+\contentsline {paragraph}{Entame dans sa propre couleur longue:}{20}{section*.2}%
+\contentsline {paragraph}{Couleur de 3 cartes avec mini séquence:}{20}{section*.3}%
+\contentsline {paragraph}{Entame dans la couleur des adversaires (pas le choix) :}{20}{section*.4}%
+\contentsline {paragraph}{Pas de séquence dans couleur longue:}{20}{section*.5}%
+\contentsline {paragraph}{Si 2 couleurs longues:}{20}{section*.6}%
+\contentsline {paragraph}{Si couleur longue mais pas belle:}{20}{section*.7}%
 \contentsline {paragraph}{Dans la couleur du partenaire:}{20}{section*.8}%
 \contentsline {paragraph}{Couleur de 3 cartes sans séquence:}{20}{section*.9}%
-\contentsline {paragraph}{Entames particulières à SA}{20}{section*.10}%
-\contentsline {subsubsection}{\numberline {15.1.2}Entame à la couleur}{20}{subsubsection.15.1.2}%
-\contentsline {paragraph}{Bonne entame:}{20}{section*.11}%
-\contentsline {paragraph}{Entame à éviter:}{20}{section*.12}%
+\contentsline {paragraph}{Entames particulières à SA}{21}{section*.10}%
+\contentsline {subsubsection}{\numberline {15.1.2}Entame à la couleur}{21}{subsubsection.15.1.2}%
+\contentsline {paragraph}{Bonne entame:}{21}{section*.11}%
+\contentsline {paragraph}{Entame à éviter:}{21}{section*.12}%
 \contentsline {paragraph}{Entame neutre:}{21}{section*.13}%
 \contentsline {paragraph}{Entame particulière à la couleur}{21}{section*.14}%
-\contentsline {subsubsection}{\numberline {15.1.3}Carte en 3ème à SA}{21}{subsubsection.15.1.3}%
-\contentsline {paragraph}{Carte obligatoire:}{21}{section*.15}%
-\contentsline {subsubsection}{\numberline {15.1.4}Signalisation:}{21}{subsubsection.15.1.4}%
-\contentsline {paragraph}{Attitude:}{21}{section*.16}%
-\contentsline {paragraph}{Parité}{21}{section*.17}%
-\contentsline {paragraph}{Sur l’entame d’une petite carte}{21}{section*.18}%
+\contentsline {subsubsection}{\numberline {15.1.3}Carte en 3ème à SA}{22}{subsubsection.15.1.3}%
+\contentsline {paragraph}{Carte obligatoire:}{22}{section*.15}%
+\contentsline {subsubsection}{\numberline {15.1.4}Signalisation:}{22}{subsubsection.15.1.4}%
+\contentsline {paragraph}{Attitude:}{22}{section*.16}%
+\contentsline {paragraph}{Parité}{22}{section*.17}%
+\contentsline {paragraph}{Sur l’entame d’une petite carte}{22}{section*.18}%
 \contentsline {paragraph}{Sur l’entame d’un honneur}{22}{section*.19}%
 \contentsline {paragraph}{Le mort est maitre}{22}{section*.20}%
 \contentsline {paragraph}{Le mort est court}{22}{section*.21}%
-\contentsline {paragraph}{Carte en 3ème position à la couleur}{22}{section*.22}%
-\contentsline {paragraph}{Sur entame d’une petite carte}{22}{section*.23}%
-\contentsline {paragraph}{Sur l’entame d’un honneur}{22}{section*.24}%
-\contentsline {paragraph}{Si le mort est maitre}{22}{section*.25}%
+\contentsline {paragraph}{Carte en 3ème position à la couleur}{23}{section*.22}%
+\contentsline {paragraph}{Sur entame d’une petite carte}{23}{section*.23}%
+\contentsline {paragraph}{Sur l’entame d’un honneur}{23}{section*.24}%
+\contentsline {paragraph}{Si le mort est maitre}{23}{section*.25}%
 \contentsline {paragraph}{Si le mort est court}{23}{section*.26}%
 \contentsline {subsubsection}{\numberline {15.1.5}Analyse de la première levée}{23}{subsubsection.15.1.5}%
