@@ -81,11 +81,10 @@
                 ReDbl Acol !s mini 
                 3H 6!s + 3!h 
                 3S Acol !s max
-            Pass 
-                Pass 
-                    Dbl 
-                        ReDbl Misfit total, Bic M
-                        3H/3S Longue personnelle
+            Pass-Pass 
+                Dbl 
+                    ReDbl Misfit total, Bic M
+                    3H/3S Longue personnelle
     3X/4X 
         Pass Forcing pour la main forte
         Dbl Punitif face à la main faible 

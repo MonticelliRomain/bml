@@ -20,7 +20,7 @@
             3C Pour jouer avec des !c ou corriger avec des !d 
             3D Pour jouer avec des !d ou proposition de manche avec des !c 
             3N Proposition naturelle 
-            4/5C Double fit P/C 
+            4/5C Double fit !s/!c
             4D/4H/4S Chicane - TdC 
         3C/3D 2e couleur ou résidu 3e si la main possède une courte 
         3H 6!s tendance 6322
