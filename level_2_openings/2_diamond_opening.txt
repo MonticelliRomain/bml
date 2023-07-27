@@ -1,94 +1,135 @@
-* Ouverture de 2!d
+* Ouverture de 2!d 
 
-** Définition
+** Description 
 
-- Unicolore FI
-- Bicolore Majeur FI ou FM
+1/2/3e main
 
-2D-2H 
-2S Montre un bicolore majeur \textbf{+ long à !s}
-  2N Relais 
-    3H 5/5 MAJ FI 18-21 PH
-    3S 6!s/4!h FI 18-21 PH
-    3N 5422 FM
-    4CD Tricolore parfait
-    4H 65 FM
-    4S 74 FM
-    3D 5431 FM
-    3C FM ambigu
-      3D Relais
-        3H 55 FM
-        3S 64 FM
-        3N 5413 FM
-  3CD Aucun intérêt pour les majeures, naturel (pas belle 6e)
-  3HS TDC
-  4HS NF
+- Acol fort indeterminé à !c ou !d
+- Unicolore 6e à !h 5-10 HCP 
+- Bicolore 5/5 !h + mineure, 5-10 HCP
+- Bicolore majeur Fi ou FM
 
-2D-2H 
-2N Montre un bicolore majeur \textbf{+ long à !h}
-  3C Relais 
-    3D Résidu mineur 31 ou 30
-      3H Relais
-        3S 4513
-        3N 4531
-        4X 4603 ou 4630
-    3H 
-    3S 65 FM
-    3N 5422 FM
-    4CD Tricolore parfait
-    4H 74 FM
+4e main : Acol FI
 
-2D-2H
-3CDHS ACOL naturel (=FI) Collante ambigue, éventuellement pour tenter de jouer 3NT de la main forte
-    3C
-      3S Ambigu
-        3N pour jouer
-          4H TDC avec cue !s 
-          4N Quantitatif
-      4X Cue, TDC fit !h 
-  3N 9-10 plis en !d avec au moins 2 grosses pièces extérieures
+** Développements 
+
+1/2/3e main
+
+2D 
+    2H Pour jouer si faible à !h (< 15 HCP) 
+        Pass Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
+        2S 5+!s/5+!h 
+        2N Bicolore 5+/5+ !h/!c ou !h/!d 
+            3C Pour jouer avec des !c ou corriger avec des !d 
+            3D Pour jouer avec des !d ou proposition de manche avec des !c 
+            3N Proposition naturelle 
+            4/5C Double fit !h/!c (4!c = NF) 
+            4D/4H Chicane ! - TdC dans la mineure de l'ouvreur
+        3C/3D Acol naturel NF 
+        3H 5/5 Majeur FI
+        3S 6!s/4!h FI
+    2S Relais + misfit !h (max Hx), n'envisage normalement pas 4!h en face d'un 5/5
+        2N Acol Mineur
+            3C Relais 
+                3D Acol !c 
+                3H Acol !d 
+            3x Naturel Forcing
+        3C 5+ !c 
+            3D Fitté !c encourageant (pas FM)
+            3H Hx 
+            3S Naturel, 6!s, forcing 
+            3N to play
+            4C Fitté !c Fort (forcing)
+        3D 5+ !d
+            3H Pour jouer 
+            3S Nat forcing 
+            3N To play 
+            4C Limite à !d 
+            4D forcing à !d 
+            4M To play
+        3H 6!h min 
+            3S Nat forcing 
+            3N To play 
+            4C/4D Cue !h 
+            4M To play
+        3S 6!h max
+            3N To play 
+            4C/4D Cue !h 
+            4M To play
+        3N ARDxxx !h 
+        4C/4D 1er cue-bid dans un Bic M 5/5 FI ou FM 
+        4H 6!s/4!h FI 
+    2N Relais fitté !h au moins 3 cartes, pas FM 
+        3C 5!c mini 
+            3H encourageant NF 
+        3D 5!d mini 
+            3H encourageant NF   
+        3H 6!h mini
+        3S 6!h maxi 
+        3N ARDxxx !h 
+        4C/4D Acol !c/!d 
+        4H Bic M 5/5 Fi ou FM 
+        4S 6!s/4!h FI 
+    3C/3D/3S Texas !d, !s et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
+        3K (sur 3!c) négatif
+        3H Naturel + fit !d (positif)
+        3S Bic M 
+        3N Acol !c (sans fit !d ou sans ambition)
+        4D Fit setting fort (Acol !c ou Bic M avec 3!d ou Hx)
+    3S 3/4 !h et 7-13 HCP 
+        Pass L'enchère la plus fréquente de l'ouvreur faible 
+        3S Bic M fort 
+            3N Négatif à !s et à !h, minimum
+            4C/4D Naturel F1
+        3N Montre un Acol mineur - NF
+        4H Montre une main faible avec un supplément de distribution (6/5, 6/4, ...)
+        4C/4D Acol mineur très excentré
+    3N Artificiel, propose de jouer 3NT en face d'un Acol mineur ou 4!h en face d'une version faible.
+    4C/4D Naturel, bon fit !h, 10+ HCP, l'ouvreur peut décider d'être compétitif au palier supérieur
+    4H Pour jouer 4!h esi ouvreur faible mais du jeu pour supporter le chelem si ouvreur fort 
+    4S Pour jouer en face d'un 2 faible ou au moins 5!h en face d'un jeu fort 
+
+4e main : 
 
 2D
-  2S Naturel 5 cartes avec deux gros honneurs ou 5/5 correct
-  3CDHS Transferts pour unicolores Q+ avec 2 gros honneurs
-        Le soutien ou la rectification du texas montre un intérêt pour la couleur du répondant
-  2N 5/5 Mineur FM
+    2H Relais 
+    2S/3C/3D Naturel, 2 gros H
 
-** Après intervention en 2e
+** Après intervention 
 
-*** Contre 
-
-- Punitif si intervention au palier de 2
-- Appel si intervention au palier de 3 ou plus
-
-*** Passe RAS
-
-Ensuite, contre de l'ouvreur est punitif au niveau de 2 et montre le bicolore majeur ou une demande d'arrêt au niveau de 3.
-
-*** 3!c!d!h!s Transferts (Transfert cue - Tricolore court)
-
-*** 2NT Bicolore mineur
-
-*** Après 2!d - X
-
-- Passe : envie de jouer
-- Tout le reste sauf 2!h : Naturel
-- XX : Naturel (4 belles cartes, pas 5 ou 6)
-
-
-** Après intervention en 4e
-
-- PASSE, CUE-BID et ENCHERES A SAUT montrent le BICOLORE MAJEUR JUSQU’À 3!s.
-
-- CONTRE demande l’arrêt
-
-** Corollaires (à vérifier avec Gazilli !)
-
-1S-1NT 
-3H montre un 5=/4= dans la zone 18-21H 
-
-1S-1NT 
-4H montre un 6/5 de 14 à 17H 
-
-1H-1NT 
-3S montre un 6/5 de 14 à 17H, c’est NF !
+2D 
+    Dbl 
+        Pass pas 3 cartes à !h
+            Pass 
+                ReDbl 6!h (Principe : faire jouer le répondant le + souvent possible !)
+                2H 5!h + 5m
+                2S Bic M fort 
+                3C Acol !c
+        ReDbl Unicolore autonome soit misfit !h soit semi-fit !h avec tolérance pour les mineures
+            Pass 
+                2H Version faible
+                2S Bic M Fort 
+        2h 2+ !h 
+        2S/3C/3D Naturel F1 mais pas auto-forcing
+        3H permet de dire 4!h
+            Dbl
+                Pass 6!s Toujours selon le même principe 
+                ReDbl 5!s + 5m  
+                2N Acol !h + arrêt !s 
+                3C 5!s + 6!c faible 
+                3D 5!s + 6!d faible 
+                3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s)
+        2N fitté 
+        3X/4H System on 
+    Pass 
+        2H 
+            Dbl 
+                Pass 6!h Principe : Faire jouer le répondant le plus souvent possible
+                ReDbl 5!h/5m 
+                2S Bic M ou 6!s/4!h FI (NF)
+                2N 5!h + 6!c/6!d
+                3C/3D Acol 
+                3M Bic M FM (et ne veut pas passer sur 2Cx)
+        2S
+            Dbl
+                System on

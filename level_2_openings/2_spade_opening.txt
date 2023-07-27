@@ -1,0 +1,95 @@
+* Ouverture de 2!s 
+
+** Description 
+
+1/2/3e main
+
+- Acol fort indeterminé à !s
+- Bicolore mineur 5+/5+, 5-10 HCP
+
+4e main : Unicolore 6e !s 10-13 HCP 
+
+** Développements 
+
+2S 
+    Pass
+    2N Relais
+        3C Bic mineur minimum 
+            Pass 
+            3D Pour jouer 
+            3H/3S Naturel F1 
+            3N Pour jouer
+        3D Bic mineur maximum 
+            3H/3S Naturel F1 
+            3N Pour jouer
+        3H Acol !s avec une courte indéterminée
+            3S Fit !s 
+            3N Forcing 
+            4C/4D/4H Naturel (a priori misfit !s)
+                4S Pas fitté 
+                4N KBB
+            4S Pour jouer 
+            4N KBB
+        3S Acol !s 6322 min (18-19)
+            3N Forcing (a priori misfit !s)
+            4C/4D/4H Naturel (a priori misfit !s, recherche de fit)
+                4S Pas fitté 
+                4N KBB
+            4S Forcing
+            4N KBB à !s
+        3N Acol !s 6322 max (20-21)
+            4C/4D/4H Naturel (a priori misfit !s, recherche de fit)
+                4S Pas fitté 
+                4N KBB
+            4S Forcing
+            4N KBB à !s
+        4C 1156
+        4D 1165
+        4H/4S 6/5 + chicane 
+    3C Pour jouer
+        3D Acol !s + couleur !d 3+ cartes
+        3H Acol !s + couleur !d 3+ cartes (forte probabilité de courte !s)
+        3S Acol !s NF
+        3N 6!s (3-2-2) 20-21
+    3D Pour jouer 
+        Cfr 3!c
+    3H Naturel NF 
+    3S Naturel NF 
+    3N Pour jouer 
+    4C "Barrage" 4/5 cartes 7-12 HCP
+    4D "Barrage" 4/5 cartes 7-12 HCP
+    4H Pour jouer (aussi en face de la main faible)
+    4S Pour jouer en face de la main forte
+
+** Après intervention 
+
+2S
+    Dbl 
+        Pass Propose d'en rester là sur base de sa propre couleur (faible + !s)
+        ReDbl Propose de jouer 2!s XX (plus punitif éventuel ultérieur) sauf si ouvreur a 1- !s
+        2N Game try en mineure ou SA, l'ouvreur développe comme sur séquence de base
+        3C/3D préférence
+        3H Naturel NF 
+        3S N'existe pas 
+        3N Naturel
+        4C/4D Barrage 
+        4H Pour jouer
+    Pass
+        3C/3D 
+            Dbl
+                Pass Main faible, le répondant peut annoncer une longue Maj ou XX = Bic M 
+                ReDbl Acol !s mini 
+                3H 6!s + 3!h 
+                3S Acol !s max
+            Pass 
+                Pass 
+                    Dbl 
+                        ReDbl Misfit total, Bic M
+                        3H/3S Longue personnelle
+    3X/4X 
+        Pass Forcing pour la main forte
+        Dbl Punitif face à la main faible 
+        4C/4D Compétitif, fit face à la main faible 
+        Couleur Naturel F1 
+        3N/4N Naturel face à la main faible
+        5C/5K Pour jouer
