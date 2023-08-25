@@ -15,13 +15,78 @@ X remplace l'enchère d'1!h
 1H remplace l'enchère d'1!s
 1S remplace le contre d'appel
 1N 8-10H avec tenue
+2C soutien !c 
+2D Texas 6!h toutes zones 
+2H Texas 6!s toutes zones 
+2S 5+!c, FM
+2N Naturel 
+3C mixed raised !c 
+3D 5!h + 5!s 8-10H 
+3H Barrage !h 
+3S Barrage !s 
+4D 5!h + 5!s 11-12H
 
 1CD-1H
 X remplace l'enchère d'1!s
 1S remplace le contre d'appel
 1N 8-10H avec tenue
+2CD soutien !c/!d 
+2DC naturel !d/!c 
+2H Texas 6!s toutes zones 
+2S 5+ !c/!d, FM 
+2N Naturel
+3CD mixed raised !c/!d 
+3H Barrage !s 
+3S L'enchère de 3NT avec Axx à !h 
 
-Rem : Après un contre d’appel, il n’y a pas de cachalot
+1C X 
+XX 11H+ punitif
+1D Texas !h 
+1H Texas !s 
+1S 8+ régulier ou du !d 
+2C 5 !s/4+ !h 5-9H
+  2N Relay
+    3C Mini
+      3D Relay
+        3H 54
+        3S 55
+        3N 64
+    3D Max 54
+    3H Max 55
+    3S Max 64
+2D Texas 6!h toutes zones 
+2H texas 6!s toutes zones 
+2S Soutien FM !c 
+2N Soutien limite !c, supporte 3NT 
+3C Barrage !c 
+3DHS Splinter, vers la manche 
+
+Les développements après 1!d et 1!h sont ceux du Cachalot.
+
+1D X 
+XX Texas !h 
+1H Texas !s 
+1S 8+ régulier ou soutien !d 
+2C 5 !s/4+ !h 5-9H
+  2N Relay
+    3C Mini
+      3D Relay
+        3H 54
+        3S 55
+        3N 64
+    3D Max 54
+    3H Max 55
+    3S Max 64
+2D Texas 6!h toutes zones 
+2H texas 6!s toutes zones 
+2S Soutien FM !d 
+2N Soutien limite !d, supporte 3NT 
+3D Barrage !d 
+3CHS Splinter, vers la manche 
+
+Passe puis contre : punitif, remplace le surcontre
+Passe puis une enchère : 11+, se préparait à contrer punitif, donc deux couleurs 4eme.
+Les développements après XX et 1!h sont ceux du Cachalot.
 
 ** Attitude de l’ouvreur. Le répondant a 
 nommé une majeure

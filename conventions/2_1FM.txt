@@ -31,9 +31,9 @@ Remarques:
 
 1. Si on considère que l’on aurait ouvert une main ne comportant que 11H, il faut 
 l’assimiler à un 2/1 FM
-2. A l’inverse, l’évaluation de la main est « rétroactive ». On aurait ouvert cette main 
-mais lorsque le partenaire ouvre d’1 !h, la chicane est dévaluée et donc il faut la 
-considérer comme une non-ouverture et dire 1SA
+2. A l’inverse, l’évaluation de la main est « rétroactive ». On aurait ouvert certains mains 
+mais lorsque le partenaire ouvre, des chicanes peuvent être dévaluées et donc il faut les 
+considérer comme une non-ouverture et dire 1SA.
 
 ** 1SA va jusque 11
 
@@ -69,8 +69,12 @@ Minimum 14H avec 2 gros honneurs dans une couleur au moins 6ième
 2H 8-10DH (dans la zone 5-7DH répondre 1 !s ou 1SA)
 3H 8-10DH - 4 atouts (évitez 8H – 4333)
 2N 11-14DH – 3 ou 4 atouts, en-dessous du 2/1 FM
-3N 13-14H - 4 ou 5 atouts, sans singleton (rarement 16DH)
-3S/4C/4D 7-10H - Splinter : 5 atouts – 2 cartes clés
+3S Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 3NT demande de courte : !t, !d, !s
+3N/4C/4D  Splinter singleton : 7-10H - 2 cartes clés.
+
+1S--
+3N Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 4!c demande de courte : !d, !h, !c
+4C/4D/4H Splinter singleton : 7-10H - 2 cartes clés.
 
 *** La séquence 1M – 2SA
 
@@ -243,39 +247,109 @@ Rem:
 4D 6 !s et singleton !d
 
 1S-2H--
-3H 11H+, 3 ou 4 cartes à !h
+3H 11H+, 3 ou 4 cartes à !h, ne garantit pas un Honneur à !h, fort ou faible.
 4H 5422, 11-13H, plutôt des points perdus dans les mineures (très faible)
 4CD Splinter atténué, environ 3 cartes clés
-3N Splinter fort, 5 cartes clés 
-2N 
+3N Splinter fort, 4+ cartes clés 
+  4C relais 
+    4D singleton - cher (!c)
+    4H singleton + cher (!d)
+2N 18-20H
   ()
-    4CD 17H-19H régulier et 4 cartes à !h (donc 5422)
-    4H 17H-19H régulier et 3 cartes à !h
-    4N 18-19H et 2 cartes à !h
+    4CD 5422 ctrl !c
+    4D 5422 ctrl !d
+    4H 5332
 
 **** Séquences dérivées après 1!h d’ouverture
 
-1H-2C-2S-- S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
-2N  main régulière avec au moins 2 cartes à !h (peut cacher un soutien !h)
-  3C 5413
-  3D 5431 
-  3H 64
-  3S 5422 15H+ : seule enchère conventionnelle !
-  3N 5422 12-14H 
-3S 14h+
-  3N OUI mais : pas minimum avec un problème pour nommer un ctrl.
-  4CDH Ctrl
-  4S minimum
-4S 12-13H+
+1H-2C--
+  2S S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
+    2N  main régulière avec au moins 2 cartes à !h (peut cacher un soutien !h)
+      3C 5413
+      3D 5431 
+      3H 64
+      3S 5422 15H+ : seule enchère conventionnelle !
+      3N 5422 12-14H 
+    3S 14h+
+      3N OUI mais : pas minimum avec un problème pour nommer un ctrl.
+      4CDH Ctrl
+      4S minimum
+    4S 12-13H+
+  2H
+    2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). L’atout !s n’est plus recherché.
+      2N promet une tenue à !d.
+      3H 6 cartes. 
+      3C 3 cartes ou un honneur second sans tenue à !d
+      3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes (ou l’As pour jouer de la bonne main
+    2N main régulière avec au moins 2 cartes à !h (relais qui ne promet pas d'arrêt)
+      3C 6 !h et singleton !c
+      3D 6 !h et singleton !d
+      3H 6322
+      3N 5332
+    3H Une perdante maximum en face d'un singleton 
+      3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
+      3N naturel : pas de fit !h et mini.
+      4C naturel : très breaux !c 
+      4D ctrl !d, court !s et ctrl !c 
+      4H frein
+      4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
+  2N 17-20 5532 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3T limité à 16.
+    3C Naturel
+    3H Fit !h 
+    3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H
+  3N 17+ 1534 ou 3514
+    4C demande singleton pour jouer à !c (court bas-court haut)
+    4D demande singleton pour jouer à !h (court bas-court haut)
 
-1H-2C-2H--
-2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). L’atout !s n’est plus recherché.
-  2N promet une tenue à !d.
-  3H 6 cartes. 
-  3C 3 cartes ou un honneur second sans tenue à !d
-  3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes (ou l’As pour jouer de la bonne main
-2N main régulière avec au moins 2 cartes à !h (relai qui ne promet pas d'arrêt)
-  3C 6 !h et singleton !c
-  3D 6 !h et singleton !d
-  3H 6322
-  3N 5332
+**** Développements après 1!d-2!c FM
+
+1D-2C--
+2D 6!d ou 5 beaux !d et un petit doubleton
+  2H (force à !h)
+    2S 5332 (6322) : pas de tenue !s et 2!c 
+    2N 5332 (6322) : tenue !s 
+    3C 5332 (6322) : pas de tenue !s et 3!c 
+    3D 6!d, singleton !c sans tenue !s 
+    3H 6!d, singleton !h avec ou sans tenue !s (3!s demande)
+    3N 6!d, singleton !c et tenue !s
+  2S (force à !s) 
+    2N 5332 (6322) : tenue !h 
+    3C 5332 (6322) : pas de tenue !h et 3!c
+    3H 5332 (6322) : pas de tenue !h et 2!c 
+    3D 6!d, singleton !c sans tenue !h 
+    3S 6!d, singleton !s avec ou sans tenue !h
+    3N 6!d, singleton !c et tenue !h
+2H 5!d 4!h 11-20H
+2S 5!d 4!s 11-20H
+2N 12-14 ou 18-19H - Ne promet pas les arrêts majeurs, main régulière (4441 toléré)
+  3C Relais pour 3!d avec un unicolore !c
+    3D 
+      3H singleton !s 
+      3S singleton !h 
+      3N singleton !d
+      4C singleton !d, forcing
+  3D Texas !h 
+    3H pas de tenue !s, pas 4!h 
+    3S fit !h, ctrl !s, 14h 
+    3N tenue !s, pas 4!h 
+    4C 4!c, 18-19H
+    4D fit !h, ctrl !d, 14H
+    4H fit !h, 12-13H 
+    4S fit !h, 18-19H (BW !h ?)
+    4N 18-19H, 4342
+  3H Texas !s 
+    3S pas de tenue !h
+    3N tenue !h, pas 4!s 
+    4C 4!c, 18-19H
+    4D fit !s, ctrl !d, 14H
+    4H fit !s, 18-19H (BW !s ?)
+    4S fit !s, 12-13H
+    4N 18-19H, 3442 ou 3352
+  3S Texas !d : 6 !c/4 !d TDC
+3C 5!d 4!c 11-20H
+3N 15-17H, 4441
+  4C Texas !d 
+  4D Texas !h
+  4H Texas !s 
+  4S Texas !c Unicolore TDC. L'ouvreur freine à 4NT sans honneur !c
+

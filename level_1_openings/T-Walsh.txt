@@ -5,9 +5,9 @@
 
 1C
     1D  4+!h, 5+ HCP
-        1H  Soit fit M 3e, régulier 12-14 ou irrégulier 11-16 (17)
-            Soit fit M 4e, 13-15 (7 perdantes) - régulier 12-14
-                Passe 4M, 0-8 ou 5M, 0-6
+        1H  Soit fit !h 3e, régulier 12-14 ou irrégulier 11-16 (17)
+            Soit fit !h 4e, 13-15 (7 perdantes) - régulier 12-14
+                Passe 4!h, 0-8 ou 5M, 0-6
                 1S  Soit 4!h-5+m, 6-11 
                     Soit 4!h, (8)9-10 (souvent une tolérance !c)
                     Soit 4!h, régulier FM pour orienter les SA
@@ -21,9 +21,54 @@
                         Soit 5+M irrégulier, FM (aussi 5+!s, 5+!h, 12-15)
                         Soit 5M régulier (5332, ou parfois 5422, choix de manche)
         1S  Irrégulier 5+!c-4!s ou 4144, pas de fit !h 3e, 11-17 ; suite nat (4e CF, etc.)
+        1N Balancé, pas 3M 
+        2C 6 !c ou 5 !c/4 !d irrégulier, 11-16, 2- M ; suite nat (3e CF, etc.)
+        2D Inversée nat
+            2H F1 
+            2S modérateur (?)/4e CF
+            3H 6+M belle couleur
+        2H Fit 4e, 11-14 irr
+        2S Irr 5+ !c/4 !s ou 4144, 18-22 ; suite naturelle
+        2N Fit 4e (15)16 S avec courte, ou 22+S avec courte (au plus 3 perdantes)
+        3C 7, 7.5 LJ à !c, pas de fit !h 3e ; suite naturelle
+        3D 6!c 5!d, (12)13-15, 5 perdantes 
+        3H fit !h 4e (irrégulier) 17-19 S ; suite Mathé (?) 
+        3S4D Slinter (3-4 perdantes)
+        3N 24-25 (3-4 perdantes)
+        4C 6+ !c 4!h (3-4 perdantes)
+        4H 6+ !c 4!h, offensif et très concentré (13-15)
     1H  4+!s, 5+ HCP
-        1S  Soit fit M 3e, régulier 12-14 ou irrégulier 11-16 (17)
-            Soit fit M 4e, 13-15 (7 perdantes) - régulier 12-14
+        1S  Soit fit !s 3e, régulier 12-14 ou irrégulier 11-16 (17)
+            Soit fit !s 4e, 13-15 (7 perdantes) - régulier 12-14
+                Passe 4!h, 0-8 ou 5M, 0-6
+                1S  Soit 4!h-5+m, 6-11 
+                    Soit 4!h, (8)9-10 (souvent une tolérance !c)
+                    Soit 4!h, régulier FM pour orienter les SA
+                1NT 4!s-4!h, 6-10
+                2C  Relais pour 2!d (ou 2M avec 4M chez l'ouvreur)
+                    Soit faible à !d
+                    Soit limite avec 5+M
+                    Soit 5M balancé mini quantitatif (au moins RDVxx sur 1SA)
+                2M-1    Relais pour 2M (sauf si ouvreur est 5+!c3Mxx15-17)
+                        Soit 5M, 7-9
+                        Soit 5+M irrégulier, FM (aussi 5+!s, 5+!h, 12-15)
+                        Soit 5M régulier (5332, ou parfois 5422, choix de manche)
+        1N Balancé, pas 3M 
+        2C 6 !c ou 5 !c/4 !d irrégulier, 11-16, 2- M ; suite nat (3e CF, etc.)
+        2DH Inversée nat
+            2S F1 
+            2M' modérateur (?)/4e CF
+            3S 6+M belle couleur
+        2S Fit 4e, 11-14 irr
+        2N Fit 4e (15)16 S avec courte, ou 22+S avec courte (au plus 3 perdantes)
+        3C 7, 7.5 LJ à !c, pas de fit !s 3e ; suite naturelle
+        3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
+        3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé (?) 
+        4CD Splinter (3-4 perdantes)
+        3N 24-25 (3-4 perdantes)
+        4C 6+ !c 4!s (3-4 perdantes)
+        4S 6+ !c 4!s, offensif et très concentré (13-15)
+ 
     1S  Soit pas de majeure, 5-11
         Soit FM balancé (orienté SA), soit 22(5)(4) concentré mineur 12-14
     1NT FM en général balancé, sans M 5e (sauf si 5332 et médiocre M 5e) - autre type de main susceptible de déroger : Toute main avec des ambitions de chelem 
