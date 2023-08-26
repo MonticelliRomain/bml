@@ -1,0 +1,4 @@
+Double 0 Passe 1 
+Redouble 0 Passe 1
+
+Si au-dessus, double even passe Odd.
