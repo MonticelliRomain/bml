@@ -1,7 +1,6 @@
 * Le 2 sur 1 FM
 
 Notre étude est limitée à l’ouverture en majeure. 
-Donc à faire/ définir : 1 !d -2 !c
 Note : 
 L’ancien système reste évidemment après une ouverture en 3ième puisque le 2/1 FM promet 
 l’ouverture et que le n°1 a passé
@@ -31,7 +30,7 @@ Remarques:
 
 1. Si on considère que l’on aurait ouvert une main ne comportant que 11H, il faut 
 l’assimiler à un 2/1 FM
-2. A l’inverse, l’évaluation de la main est « rétroactive ». On aurait ouvert certains mains 
+2. A l’inverse, l’évaluation de la main est « rétroactive ». On aurait ouvert certaines mains 
 mais lorsque le partenaire ouvre, des chicanes peuvent être dévaluées et donc il faut les 
 considérer comme une non-ouverture et dire 1SA.
 
@@ -69,8 +68,8 @@ Minimum 14H avec 2 gros honneurs dans une couleur au moins 6ième
 2H 8-10DH (dans la zone 5-7DH répondre 1 !s ou 1SA)
 3H 8-10DH - 4 atouts (évitez 8H – 4333)
 2N 11-14DH – 3 ou 4 atouts, en-dessous du 2/1 FM
-3S Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 3NT demande de courte : !t, !d, !s
-3N/4C/4D  Splinter singleton : 7-10H - 2 cartes clés.
+3S Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 3NT demande de courte : !c, !d, !s
+3N/4CD  Splinter singleton : 7-10H - 2 cartes clés.
 
 1S--
 3N Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 4!c demande de courte : !d, !h, !c
@@ -209,7 +208,10 @@ la main de l’ouvreur.
   4C 5 !c 4 !s 13-15DH et singleton moins cher
   4D 5 !c 4 !s 13-15DH et singleton plus cher
   4S 5 !c 4 !s 13-15DH, honneurs concentrés régulier
-2N 5332 15+
+2N 17-20 5532 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3T limité à 16.
+    3C Naturel
+    3H Fit !h 
+    3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H
 
 1S-2C
 2D--
