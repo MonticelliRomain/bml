@@ -17,7 +17,8 @@
   
   Une autre enchère non-ambigüe explore pour le grand chelem, demandant un complément.
 
-  Blackwood d'exclusion : Double saut anormal avec fit précisé !
+  Blackwood d'exclusion : Double saut anormal avec fit précisé ! 
+  Réponses : 1, 3/0, 2, 2+Q.
 
   Une réponse de 5NT avec une zone initiale de 2 pts (par exemple l'ouverture de 2NT) propose de découvrir un fit 4-4 au palier de 6.
 
@@ -44,7 +45,16 @@ Après le BW, 5NT est une demande de roi :
     5H 2 As et 5!c 
     5S 2 As et 5!d 
 
-To do : DOPI/ROPI
+D0PI/R0PI
+
+Après intervention adverse sur le Blackwood :
+Double 30 Passe 41n ensuite 2 et 2+Q
+
+Après le contre d'une couleur du Blackwood :
+Redouble 30 Passe 41, ensuite 2 et 2+Q
+
+SI intervention adverse au-dessus de 5 de notre couleur :
+DEP0/REP0 - Double Even, Pass Odd.
 
 Intervention adverse par contre sur les cue-bids : 
 

@@ -42,7 +42,7 @@
         4C/4D Acol !h - Premier contrôle disponible 
         4H Acol !h 
         4S Acol !h (cue-bid) 
-    3C/3D/3C Texas !d, !h et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
+    3C/3D/3H Texas !d, !h et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
     3S 3/4 !s et 7-13 HCP 
         Pass L'enchère la plus fréquente de l'ouvreur faible 
         3N Proposition de jouer 3NT sur base d'un Acol !h 
