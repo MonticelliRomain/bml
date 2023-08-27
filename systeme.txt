@@ -8,7 +8,7 @@
 
 // Here are the level 1 openings
 
-#INCLUDE level_1_openings/1_minor_opening.txt
+#INCLUDE level_1_openings/1_minor_opening.bml
 #INCLUDE conventions/double_2.txt
 #INCLUDE conventions/gazzili.txt
 #INCLUDE conventions/2_1FM.txt
