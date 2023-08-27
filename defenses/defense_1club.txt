@@ -1,0 +1,12 @@
+* Défense sur le trèfle fort
+
+1C 
+    Dbl Comme si l'ouverture 'était d'1!s
+    1D Une intervention d'1!h ou d'1!s 
+    1H Bicolore de même couleur - V 5-5, NV/V 4-4
+    1S Bicolore de même rang
+    1N Bicolore mixte
+    2X Constructif, 6 belles cartes
+    2N Barrage destructif inconnu
+    3X 7 belles cartes
+    

@@ -38,3 +38,34 @@ En pratique :
     - 2NT ou 3SA naturel
     - 3M bicolore m 
     - 4m bicolore mM'
+
+** 2!h Ekren (les deux M faible)
+
+    - X d'appel (transformable) avec 4+ !h
+    - 2!s d'appel court à !h (ensuite 2NT modérateur)
+    - 2NT naturel 16/18 (ensuite 3m NF et 3M FM !c/!d respectivement)
+    - 3m naturel
+    - 3M (semi-)bicolore mineur fort, court M
+    - 3NT naturel
+
+** 2!h Multi (Faible !s ou !s + m ou fort)
+
+    - X ouverture avec 5+!h
+    - 2!s contre d'appel court !s (ensuite 2NT modérateur)
+    - 2NT naturel 16/18
+    - 3x naturel
+    - 3NT naturel
+
+** 2!s Multi (les deux mineures faible ou fort)
+
+    - X ouverture avec 5+!s
+    - 2NT naturel 16/18
+    - 3!c contre d'appel avec + de !h ou égalité de longueur
+    - 3!d contre d'appel avec + de !s
+    - 3M naturel
+    - 3NT naturel
+
+** Ouverture de 3X en Texas 
+
+    - X d'appel 12-17, court de la couleur longue annoncée
+    - 3X+1 main forte avec un bicolore cher

@@ -9,31 +9,38 @@ Principe de la quatrième meilleure :
 - Quatrième carte d'une couleur contenant un honneur (le 10 n'est pas considéré comme un honneur, sauf 109xx ou 10 cinquième. )
 - Tête de séquence d'une séquence d'au moins trois cartes dont un honneur
 - Séquence brisée, le plus gros honneur du début de séquence (A/R/D 109xx - le 10, jusqu'au 9 - D98x le 9.)
-- Sur entame du Roi, si le mort est court - appel par les petites.
-- Top of nothing : *x*xx - la plus grosse; x =x= x /x/ 
+- Top of nothing : *x*xx - la plus grosse; x *x* x x
 - Séquence = 3 cartes avec au moins 1 honneur (àpd T).
-- Si le partenaire ouvre d'1!c et que les adversaires jouent à NT, 4e meilleure même à trèfle.
+- Si le partenaire ouvre d'1!c et que les adversaires jouent à NT, 4e meilleure même à !c.
 
 Sur l'entame : 
+
 -	Roi : Déblocage, Parité. Si le mort est court - appel par les petites
--	As : on appelle avec des couleurs longues (le partenaire est court) et pas des honneurs
--	Dame : Attitude (on dit qu’on aime quand on a des honneurs car son entame provient souvent d’une longue)
--   Valet : Parité (on confirmera par la suite siu intérêt) 
+-	As : Appel avec des couleurs longues (le partenaire est court) et pas des honneurs
+-	Dame : Attitude - on dit qu’on aime quand on a des honneurs car son entame provient souvent d’une longue
+-   Valet : Parité - on confirmera par la suite si intérêt dans la couleur
 
 *** Entame à la couleur
 
-- Tête de séquence de 2 cartes ou séquence brisée.
-- Parité : 
-    Dans 4 cartes, la 2e si pas d'honneur, la 3e si un honneur.
-    Dans 6 cartes, le 3e si pas d'honneur, la 5e si un honneur.
+Tête de séquence de 2 cartes ou séquence brisée.
+
+Parité : 
+
+    - Dans 4 cartes, la 2e si pas d'honneur, la 3e si un honneur.
+    - Dans 6 cartes, le 3e si pas d'honneur, la 5e si un honneur.
+
 Jeu des honneurs : 
-    En 3e position dans la levée, on met l'honneur le moins élevé.
-    Si le partenaire entame le Roi - la Dame promet le Valet.
+
+    - En 3e position dans la levée, on met l'honneur le moins élevé.
+    - Si le partenaire entame le Roi - la Dame promet le Valet.
 
 *** Dans le cours du jeu
 
 Switch petit prometteur - en fonction du mort.
-QUand le partenaire entame d'un honneur et que le mort est court - italien.
+
+Quand le partenaire entame d'un honneur et que le mort est court - italien.
+
 Confirmation d'entame par les petites - si nécessaire.
+
 Première défausse Lavinthal.
 

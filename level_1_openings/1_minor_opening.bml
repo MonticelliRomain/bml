@@ -1,7 +1,6 @@
 * Ouverture de 1m
 
 #INCLUDE conventions/T-Walsh.txt
-#INCLUDE conventions/minor_inverted_fit.txt
 
 ** Enchère du répondant après une inversée
 

@@ -10,6 +10,7 @@ Cette ouverture peut contenir une majeure 5e.
 3N  5!s et 4!h
 4C Bicolore mineur TDC
 4D Bicolore majeur, limité à la manche ou certitude de chelem
+4N Quantitatif
 
 ** Le Puppet Stayman
 
@@ -53,8 +54,8 @@ Cette ouverture peut contenir une majeure 5e.
 
 3S
   3N
-    4C/4D Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
-    4H/S Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
+    4CD Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
+    4HS Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
          Avec certitude de chelem, il faut passer par un texas.
 
 ** Autres réponses
@@ -70,6 +71,6 @@ Cette ouverture peut contenir une majeure 5e.
    Maximum, les réponses sont les suivantes :
   5C 1 ou 4 As
   5D 0 ou 3 As
-  5H 2 As et 5C
-  5S 2 As et 5D
+  5H 2 As et 5!c
+  5S 2 As et 5!d
   5N 2 As et pas de min 5e
