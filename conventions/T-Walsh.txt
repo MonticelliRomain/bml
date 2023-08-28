@@ -143,10 +143,11 @@
 
 1C
   2D
-    2H P/C
+    2H passe ou corrige
       Pass 6!h faible
       2S 6!s faible
-      2/3X 6+ !d, (15)16+ FM
+      2X 6+ !d, (15)16+ FM
+      3X 6+ !d, (15)16+ FM
     2S P/C
       Pass 6!s faible
       3H 6!h faible
@@ -204,37 +205,31 @@
 
 *** La séquence 1!c - 1!d - 1!s
 
-1C
-  1D 
-    1S 
-      1N Naturel, 7-10
-        2D tricolore 4045 15-17
-      2C Pour jouer, 5-9
-      2D 4e couleur forcing 
-      2H 6 !h, 9-11 (6!h faible passe par 2!d sur 1!c)
-      2S Naturel
-      2N Limite
-      3C Fit !c limite 
-      3D 4 (5+) !h - 5+ !d, FM+
-        3H Hx à !h 
-        3S Beaux !s 
-        3N Type 4225
-        4ù Fit !d (3) 4e
-      3H Belle couleur 6e, FM+ avec des réserves 
-      3S Limite 
-      4C Splinter !c, fit !s ; Bicolores au nieau de 3, les enchères à saut sont splinter au niveau de 4, même dans la mineure d'ouverture !!
-      4D Splinter :d, fit !s
+1C-1D-1S-- 
+1N naturel, 7-10
+  2D tricolore 4045 15-17
+2C Pour jouer, 5-9
+2D 4e couleur forcing 
+2H 6 !h, 9-11 (6!h faible passe par 2!d sur 1!c)
+2S naturel
+2N limite
+3C Fit !c limite 
+3D 4 (5+) !h - 5+ !d, FM+
+  3H Hx à !h 
+  3S Beaux !s 
+  3N Type 4225
+  4C Fit !d (3) 4e
+3H Belle couleur 6e, FM+ avec des réserves 
+3S Limite 
+4C Splinter !c, fit !s ; Bicolores au nieau de 3, les enchères à saut sont splinter au niveau de 4, même dans la mineure d'ouverture !!
+4D Splinter :d, fit !s
 
 *** La séquence 1!c - 1!h - 1!s
 
-1C
-  1H
-    1S
-      Pass 4!s, 0-8 ou 5!s, 0-6
+1C-1H-1S--
+P 4!s, 0-8 ou 5!s, 0-6
 
 *** La séquence 1!c - 1!h - 1N
-
-TODO
 
 1C
     1D  4+!h, 5+ HCP

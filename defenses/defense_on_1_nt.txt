@@ -9,8 +9,6 @@
         2H/2S Nat NF 
         2N Relais
           3C mini
-            3D Relais demandant la M cinquième
-            3M Invit
           3D Max 5+!h4!s 
           3H Max 5+!s4!h
           4C 5/5 court !c 
