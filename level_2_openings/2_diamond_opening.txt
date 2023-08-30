@@ -2,14 +2,13 @@
 
 ** Description 
 
-1/2/3e main
+Quatrième main : Acol FI.
+1/2/3e main :
 
 - Acol fort indeterminé à !c ou !d
 - Unicolore 6e à !h 5-10 HCP 
 - Bicolore 5/5 !h + mineure, 5-10 HCP
 - Bicolore majeur FI ou FM
-
-4e main : Acol FI
 
 ** Développements 
 
@@ -17,13 +16,13 @@
 
 2D 
     2H Pour jouer si faible à !h (< 15 HCP) 
-        Pass Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
+        P Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
         2S 5+!s/5+!h 
         2N Bicolore 5+/5+ !h/!c ou !h/!d 
             3C Pour jouer avec des !c ou corriger avec des !d 
             3D Pour jouer avec des !d ou proposition de manche avec des !c 
             3N Proposition naturelle 
-            4/5C Double fit !h/!c (4!c = NF) 
+            4/5C Double fit (4!c = NF) 
             4D/4H Chicane ! - TdC dans la mineure de l'ouvreur
         3C/3D Acol naturel NF 
         3H 5/5 Majeur FI
@@ -70,14 +69,15 @@
         4C/4D Acol !c/!d 
         4H Bic M 5/5 Fi ou FM 
         4S 6!s/4!h FI 
-    3C/3D/3S Texas !d, !s et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
+    3C/3D/3S Texas !d, !s et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. 
+             L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
         3K (sur 3!c) négatif
         3H Naturel + fit !d (positif)
         3S Bic M 
         3N Acol !c (sans fit !d ou sans ambition)
         4D Fit setting fort (Acol !c ou Bic M avec 3!d ou Hx)
     3H 3/4 !h et 7-13 HCP 
-        Pass L'enchère la plus fréquente de l'ouvreur faible 
+        P L'enchère la plus fréquente de l'ouvreur faible 
         3S Bic M fort 
             3N Négatif à !s et à !h, minimum
             4C/4D Naturel F1
@@ -98,38 +98,38 @@
 ** Après intervention 
 
 2D 
-    Dbl 
+    (Dbl) 
         Pass pas 3 cartes à !h
-            Pass 
-                ReDbl 6!h (Principe : faire jouer le répondant le + souvent possible !)
+            (Pass) 
+                R 6!h (Principe : faire jouer le répondant le + souvent possible !)
                 2H 5!h + 5m
                 2S Bic M fort 
                 3C Acol !c
-        ReDbl Unicolore autonome soit misfit !h soit semi-fit !h avec tolérance pour les mineures
-            Pass 
+        R Unicolore autonome soit misfit !h soit semi-fit !h avec tolérance pour les mineures
+            (Pass) 
                 2H Version faible
                 2S Bic M Fort 
-        2h 2+ !h 
+        2H 2+ !h 
         2S/3C/3D Naturel F1 mais pas auto-forcing
         3H permet de dire 4!h
-            Dbl
-                Pass 6!s Toujours selon le même principe 
-                ReDbl 5!s + 5m  
+            (Dbl)
+                P 6!s Toujours selon le même principe 
+                R 5!s + 5m  
                 2N Acol !h + arrêt !s 
                 3C 5!s + 6!c faible 
                 3D 5!s + 6!d faible 
                 3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s)
         2N fitté 
         3X/4H System on 
-    Pass 
+    (Pass) 
         2H 
-            Dbl 
-                Pass 6!h Principe : Faire jouer le répondant le plus souvent possible
-                ReDbl 5!h/5m 
+            (Dbl) 
+                P 6!h Principe : Faire jouer le répondant le plus souvent possible
+                R 5!h/5m 
                 2S Bic M ou 6!s/4!h FI (NF)
                 2N 5!h + 6!c/6!d
                 3C/3D Acol 
                 3M Bic M FM (et ne veut pas passer sur 2Cx)
         2S
-            Dbl
+            (Dbl)
                 System on

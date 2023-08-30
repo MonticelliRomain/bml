@@ -278,23 +278,25 @@ Rem:
       4S minimum
     4S 12-13H+
   2H
-    2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). L’atout !s n’est plus recherché.
+    2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). 
+       L’atout !s n’est plus recherché.
       2N promet une tenue à !d.
       3H 6 cartes. 
       3C 3 cartes ou un honneur second sans tenue à !d
-      3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes (ou l’As pour jouer de la bonne main
+      3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes 
+         (ou l’As pour jouer de la bonne main)
     2N main régulière avec au moins 2 cartes à !h (relais qui ne promet pas d'arrêt)
       3C 6 !h et singleton !c
       3D 6 !h et singleton !d
       3H 6322
       3N 5332
-    3H Une perdante maximum en face d'un singleton 
-      3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
-      3N naturel : pas de fit !h et mini.
-      4C naturel : très breaux !c 
-      4D ctrl !d, court !s et ctrl !c 
-      4H frein
-      4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
+  3H Une perdante maximum en face d'un singleton 
+    3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
+    3N naturel : pas de fit !h et mini.
+    4C naturel : très breaux !c 
+    4D ctrl !d, court !s et ctrl !c 
+    4H frein
+    4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
   2N 17-20 5332 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3!c limité à 16.
     3C Naturel
     3H Fit !h 

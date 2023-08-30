@@ -2,22 +2,23 @@
 
 ** Sur le SA fort
 
-1NT adverse
-  Dbl Texas !c ou Landy (BIC M 4+/4+) si suivi de 2!d
+(1N)
+  D Texas !c ou Landy (BIC M 4+/4+) si suivi de 2!d
     2C Avec une préférence M (ou sans préférence avec un unicolore !c)
       2D Landy 
         2H/2S Nat NF 
         2N Relais
           3C mini
-          3D Max 5+!h4!s 
-          3H Max 5+!s4!h
+          3D Max 5+!h/4!s 
+          3H Max 5+!s/4!h
           4C 5/5 court !c 
           4D 5/5 court !d
         3C NF 
         3D F1
         3M Invit
     2D Sans préférence M (au mieux 2/2)
-        Le répondant dit 2!d avec un unicolore !d ou un semi-bicolore m. L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. Les autres enchères sont naturelles avec du !c.
+       Le répondant dit 2!d avec un unicolore !d ou un semi-bicolore m. 
+       L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. Les autres enchères sont naturelles avec du !c.
     2H Unicolore
     2S Unicolore
     2N F1
@@ -67,15 +68,15 @@
 
 En réveil :
 
-1N
-  Dbl 13+ et semi-régulier (au moins 44 ou 5+)
+(1N)-Pass-(Pass)
+  D 13+ et semi-régulier (au moins 44 ou 5+)
   2C Landy
   2X Naturel
   3X Naturel + fort
 
 ** Sur le SA faible
 
-  - Contre : tendance punitive. AU minimum le maximum du NT, main +- balancée. Le répondant passe avec une main plate à partir de 8H.
+  - Contre : tendance punitive. Au minimum le maximum du NT, main +- balancée. Le répondant passe avec une main plate à partir de 8H.
     2!c est stayman, 2!d, 2!h, 2!s et 2NT sont des Texas.
   - 2!c : Landy - Bicolore majeur au moins 5/4.
   - 2!d, 2!h, 2!s, 2NT : Texas.
@@ -113,36 +114,30 @@ En réveil : Idem.
 
 ** Réponses à l'intervention d'1NT 
 
-1H
-  1N
-    Pass
-      2C Texas !d
-      2D Stayman 
-      2H Texas !s
-      2S Texas !c
-      2N Naturel 7+ - 9-H
-      3C Texas !d
+(1H)-1N-(Pass)
+  2C Texas !d
+  2D Stayman 
+  2H Texas !s
+  2S Texas !c
+  2N Naturel 7+ - 9-H
+  3C Texas !d
 
-1S
-  1N
-    Pass
-      2C Texas !d
-      2D Texas !h
-      2H Stayman
-      2S Texas !c
-      2N Naturel 7+ - 9-H
-      3C Texas !d
+(1S)-1N-(Pass)
+  2C Texas !d
+  2D Texas !h
+  2H Stayman
+  2S Texas !c
+  2N Naturel 7+ - 9-H
+  3C Texas !d
 
-1CD
-  1N
-    Pass
-      2C Stayman
-      2D Texas !h
-      2H Texas !s
-      2S Texas !c
-      2N Naturel 7+ - 9-H
-      3C Texas !d
-      4D Bicolore majeur
+(1CD)-1N-(Pass)
+  2C Stayman
+  2D Texas !h
+  2H Texas !s
+  2S Texas !c
+  2N Naturel 7+ - 9-H
+  3C Texas !d
+  4D Bicolore majeur
 
 ** En réveil 
 

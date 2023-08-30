@@ -10,8 +10,8 @@
 Le but est de faire jouer le contrat par l’ouvreur et donc le joueur 
 qui est intervenu devra entamer.
 
-1C-1D
-X remplace l'enchère d'1!h
+1C-(1D)
+D remplace l'enchère d'1!h
 1H remplace l'enchère d'1!s
 1S remplace le contre d'appel
 1N 8-10H avec tenue
@@ -26,8 +26,8 @@ X remplace l'enchère d'1!h
 3S Barrage !s 
 4D 5!h + 5!s 11-12H
 
-1CD-1H
-X remplace l'enchère d'1!s
+1CD-(1H)
+D remplace l'enchère d'1!s
 1S remplace le contre d'appel
 1N 8-10H avec tenue
 2CD soutien !c/!d 
@@ -39,8 +39,8 @@ X remplace l'enchère d'1!s
 3H Barrage !s 
 3S L'enchère de 3NT avec Axx à !h 
 
-1C X 
-XX 11H+ punitif
+1C-(Dbl)
+R 11H+ punitif
 1D Texas !h 
 1H Texas !s 
 1S 8+ régulier ou du !d 
@@ -55,7 +55,7 @@ XX 11H+ punitif
     3H Max 55
     3S Max 64
 2D Texas 6!h toutes zones 
-2H texas 6!s toutes zones 
+2H Texas 6!s toutes zones 
 2S Soutien FM !c 
 2N Soutien limite !c, supporte 3NT 
 3C Barrage !c 
@@ -63,8 +63,8 @@ XX 11H+ punitif
 
 Les développements après 1!d et 1!h sont ceux du Cachalot.
 
-1D X 
-XX Texas !h 
+1D-(Dbl) 
+R Texas !h 
 1H Texas !s 
 1S 8+ régulier ou soutien !d 
 2C 5 !s/4+ !h 5-9H
@@ -78,7 +78,7 @@ XX Texas !h
     3H Max 55
     3S Max 64
 2D Texas 6!h toutes zones 
-2H texas 6!s toutes zones 
+2H Texas 6!s toutes zones 
 2S Soutien FM !d 
 2N Soutien limite !d, supporte 3NT 
 3D Barrage !d 
@@ -86,7 +86,7 @@ XX Texas !h
 
 Passe puis contre : punitif, remplace le surcontre
 Passe puis une enchère : 11+, se préparait à contrer punitif, donc deux couleurs 4eme.
-Les développements après XX et 1!h sont ceux du Cachalot.
+Les développements après Rdbl et 1!h sont ceux du Cachalot.
 
 ** Attitude de l’ouvreur. Le répondant a 
 nommé une majeure
@@ -108,7 +108,7 @@ par un cue-bid puis on fit.
 bonne main.
 3. l’inversée existe mais dénie 3 cartes dans la majeure du répondant.
 
-1C-1D-X-P
+1C-(1D)-Dbl-(Pass)
 1H garantit 3 cartes à !h et s’utilise dans 3 situations
 
 1. Avec 4 cartes à !s
@@ -116,10 +116,10 @@ bonne main.
 3. Avec 18-19H régulier sans tenue à !d
 Rem : par inférence, 3 !c dénie 3 cartes à !h
 
-1C-1D-1H-P
+1C-(1D)-1H-(Pass)
 1S
 
-1CD-1H-X-P
+1CD-(1H)-Dbl-(Pass)
 1S
 
 Guarantissent 3 cartes à !s et s’utilisent dans 2 situations:
@@ -127,35 +127,35 @@ Guarantissent 3 cartes à !s et s’utilisent dans 2 situations:
 1. Avec une distribution irrégulière ou 3226
 2. Avec 18-19H régulier sans tenue dans la couleur d’intervention
 
-** Développement après une redemande à 1SA
+** Développements après une redemande à 1NT
 
-1. Le Roudi fixe reste d’application comme sans intervention
+1. Le Double-Deux reste d’application comme sans intervention
 2. Le Texas qui rallonge la majeure, rectification obligatoire
 
 Avec 5 !s et 4 !h nommer les !h en Texas qui est faible ou FM. 
 Propositionnel, il faut passer par le Roudi fixe.
 
-1C-1D-1H-P
-1N-P-2D
+1C-(1D)-1H-(Pass)
+1N-(Pass)-2D
 
 L’ouvreur ne dira 2 !h qu’avec 4 cartes à !h, sinon 2 !s
 
-Rem : le Texas est également employé sur la redemande de 2SA de l’ouvreur
+Rem : le Texas est également employé sur la redemande de 2NT de l’ouvreur
 
 La répétition de la majeure montre exactement 4 cartes et un soutien 
 de 5 cartes forcing de manche dans la mineure d’ouverture
 
-1C-1D-X-P
-1NT-P-2H
+1C-(1D)-Dbl-(Pass)
+1NT-(Pass)-2H
 
-1C-1D-1H-P
-1NT-P-2S
+1C-(1D)-1H-(Pass)
+1NT-(Pass)-2S
 
-** Développements après 1!c-1!d-X-P-1!h
+** Développements après 1!c-(1!)d-Dbl-(Pass)-1!h
 
 *** Retrouver un soutien !s de la bonne main
 
-1C-1D-X-P
+1C-(1D)-Dbl-(Pass)
 1H--
 1N 4 cartes à !s, illimité donc forcing
   2C 12-13H le plus souvent 6 cartes
@@ -178,7 +178,7 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
 
 *** Le répondant a 5 cartes à !h (sans 4 cartes à !s)
 
-1C-1D-X-P
+1C-(1D)-Dbl-(Pass)
 1H
   2D 14H+
   2H 6-9H
@@ -191,7 +191,7 @@ Rem : L’enchère de 2 !d ne garantit pas 5 cartes à !h, on l’apprendra par 
 
 Il promet 5 cartes à !c et dénie 5 cartes à !h
 
-1C-1D-X-P
+1C-(1D)-Dbl-(Pass)
 1H
   2C 6-10H
   3C 11+H FM
@@ -206,8 +206,8 @@ Cette enchère dénie 5 cartes à !h, elle dénie 4 cartes à !s et elle dénie 
 Elle peut être utilisée avec un soutien limite 10+/11-H à !c
 Demande de renseignements sur la force et la distribution de l’ouvreur.
 
-1C-1D-X-P
-1H-P-1S-P--
+1C-(1D)-Dbl-(Pass)
+1H-(Pass)-1S-(Pass)--
 1N 12-14H régulier avec ou sans l’arrêt (et donc il possède 4 !s et 3 !h)
 2C 12-14H 5 ou 6 cartes à !c irrégulier (ou 6322)
 2D FM, 17H+ régulier sans tenue, ou unicolore !c
@@ -219,13 +219,13 @@ Demande de renseignements sur la force et la distribution de l’ouvreur.
 Cette enchère est FM. Elle dénie 4 cartes à !s
 S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !h et 14H+ (voir avant).
 
-** Développements après 1!c-1!d-1!h-P-1!s
+** Développements après 1!c-(1!d)-1!h-(Pass)-1!s
 
 *** Exprimer un soutien !s
 
 Le répondant possède donc 5 cartes à !s
 
-1C-1D-1H-P
+1C-(1D)-1H-(Pass)
 1S--
 2D 14H+
 2S 6-9H
@@ -236,7 +236,7 @@ Le répondant possède donc 5 cartes à !s
 
 Il promet 5 cartes à !c et dénie 5 cartes à !s
 
-1C-1D-1H-P
+1C-(1D)-1H-(Pass)
 1S--
 2C 6-10H
 3C 11H+ FM
@@ -246,8 +246,8 @@ Il promet 5 cartes à !c et dénie 5 cartes à !s
 L’enchère de 2 !h est naturelle, toute zone et donc forcing pour un tour.
 Naturel, forcing illimité 6H+
 
-1C-1D-1H-P
-1S-P-2H-P--
+1C-(1D)-1H-(Pass)
+1S-(Pass)-2H-(Pass)--
 2S 12/14H irrégulier (ou 3226)
 2N 18/19H régulier sans tenue !d (on jouera à !s une manche ou plus)
 3C 15H+ irrégulier
@@ -255,13 +255,13 @@ Naturel, forcing illimité 6H+
 3H 4 cartes à !h, 12/13H
 4H 4 cartes à !h, 14/16H
 
-***  Le relais à 1SA
+***  Le relais à 1NT
 
 Relais forcing un tour sans enchère naturelle. Dénie 5 cartes à !s et dénie 4 cartes à !h. 
 Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
 
-1C-1D-1H-P
-1S-P-1N-P--
+1C-(1D)-1H-(Pass)
+1S-(Pass)-1N-(Pass)--
 2C irreg ,11/14H, 5 ou 6 cartes à !c (3226 possible)
 2D irreg ,17H+ sans 4 cartes à !h
 2H irreg ,17H+ naturel bicolore cher
@@ -277,18 +277,18 @@ Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
 Soit un soutien !s 14H+
 Soit une main régulière, FM sans tenue à !d
 
-1C-1D-1H-P
-1S-P-2D-P--
+1C-(1D)-1H-(Pass)
+1S-(Pass)-2D-(Pass)--
 2H résidu 3 ou 4 cartes à !h et donc cours à !d 
 2S montre 6322 sans tenue à !d
 2N tenue à !d, 6322 ou singleton !h possible.
 3C courte à !h sans tenue !d
 3D 18-19H régulière sans tenue !d
 
-** Développements après 1!c-1!h-X-P-1!s
+** Développements après 1!c-(1!h)-Dbl-(Pass)-1!s
 
 Peu de modifications par rapport à la séquence
-1C-1D-1H-P
+1!c-(1!d)-1!h-(Pass)
 1S
 
 Les enchères de soutiens et le relais à 1SA restent inchangés.
@@ -298,7 +298,7 @@ répondant.
 
 ** Développements après une enchère au niveau de 2
 
-1C-1D/X-2D-P--
+1C-(1D/Dbl)-2D-(Pass)--
 2H Zone 1, une ou deux cartes
 2S naturel (bicolore cher), singleton !h, F1
 2N Soutien FM 
@@ -312,7 +312,7 @@ répondant.
 3H Barrage. Le répondant nomme la manche en zone 2, 3 et + 
 4H gambling en face d'un 2 faible.
 
-1C-1D/X-2H-P--
+1C-(1D/Dbl)-2H-(Pass)--
 2S Zone 1, une ou deux cartes
 2N Soutien FM 
   3H Re-Texas 
@@ -326,7 +326,7 @@ répondant.
 3S Barrage. Le répondant nomme la manche en zone 2, 3 et + 
 4S Gambling en face d'un 2 faible
 
-1CD-1H-2H-P--
+1CD-(1H)-2H-(Pass)--
 2S rectification pas nécessairement fittée (passe sur une enchère naturelle d'un 2!s)
   3S Et/ou toute autre enchère FM 
 2N Soutien FM
@@ -340,12 +340,12 @@ répondant.
 3S Proposition en face d'un 2 faible
 4S Gambling en face d'un 2 faible
 
-1C-X-2S-P--
+1C-(Dbl)-2S-(Pass)--
 2N Naturel, tenue dans les majeures
 3C Régulier, problème de tenue 
 3DHS Singleton
 
-1C-1D-2S-P--
+1C-(1D)-2S-(Pass)--
 2N Tenue à !d, toutes distributions (singleton possible)
 3C Régulier, sans tenue !d
 3DHS Singleton sans tenue !d

@@ -103,7 +103,8 @@ Remarques :
       3N enclenche les contrôles
         3S4CD court
     3S 5 cartes à !s sans 3 cartes à !h 
-  3m BIC 5+!h/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3m BIC 5+!h/5+m, TDC (au moins 11H concentrés). 
+     Sans ambition de chelem, le 5/5 sera traité comme un 5/4
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
 
@@ -128,7 +129,8 @@ Remarques :
       3N 5!s4m22 honneurs concentrés
       4CDH contrôle, unicolore !s TDC
     3S 3 cartes, pas intéressé par m donc sans 4m 
-  3m BIC 5+!s/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3m BIC 5+!s/5+m, TDC (au moins 11H concentrés). 
+     Sans ambition de chelem, le 5/5 sera traité comme un 5/4
   3H BIC majeur fort
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
@@ -189,7 +191,7 @@ Remarque importante
 
 - Forcing manche
 - Ne s'emploie pas avec des mains comportant un singleton 
-- Ne s'emploie pas avec les 2 maheures 4e 
+- Ne s'emploie pas avec les 2 majeures 4e
 
 1N-3C 
 3D 0, 1 ou 2 majeures 4e
@@ -205,6 +207,7 @@ Remarque importante
   4H ambition de chelem à !s 
   3N pour jouer
   4CD 15+, 5332
+3N 5!h/4!s
 
 ** 1NT-3!h/!s : 5/4 mineurs court !h/!s
 

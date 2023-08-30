@@ -56,20 +56,20 @@
 ** Après intervention 
 
 2H 
-    Dbl 
-        Pass pas 3 cartes à !s 
-            Pass 
-                ReDbl 6!s (Principe : faire jouer le répondant le + souvent possible !)
+    (Dbl)
+        Pass 2- !s 
+            (Pass) 
+                R 6!s (Principe : faire jouer le répondant le + souvent possible !)
                 2S 5!s + 5m
-        ReDbl Unicolore autonome soit misfit !s soit semi-fit !s avec tolérance pour les mineures
-            Pass 
-                Pass Acol !h 
+        R Unicolore autonome soit misfit !s soit semi-fit !s avec tolérance pour les mineures
+            (Pass) 
+                P Acol !h 
                 2S 6!s 
                 2N/3C 5!c/5!d pour faire jouer le partenaire dans son unicolore.
         2S au moins 2!s
-            Dbl
-                Pass 6!s Toujours selon le même principe 
-                ReDbl 5!s + 5m  
+            (Dbl)
+                P 6!s Toujours selon le même principe 
+                R 5!s + 5m  
                 2N Acol !h + arrêt !s 
                 3C 5!s + 6!c faible 
                 3D 5!s + 6!d faible 
