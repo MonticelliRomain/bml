@@ -67,7 +67,8 @@ conseillé alors que le doubleton comporte un honneur. L’autre majeure troisi�
   3S TDC
   4C Texas !h
   4D Texas !s
-  4HS to play 
+  4HS to play
+3C 5!s 4!h
 
 // Quand utiliser quelle réponse ? 4C Texas !h, 4D Texas !s 4CS to play
 
@@ -98,10 +99,10 @@ Remarques :
       4CDH contrôle, unicolore !h TDC
     3D Fit !h, max 
       3N enclenche les contrôles
-        3S4CD court
+      3S4CD court
     3H Fit !h, min
       3N enclenche les contrôles
-        3S4CD court
+      3S4CD court
     3S 5 cartes à !s sans 3 cartes à !h 
   3m BIC 5+!h/5+m, TDC (au moins 11H concentrés). 
      Sans ambition de chelem, le 5/5 sera traité comme un 5/4
@@ -118,7 +119,7 @@ Remarques :
 1NT-2H
 2S
   2N Relais FM. Soit BIC 5!s/4m, soit Unicolore !s TDC 
-    3C 2 cartes à !h
+    3C 2 cartes à !s
       3D Singleton !h 
         3H 
           3S les !c
@@ -128,11 +129,17 @@ Remarques :
       3S singleton !d 
       3N 5!s4m22 honneurs concentrés
       4CDH contrôle, unicolore !s TDC
-    3S 3 cartes, pas intéressé par m donc sans 4m 
+    3D Fit !s, max
+      3N enclenche les contrôles
+      3S4CD court
+    3H 5 cartes à !h sans 3 cartes à !s
+    3S Fit !s, min
+      3N enclenche les contrôles
+      4CDH court
   3m BIC 5+!s/5+m, TDC (au moins 11H concentrés). 
      Sans ambition de chelem, le 5/5 sera traité comme un 5/4
   3H BIC majeur fort
-  3S/4C/4D Splinter
+  4CDH Splinter
   4N Quantitatif 16-17 HL - 5332
 
 ** 1NT-2S : Texas !c ou 8-9H régulier
@@ -173,8 +180,8 @@ Il est préférable que l'ouvreur ait une tenue à !c lorsqu'il répond 3!c.
   3N singleton !c
   4C TDC !d, singleton !c 
   4D TDC !d sans singleton
-  4H 6!c/5!h NF 
-  4S 6!c/5!s NF 
+  4H 6!d/5!h NF 
+  4S 6!d/5!s NF 
 3C maxi 
   3D 0-6HL
   3H singleton !s
@@ -182,8 +189,8 @@ Il est préférable que l'ouvreur ait une tenue à !c lorsqu'il répond 3!c.
   3N singleton !c
   4C TDC !d, singleton !c 
   4D TDC !d sans singleton
-  4H 6!c/5!h NF 
-  4S 6!c/5!s NF 
+  4H 6!d/5!h NF 
+  4S 6!d/5!s NF 
 
 ** 1NT-3!c : Puppet Stayman 
 
