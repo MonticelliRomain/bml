@@ -43,7 +43,8 @@ D remplace l'enchère d'1!s
 R 11H+ punitif
 1D Texas !h 
 1H Texas !s 
-1S 8+ régulier ou du !d 
+1S 8+ régulier ou du !d
+1N Texas !c 
 2C 5 !s/4+ !h 5-9H
   2N Relay
     3C Mini
@@ -66,7 +67,8 @@ Les développements après 1!d et 1!h sont ceux du Cachalot.
 1D-(Dbl) 
 R Texas !h 
 1H Texas !s 
-1S 8+ régulier ou soutien !d 
+1S 8+ régulier ou soutien !d
+1N Texas !c
 2C 5 !s/4+ !h 5-9H
   2N Relay
     3C Mini
@@ -151,7 +153,7 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
 1C-(1D)-1H-(Pass)
 1NT-(Pass)-2S
 
-** Développements après 1!c-(1!)d-Dbl-(Pass)-1!h
+** Développements après 1!c-(1!d)-Dbl-(Pass)-1!h
 
 *** Retrouver un soutien !s de la bonne main
 
@@ -288,11 +290,10 @@ Soit une main régulière, FM sans tenue à !d
 ** Développements après 1!c-(1!h)-Dbl-(Pass)-1!s
 
 Peu de modifications par rapport à la séquence
-1!c-(1!d)-1!h-(Pass)
-1S
+1!c-(1!d)-1!h-(Pass)-1!s
 
-Les enchères de soutiens et le relais à 1SA restent inchangés.
-Le cue-bid des deux joueurs s’exprime par l’enchère de 2!h
+Les enchères de soutien et le relais à 1SA restent inchangés.
+Le cue-bid des deux joueurs s’exprime par l’enchère de 2!h.
 L’enchère de 2!d est un bicolore cher chez l’ouvreur et non forcing, canapé avec 4!s 5+!d chez le 
 répondant.
 

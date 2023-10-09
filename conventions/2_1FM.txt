@@ -208,7 +208,7 @@ la main de l’ouvreur.
   4C 5 !c 4 !s 13-15DH et singleton moins cher
   4D 5 !c 4 !s 13-15DH et singleton plus cher
   4S 5 !c 4 !s 13-15DH, honneurs concentrés régulier
-2N 17-20 5332 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3T limité à 16.
+2N 17-20 5332 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3!c limité à 16.
     3C Naturel
     3H Fit !h 
     3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H

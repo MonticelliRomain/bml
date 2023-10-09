@@ -64,9 +64,9 @@
     2S Irr 5+ !c/4 !s ou 4144, 18-22 ; suite naturelle
     2N 18-19 Régulier, 3- !h
       3C Relais
-        3D 4 (belles) +!c, FM
+        3D 5 (belles) +!c, FM
         3H 3!h, FM
-        3S 4- !c, 2 !h, 4!s
+        3S 5- !c, 2 !h, 4!s
       3D Re-Texas !h, 5+!h
     3C 7, 7.5 LJ à !c, pas de fit !h 3e ; suite naturelle
     3D 6!c 5!d, (12)13-15, 5 perdantes 
@@ -91,12 +91,13 @@
         Soit limite avec 5+!h
         Soit 5!h balancé mini quantitatif (au moins RDVxx sur 1SA)
     2D  Relais pour 2!h (sauf si ouvreur est 5+!c 3!hxx 15-17)
-      2H
+      5!h, 7-9H ou FM irrégulier ou choix de manche
+      2H 
         Pass 5!h, 7-9
-        2S 5+!h 4+!s FM
-        2N 5+!h, 4+!c 
-        3C 5+!h, 4!d 
-        3D 5+!h, 5+!d 
+        2S 5+!h 4+!s
+        2N 5+!h, 4+!c
+        3C 5+!h, 4!d
+        3D 5+!h, 5+!d
         3H TDC avec une laide couleur 6e
         3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 
            16-18, 4/5 perdantes              
@@ -238,13 +239,13 @@ Rappel sur la 4e CF :
   2C Relais pour 2!d
     2D
       Pass 5+!d, faible
-      2C 5!h, 10-11
+      2H 5!h, 10-11
       2S 5!h-4!s, 10-11
       2N 5 très beaux !h (au moins 2GH+V10) régulier, choix de manche avec xx
       3CD 5!h-5!c/!d, 9-10
       3H 6!h (mauvais) sans courte, 10-11
-      5!h régulier, quantitatif et NF
-  2D Transfert pour 2!h
+      3N régulier, quantitatif et NF
+  2D Transfert pour 2!h, 5!h, 7-9H ou FM irrégulier ou choix de manche
     2H
       Pass 5!h, 7-9H
       2S 5(+)!h-4+!s
@@ -265,7 +266,7 @@ Rappel sur la 4e CF :
   2S Range ask
     2N Mini
       Passe Régulier limite ou 4!h 5m tendance sans singleton
-      3T 4!h-5+!c, limite
+      3C 4!h-5+!c, limite
       3D 4!h-5+!d, limite
       3S 1444 ou 0445, FM
       4m 4!h-6+m, 17+ (couleur m au moins semi-solide; par opposition, 3m
@@ -375,7 +376,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
         3S 4-!c, 2-3!h, 3!s
     3C 7, 7.5 LJ à !c, pas de fit !s 3e ; suite naturelle
     3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
-    3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé (?) 
+    3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
     4CD Splinter (3-4 perdantes)
     3N 24-25 (3-4 perdantes)
     4C 6+ !c 4!s (3-4 perdantes)
@@ -457,7 +458,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 **** La séquence 1!c - 1!h - 1!s - 2!h
 
 1C-1H
-1S-2H 5!s, 7-9H ou 5+!h irrégulier FM
+1S-2H 5!s, 7-9H ou 5+!s irrégulier FM
   2S Fit !s 3/4e, 11-14
     2N 5(+)-4+!c
     3C 5(+)-4!d
