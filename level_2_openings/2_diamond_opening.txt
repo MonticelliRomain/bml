@@ -14,43 +14,45 @@ Quatrième main : Acol FI.
 
 1/2/3e main
 
-2D 
-    2H Pour jouer si faible à !h (< 15 HCP) 
-        P Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
-        2S 4+!s/4+!h 
-            2N Relais
-                3C Montre des !h + longs (5+)
-                    3D
-                        3H Résidu !c ou solo chelem 6+
-                        3S Résidu !d
-                        3N 4522
-                        4CD 4504/4540
-                        4H 6/5 mini
-                3D 5+ !s 
-                    3H relais
-                        3S Résidu !c
-                        3N résidu !d
-                3H 5+/5
-                3S 6/4
-                3N 5422/5431 22H+
-                4CD 5404/5440
-                4H 6/5 Mini
-            3CD 6 très belles cartes
-            3HS 4 cartes 5DH+
-            3N 5/5 ou 6/5 m faible
-            4CD Chicane
-            4HS Naturel < 5DH
-        2N Bicolore 5+/5+ !h/!c ou !h/!d 
-            3C PoC
-            3D PoC 
-            3S Relais le + fort
-            3N Proposition naturelle
-            4/5C Double fit (4!c = NF) 
-            4H Chicane ! - TdC dans la mineure de l'ouvreur
-        3C/3D Acol naturel NF 
-        3H 5/5 Majeur FI
-        3S 6!s/4!h FI
-        3N Gambling à !d
+2D-2H Pour jouer si faible à !h (< 15 HCP) 
+    P Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
+    2S 4+!s/4+!h 
+        2N Relais
+            3C Montre des !h + longs (5+)
+                3D relais
+                    3H Résidu !c ou solo chelem 6+
+                    3S Résidu !d
+                    3N 4522
+                    4CD 4504/4540
+                    4H 6/5 mini
+            3D 5+ !s 
+                3H relais
+                    3S Résidu !c
+                    3N résidu !d
+            3H 5+/5
+            3S 6/4
+            3N 5422/5431 22H+
+            4CD 5404/5440
+            4H 6/5 Mini
+        3CD 6 très belles cartes
+        3HS 4 cartes 5DH+
+        3N 5/5 ou 6/5 m faible
+        4CD Chicane
+        4HS Naturel < 5DH
+    2N Bicolore 5+/5+ !h/!c ou !h/!d 
+        3C PoC
+        3D PoC 
+        3S Relais le + fort
+        3N Proposition naturelle
+        4/5C Double fit (4!c = NF) 
+        4H Chicane ! - TdC dans la mineure de l'ouvreur
+    3C/3D Acol naturel NF 
+    3H 5/5 Majeur FI
+    3S 6!s/4!h FI
+    3N Gambling à !d
+    
+    
+2D
     2S Relais + misfit !h (max Hx), n'envisage normalement pas 4!h en face d'un 5/5
         2N Acol Mineur
             3C Relais 
@@ -81,7 +83,7 @@ Quatrième main : Acol FI.
             4M To play
         3N ARDxxx !h 
         4C/4D 1er cue-bid dans un Bic M 5/5 FI ou FM 
-        4H 6!s/4!h FI 
+        4H 6!s/4!h FI
     2N Relais fitté !h au moins 3 cartes, pas FM 
         3C 5!c mini 
             3H encourageant NF 

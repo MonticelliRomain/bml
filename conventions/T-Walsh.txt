@@ -307,7 +307,7 @@ Rappel sur la 4e CF :
 Rappels sur la troisième enchère du répondant après départ 3e CF
 
   - Le fit de la mineur d'ouverture : naturel, FM, fixe l'atout possible (en mineure !) si séquence de chelem
-  - La réponse de 2SA au "fit" préférentiel à 2M de l'ouvreur est un Relais FM,n suite naturelle
+  - La réponse de 2SA au "fit" préférentiel à 2M de l'ouvreur est un Relais FM, suite naturelle
   - Une nouvelle couleur est naturelle FM
 
 **** La séquence 1!c - 1!d - 3!h

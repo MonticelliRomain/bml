@@ -293,7 +293,7 @@ Rem:
   3H Une perdante maximum en face d'un singleton 
     3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
     3N naturel : pas de fit !h et mini.
-    4C naturel : très breaux !c 
+    4C naturel : très beaux !c 
     4D ctrl !d, court !s et ctrl !c 
     4H frein
     4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
