@@ -2,7 +2,7 @@
 
 ** Description 
 
-Quatrième main : Acol FI.
+Quatrième main : Acol FI. ou 6 cartes 11-13 ou 5/5 11-13
 1/2/3e main :
 
 - Acol fort indeterminé à !c ou !d
@@ -44,8 +44,8 @@ Quatrième main : Acol FI.
         3D PoC 
         3S Relais le + fort
         3N Proposition naturelle
-        4/5C Double fit (4!c = NF) 
-        4H Chicane ! - TdC dans la mineure de l'ouvreur
+        4/5C PoC 
+        4H Chicane !h - TdC dans la mineure de l'ouvreur
     3C/3D Acol naturel NF 
     3H 5/5 Majeur FI
     3S 6!s/4!h FI
@@ -139,13 +139,6 @@ Quatrième main : Acol FI.
         2H 2+ !h 
         2S/3C/3D Naturel F1 mais pas auto-forcing
         3H permet de dire 4!h
-            (Dbl)
-                P 6!h Toujours selon le même principe 
-                R 5!h + 5m  
-                2N Acol !h + arrêt !s ??
-                3C 5!h + 6!c faible 
-                3D 5!h + 6!d faible 
-                3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s) ??
         2N fitté 
         3X/4H System on 
     (Pass) 
