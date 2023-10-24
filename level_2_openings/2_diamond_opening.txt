@@ -140,12 +140,12 @@ Quatrième main : Acol FI.
         2S/3C/3D Naturel F1 mais pas auto-forcing
         3H permet de dire 4!h
             (Dbl)
-                P 6!s Toujours selon le même principe 
-                R 5!s + 5m  
-                2N Acol !h + arrêt !s 
-                3C 5!s + 6!c faible 
-                3D 5!s + 6!d faible 
-                3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s)
+                P 6!h Toujours selon le même principe 
+                R 5!h + 5m  
+                2N Acol !h + arrêt !s ??
+                3C 5!h + 6!c faible 
+                3D 5!h + 6!d faible 
+                3H Acol !h pour jouer à la couleur (peu/pas d'arrêt !s) ??
         2N fitté 
         3X/4H System on 
     (Pass) 
