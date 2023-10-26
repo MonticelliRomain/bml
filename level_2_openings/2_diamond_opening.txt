@@ -2,7 +2,7 @@
 
 ** Description 
 
-Quatrième main : Acol FI. ou 6 cartes 11-13 ou 5/5 11-13
+Quatrième main : Idem mais zone faible 9-13.
 1/2/3e main :
 
 - Acol fort indeterminé à !c ou !d
@@ -16,7 +16,7 @@ Quatrième main : Acol FI. ou 6 cartes 11-13 ou 5/5 11-13
 
 2D-2H Pour jouer si faible à !h (< 15 HCP) 
     P Unicolore !h faible ou 5/5 faible avec de beaux !h (rare)
-    2S 4+!s/4+!h 
+    2S 4+!s/4+!h GF
         2N Relais
             3C Montre des !h + longs (5+)
                 3D relais
@@ -54,50 +54,33 @@ Quatrième main : Acol FI. ou 6 cartes 11-13 ou 5/5 11-13
     
 2D
     2S Relais + misfit !h (max Hx), n'envisage normalement pas 4!h en face d'un 5/5
-        2N Acol Mineur
-            3C Relais 
-                3D Acol !c 
-                3H Acol !d 
-            3x Naturel Forcing
-        3C 5+ !c 
-            3D Fitté !c encourageant (pas FM)
-            3H Hx 
-            3S Naturel, 6!s, forcing 
-            3N to play
-            4C Fitté !c Fort (forcing)
-        3D 5+ !d
-            3H Pour jouer 
-            3S Nat forcing 
-            3N To play 
-            4C Limite à !d 
-            4D forcing à !d 
-            4M To play
-        3H 6!h min 
-            3S Nat forcing 
-            3N To play 
-            4C/4D Cue !h 
-            4M To play
-        3S 6!h max
-            3N To play 
-            4C/4D Cue !h 
-            4M To play
-        3N ARDxxx !h 
-        4C/4D 1er cue-bid dans un Bic M 5/5 FI ou FM 
-        4H 6!s/4!h FI
-    2N Relais fitté !h au moins 3 cartes, pas FM 
-        3C 5!c mini 
-            3H encourageant NF 
-        3D 5!d mini 
-            3H encourageant NF   
-        3H 6!h mini
-        3S 6!h maxi 
-        3N ARDxxx !h 
+        2N 5+!c mini
+            3C NF encourageant
+        3C 5+!d mini
+            3D idem
+        3D 6!h
+            3H NF encourageant
+            3S 6 cartes à !s fort
+        3H 5+!c max
+        3S 5+/4+ M FM
+        3N 5+!d max 
         4C/4D Acol !c/!d 
-        4H Bic M 5/5 Fi ou FM 
+        4H 5/5 M FI
+        4S 6!s/4!h FI
+    2N Relais fitté !h au moins 3 cartes, pas FM 
+        3C 5!h/5!d 
+            3H encourageant NF 
+        3D 6!h 
+            3H encourageant NF   
+        3H 5!h/5!c mini NF
+        3S 4+/4+ M FI/FM
+        3N 5!h/5!c max 
+        4C/4D Acol !c/!d 
+        4H Bic M 5/5 FI
         4S 6!s/4!h FI 
-    3C/3D/3S Texas !d, !s et !c - Ce sont des enchères positives en Texas mais pas nécessairent FM. 
+    3C/3D/3S Texas !d, !s et !c - Ce sont des enchères positives en Texas mais pas nécessairement FM. 
              L'ouvreur se décrit naturellement en privilégiant le fit. La rectification est négative.
-        3K (sur 3!c) négatif
+        3D (sur 3!c) négatif
         3H Naturel + fit !d (positif)
         3S Bic M 
         3N Acol !c (sans fit !d ou sans ambition)
@@ -110,37 +93,38 @@ Quatrième main : Acol FI. ou 6 cartes 11-13 ou 5/5 11-13
         3N Montre un Acol mineur - NF
         4H Montre une main faible avec un supplément de distribution (6/5, 6/4, ...)
         4C/4D Acol mineur très excentré
-    3S Pour jouer 3NT en face d'un Fi à !c (! double sens)
-    3N Pour jouer en face d'un Fi à !d
+    3S Pour jouer 3NT en face d'un Acol à !c (! double sens)
+    3N Pour jouer en face d'un FI à !d
     4C/4D Naturel, bon fit !h, 10+ HCP, l'ouvreur peut décider d'être compétitif au palier supérieur
     4H Pour jouer 4!h si ouvreur faible mais du jeu pour supporter le chelem si ouvreur fort 
     4S Pour jouer en face d'un 2 faible ou au moins 5!h en face d'un jeu fort 
-
-4e main : 
-
-2D
-    2H Relais 
-    2S/3C/3D Naturel, 2 gros H
 
 ** Après intervention 
 
 2D 
     (Dbl) 
-        Pass pas 3 cartes à !h
-            (Pass) 
-                R 6!h (Principe : faire jouer le répondant le + souvent possible !)
-                2H 5!h + 5m
-                2S Bic M fort 
+        Pass si tu es 5!h/5!d, je veux jouer 2!d
+            (Pass)
+                Rdbl 6!h
+                2H 5!h/5!c
+                2S Bic M fort
+                2N 5!h/6!c
+                3C Acol !c
+        2H si tu es 5!h/5!d, je veux jouer 2!h
+            (Dbl) 
+                Pass 6!h (Principe : faire jouer le répondant le + souvent possible !)
+                2H 5!h/5!c
+                2S Bic M fort
+                2N 5!h/6!c
                 3C Acol !c
         R Unicolore autonome soit misfit !h soit semi-fit !h avec tolérance pour les mineures
             (Pass) 
                 2H Version faible
                 2S Bic M Fort 
-        2H 2+ !h 
         2S/3C/3D Naturel F1 mais pas auto-forcing
-        3H permet de dire 4!h
+        3H permet de dire 4!h (suivre le bon sens)
         2N fitté 
-        3X/4H System on 
+        3X/4H System on
     (Pass) 
         2H 
             (Dbl) 

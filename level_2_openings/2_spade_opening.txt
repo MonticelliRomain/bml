@@ -2,7 +2,7 @@
 
 ** Description 
 
-Quatrièmee main : Unicolore 6e !s 10-13 HCP .1/2/3e main
+Quatrième main : Bicolore mineur 5+/5+ 9-13 HCP ou Acol fort indeterminé à !s. 1/2/3e main
 
 - Acol fort indeterminé à !s
 - Bicolore mineur 5+/5+, 5-10 HCP
@@ -22,7 +22,7 @@ Quatrièmee main : Unicolore 6e !s 10-13 HCP .1/2/3e main
         3D Bic mineur maximum 
             3H/3S Naturel F1 
             3N Pour jouer
-        3H Acol !s avec une courte indéterminée
+        3H 3 cartes d'un honneur (dans la version forte)
             3S Fit !s 
             3N Forcing 
             4C/4D/4H Naturel (a priori misfit !s)
@@ -48,7 +48,7 @@ Quatrièmee main : Unicolore 6e !s 10-13 HCP .1/2/3e main
         4H/4S 6/5 + chicane 
     3C Pour jouer
         3D Acol !s + couleur !d 3+ cartes
-        3H Acol !s + couleur !d 3+ cartes (forte probabilité de courte !s)
+        3H Acol !s + couleur !h 3+ cartes (forte probabilité de courte !s)
         3S Acol !s NF
         3N 6!s (3-2-2) 20-21
     3D Pour jouer 
@@ -77,7 +77,8 @@ Quatrièmee main : Unicolore 6e !s 10-13 HCP .1/2/3e main
     (Pass)
         3C/3D 
             (Dbl)
-                P Main faible, le répondant peut annoncer une longue Maj ou XX = Bic M 
+                P Main faible, le répondant peut annoncer une longue Maj 
+                  ou XX = Bic M 
                 R Acol !s mini 
                 3H 6!s + 3!h 
                 3S Acol !s max
