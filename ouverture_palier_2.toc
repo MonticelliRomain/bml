@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Définition}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Après intervention}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Après contre}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Ouverture de 2\textcolor {RedOrange}{$\vardiamondsuit $}{}}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Description}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Développements}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Après intervention}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Description}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Développements}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Après intervention}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Ouverture de 2\textcolor {Blue}{$\spadesuit ${}}{}}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Description}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Développements}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Après intervention}{9}{subsection.5.3}%
