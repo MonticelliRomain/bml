@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}1Maj - 2T}{1}{section.1}%
+\contentsline {section}{\numberline {2}1 Maj - 2NT Fit 3+}{1}{section.2}%
+\contentsline {section}{\numberline {3}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Définition}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Après intervention}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Après contre}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Ouverture de 2\textcolor {RedOrange}{$\vardiamondsuit $}{}}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Description}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Développements}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Après intervention}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Description}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Développements}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Après intervention}{7}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Ouverture de 2\textcolor {Blue}{$\spadesuit ${}}{}}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Description}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Développements}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Après intervention}{8}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Ouverture de 2 SA}{9}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Grandes lignes - 3!C Puppet Stayman - 3!D/3!H Texas - 3!S Transfer 3NT or Minors forcing - /!\ 3SA 5!S 4!H - 4x Transfer SI}{9}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Defense contre 2x faible en Texas ou fort}{9}{section.8}%
+\contentsline {section}{\numberline {9}Defense contre 2!D Multi}{9}{section.9}%
+\contentsline {section}{\numberline {10}Defense contre 2!C d'ouverture Faible !H!S ou fort}{9}{section.10}%
+\contentsline {section}{\numberline {11}Defense contre 2!C faible avec les 2 majeures }{9}{section.11}%

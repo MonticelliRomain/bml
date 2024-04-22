@@ -1,4 +1,4 @@
-* Ouverture de SA
+* Ouverture de 2 SA
 
 ** Grandes lignes
   - 3!C Puppet Stayman
