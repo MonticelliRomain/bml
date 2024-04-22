@@ -1,10 +1,10 @@
 * Ouverture de 2 SA
 
 ** Grandes lignes
-  - 3!C Puppet Stayman
-  - 3!D/3!H Texas
-  - 3!S Transfer 3NT or Minors forcing
-  - /!\ 3SA 5!S 4!H
+  - 3!c Puppet Stayman
+  - 3!d/3!h Texas
+  - 3!s Transfer 3NT or Minors forcing
+  - /!\ 3NT 5!S 4!H
   - 4x Transfer SI
 
 

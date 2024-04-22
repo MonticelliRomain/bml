@@ -1,5 +1,4 @@
-#+TITLE: System Caputo - Dewasme 
-
+#+TITLE: System Caputo Dewasme 
 
 #+AUTHOR: BF
 
@@ -18,7 +17,7 @@
 #INCLUDE level_2_openings/2_spade_opening.txt
 #INCLUDE ConventionsClo/2NTPuppet.txt
 
-// Defense contre le souvertures adverses
+// Defense contre les ouvertures adverses
 
 #INCLUDE ConventionsClo/DefenseVS2/2xNat.txt
 #INCLUDE ConventionsClo/DefenseVS2/2xTexas.txt
