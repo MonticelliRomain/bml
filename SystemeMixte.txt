@@ -1,0 +1,23 @@
+#+TITLE: System Caputo - Dewasme Championnat d'Europe 2024
+
+
+#+AUTHOR: BF
+
+#+DESCRIPTION: 
+
+// Fits majeurs
+ 
+#INCLUDE ConventionsClo/2TBoulet.txt
+#INCLUDE ConventionsClo/2NTfit.txt
+
+// Level 2 openings
+
+#INCLUDE level_2_openings/2_club_opening.txt
+#INCLUDE level_2_openings/2_diamond_opening.txt
+#INCLUDE level_2_openings/2_heart_opening.txt
+#INCLUDE level_2_openings/2_spade_opening.txt
+#INCLUDE ConvenionsClo/2NTPuppet.txt
+
+// Defense contre le souvertures adverses
+
+#INCLUDE ConventionsClo/DefenseVS2/2CMaj.txt
