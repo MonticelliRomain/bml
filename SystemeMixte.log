@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  22 APR 2024 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.20)  22 APR 2024 18:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -296,13 +296,12 @@ File: t1txr.fd 2000/12/15 v3.1
 File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count272
 \l__pdf_internal_box=\box53
-)
-No file SystemeMixte.aux.
+) (./SystemeMixte.aux)
 \openout1 = `SystemeMixte.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 13.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 13.
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (c:/texlive/2022/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 13.
@@ -399,9 +398,9 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
 \openout4 = `SystemeMixte.toc'.
 
 
-c:/Users/Admin/Desktop/bml/SystemeMixte.tex:25: Undefined control sequence.
-l.25 3\h\sNT
-             \> Singleton !C!DOM\\
+c:/Users/Admin/Desktop/bml/SystemeMixte.tex:41: Undefined control sequence.
+l.41 3\sA
+          \> 15-17\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -409,13 +408,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <12> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 35.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 38.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 56.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 59.
 (c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 ) [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] (./SystemeMixte.aux)
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] (./SystemeMixte.aux)
 
 Package rerunfilecheck Warning: File `SystemeMixte.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -423,21 +422,21 @@ Package rerunfilecheck Warning: File `SystemeMixte.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `SystemeMixte.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  0C3BC61B3B674A3B81E140EAE9D2B75F;4254.
+(rerunfilecheck)             After:  DD57520CDA58CE7A531B3813BB3DCA9C;4158.
  ) 
 Here is how much of TeX's memory you used:
- 10319 strings out of 478238
- 157625 string characters out of 5847939
- 435438 words of memory out of 5000000
+ 10321 strings out of 478238
+ 157656 string characters out of 5847939
+ 435429 words of memory out of 5000000
  28354 multiletter control sequences out of 15000+600000
  511254 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,297b,424s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,298b,424s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on SystemeMixte.pdf (9 pages, 61829 bytes).
+Output written on SystemeMixte.pdf (10 pages, 62472 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 117 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  35 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

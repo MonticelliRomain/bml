@@ -1,9 +1,9 @@
-#+TITLE: System Caputo - Dewasme Championnat d'Europe 2024
+#+TITLE: System Caputo - Dewasme 
 
 
 #+AUTHOR: BF
 
-#+DESCRIPTION: 
+#+DESCRIPTION: test
 
 // Fits majeurs
  

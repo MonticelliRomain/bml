@@ -3,9 +3,21 @@
 1M - 2NT--
     3C 12-15 + une courte
         3D Asking
-            3HSNT Singleton !C!DOM
+            3HS NT Singleton !C!DOM
             4CDH  Chicane  !C!DOM
     3D 12-15 Sans courte 
-        3H NF ????
+        3H NF \textcolor{red} Attention
     3H 15-19 Sans courte
         3S Asking 
+            3NT 15-17
+            4x 17-19 Cue
+    3S 15-19 + une courte  
+        3NT Asking
+            4x Court !C!DOM
+    3NT 20+ DH
+    4CD 55+ Avec les points dans les couleures
+    4 Maj 65
+
+
+Si une couleur est nommée en sautant un relais. Possibilité de levées dans cettes couleure SI.
+EX : 1!S-2NT-3!C-3!H.. 

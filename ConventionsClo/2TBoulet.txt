@@ -1,1 +1,10 @@
-* 1Maj - 2T 
+
+1Maj - 2!C 
+    - Naturel NF
+    - Fit Majeur 4-8
+
+1!S - 2!c  
+    2D Relais fort
+        2S 3+!S 4-6
+        3S 3+!S 7-8
+    2H  \textcolor{red}{A DISCUTER}
