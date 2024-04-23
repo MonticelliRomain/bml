@@ -1,7 +1,22 @@
+** 1M - 2!c Fit faible ou naturel
 
+1H - 2!c 
+    2D Relais fort
+        2H 3+!h 4-6
+        3H 3+!h 7-8
+    2H Pour jouer ne face de 4-8 fit
+    2NT \textcolor{red}{?}
+    3X \textcolor{red}{?}
+    3NT \textcolor{red}{?}
 
-1S - 2C  
+1S - 2!c  
     2D Relais fort
         2S 3+!s 4-6
         3S 3+!s 7-8
-    2H  \textcolor{red}{A DISCUTER}
+    2H  \textcolor{red}{A DISCUTER 12-14 ou 15-17?}
+    2S Pour jouer en face de 4-8
+    2NT \textcolor{red}{?}
+    3X \textcolor{red}{?}
+    3NT \textcolor{red}{?}
+
+

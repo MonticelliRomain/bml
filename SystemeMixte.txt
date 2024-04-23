@@ -1,16 +1,21 @@
 #+TITLE: System Caputo Dewasme 
 
-#+AUTHOR: BF
-
+#+AUTHOR: Herning 2024
+\newpage
 #+DESCRIPTION: test
+\newpage 
+
+
+#INCLUDE ConventionsClo/TODOMIXTE.txt
 
 // Fits majeurs
- 
+\section{Ouverture de 1 Majeure}
 #INCLUDE ConventionsClo/2TBoulet.txt
+
 #INCLUDE ConventionsClo/2NTfit.txt
 
 // Level 2 openings
-
+\newpage
 #INCLUDE level_2_openings/2_club_opening.txt
 #INCLUDE level_2_openings/2_diamond_opening.txt
 #INCLUDE level_2_openings/2_heart_opening.txt
@@ -19,6 +24,7 @@
 
 // Defense contre les ouvertures adverses
 
+* Défense contre les ouvertures adverses au palier de 2
 #INCLUDE ConventionsClo/DefenseVS2/2xNat.txt
 #INCLUDE ConventionsClo/DefenseVS2/2xTexas.txt
 #INCLUDE ConventionsClo/DefenseVS2/2KMulti.txt

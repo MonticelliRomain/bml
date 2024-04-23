@@ -729,6 +729,7 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
@@ -740,7 +741,6 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
 INPUT c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 INPUT c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 INPUT c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
@@ -756,7 +756,6 @@ INPUT ./SystemeMixte.out
 INPUT ./SystemeMixte.out
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb
-INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb
