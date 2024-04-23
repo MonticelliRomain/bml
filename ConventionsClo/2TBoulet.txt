@@ -1,6 +1,6 @@
-** 1M - 2!c Fit faible ou naturel
+** Fit Maj faible
 
-1H - 2!c 
+1H - 2!c fit faible (4-8) ou naturel
     2D Relais fort
         2H 3+!h 4-6
         3H 3+!h 7-8
@@ -9,7 +9,7 @@
     3X \textcolor{red}{?}
     3NT \textcolor{red}{?}
 
-1S - 2!c  
+1S - 2!c  fit faible (4-8) ou naturel
     2D Relais fort
         2S 3+!s 4-6
         3S 3+!s 7-8
@@ -20,3 +20,11 @@
     3NT \textcolor{red}{?}
 
 
+1H - 2!h fit 9-11
+    2S Essai généralisé
+    2NT \textcolor{cyan}{essai court !s}
+    3X Enchère d'essai dans les courtes
+
+1S - 2!s fit 9-11
+    2NT essai généralisé
+    3X enchère d'essai dans les courtes 
