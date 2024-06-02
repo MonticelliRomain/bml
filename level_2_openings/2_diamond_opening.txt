@@ -113,7 +113,7 @@ Quatrième main : Idem mais zone faible 9-13.
         2H si tu es 5!h/5!d, je veux jouer 2!h
             (Dbl) 
                 Pass 6!h (Principe : faire jouer le répondant le + souvent possible !)
-                2H 5!h/5!c
+                Rdbl 5!h/5!c
                 2S Bic M fort
                 2N 5!h/6!c
                 3C Acol !c

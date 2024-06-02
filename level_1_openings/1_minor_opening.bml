@@ -1,6 +1,7 @@
 * Ouverture de 1m
 
 #INCLUDE conventions/T-Walsh.txt
+#INCLUDE conventions/cachalot.txt
 
 ** Enchère du répondant après une inversée
 

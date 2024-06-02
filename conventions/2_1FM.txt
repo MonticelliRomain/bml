@@ -1,11 +1,11 @@
-* Le 2 sur 1 FM
+** Le 2 sur 1 FM
 
 Notre étude est limitée à l’ouverture en majeure. 
 Note : 
 L’ancien système reste évidemment après une ouverture en 3ième puisque le 2/1 FM promet 
 l’ouverture et que le n°1 a passé
 
-** Introduction
+*** Introduction
 
 Les enchères non forcing en standard francais
 
@@ -34,7 +34,7 @@ l’assimiler à un 2/1 FM
 mais lorsque le partenaire ouvre, des chicanes peuvent être dévaluées et donc il faut les 
 considérer comme une non-ouverture et dire 1SA.
 
-** 1SA va jusque 11
+*** 1SA va jusque 11
 
 La réponse de 1SA est agrandie à la zone 6-11H. 
 Ses conditions d’emploi sont inchangées. 
@@ -53,7 +53,7 @@ le signaler
 1. Par une enchère impossible
 2. Par l’enchère de 2SA
 
-** Le saut au niveau de 3
+*** Le saut au niveau de 3
 
 Nommer sa couleur avec saut avec une belle couleur 6ième et 11H(L). 
 L’expression de ce saut est non forcing. Il dénie l’autre majeure 4ième
@@ -62,7 +62,7 @@ Rem : si on a passé d’entrée, ces enchères sont des rencontres.
 Conséquence : répétition de la couleur du répondant
 Minimum 14H avec 2 gros honneurs dans une couleur au moins 6ième
 
-** Les nouveaux soutiens directs
+*** Les nouveaux soutiens directs
 
 1H--
 2H 8-10DH (dans la zone 5-7DH répondre 1 !s ou 1SA)
@@ -93,9 +93,7 @@ espoir de chelem
 mineure. Celle-ci doit donc être de bonne qualité.
 Cas rare : 3 !c avec 18/19H réguliers (donc même dans 2 cartes !)
 
-*** Le 2 sur 1 FM
-
-**** Le fit différé au niveau de 2
+*** Le fit différé au niveau de 2
 
 1. Exprime un soutien d’au moins 3 cartes dans la majeure 
 d’ouverture dans une zone 16DH+ (15+
@@ -111,7 +109,7 @@ l’ouvreur soutient les !h, on jouera à !h)
 Demande des renseignements essentiellement distributionnels sur 
 la main de l’ouvreur.
 
-**** Séquences après 1M – 2 !c
+*** Séquences après 1M – 2 !c
 
 1S-2C
 2D-2S--
@@ -262,7 +260,7 @@ Rem:
     4D 5422 ctrl !d
     4H 5332
 
-**** Séquences dérivées après 1!h d’ouverture
+*** Séquences dérivées après 1!h d’ouverture
 
 1H-2C--
   2S S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
@@ -305,7 +303,7 @@ Rem:
     4C demande singleton pour jouer à !c (court bas-court haut)
     4D demande singleton pour jouer à !h (court bas-court haut)
 
-**** Développements après 1!d-2!c FM
+*** Développements après 1!d-2!c FM
 
 1D-2C--
 2D 6!d ou 5 beaux !d et un petit doubleton

@@ -9,7 +9,7 @@
 
 
 
-1C  Soit naturel irrégulier 5+ cartes ou 4441 (1 rouge).
+1C  Soit naturel irrégulier 5+ cartes ou 4441 (2 noires).
    Soit balancé 12-14
    Soit balancé 18-19
   1D  4+!h, 5+ HCP
@@ -91,8 +91,7 @@
         Soit limite avec 5+!h
         Soit 5!h balancé mini quantitatif (au moins RDVxx sur 1SA)
     2D  Relais pour 2!h (sauf si ouvreur est 5+!c 3!hxx 15-17)
-      5!h, 7-9H ou FM irrégulier ou choix de manche
-      2H 
+      2H 7-9H ou FM irrégulier ou choix de manche
         Pass 5!h, 7-9
         2S 5+!h 4+!s
         2N 5+!h, 4+!c
@@ -151,7 +150,7 @@
     2N Décourageant
     3C Fit !c décourageant
     3X Naturel forcing
-  2N 6+ !c, 15-17 très encourageant mais NF
+  2N 6+ !c, 15-17 tendance semi-régulier, NF
   3C 6+ !c, 15-17 très encourageant mais NF
 
 **** La séquence 1!c - 1!d - 1!h - 1NT
@@ -336,7 +335,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
        Soit irrégulier 11-16 (17) 
        Soit fit !s 4e, 13-15 (7 perdantes) - régulier 12-14
     1N Balancé, pas 3!s 
-    2C 6 !c ou 5 !c/4 !d irrégulier, 11-16, 2- !s ; suite nat (3e CF, etc.)
+    2C 6 !c ou 5 !c/4 X irrégulier, 11-16, 2- !s ; suite nat (3e CF, etc.)
       2D 3e CF artificielle
         2H Soit 4 cartes !h et 11-13, soit 14-16 quelconque
           2S NF
@@ -354,9 +353,9 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
           Reste FM
         3D 4e couleur de l'ouvreur, misfit !h, (13) 14-16
         3H Fit !h 4e, (13)14-16
-        3S Fit !h 4e, splinter :s, type 1435, 11-13
+        3S Fit !h 4e, splinter !s, type 1435, 11-13
         3N Naturel (13) 14-16
-        4C Fit !h 4e, splinter :s (et contrôle !c), type 1426, 11-13
+        4C Fit !h 4e, splinter !s (et contrôle !c), type 1426, 11-13
         4D Fit !h 4e, splinter !d, type 2416, 11-13
         4H Fit !h 4e, type 2425, 11-13
       3H Bicolore majeur 5-5 FM
@@ -378,7 +377,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
     3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
     3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
     4CD Splinter (3-4 perdantes)
-    3N 24-25 (3-4 perdantes)
+    3N 18-19, 4!s
     4C 6+ !c 4!s (3-4 perdantes)
     4S 6+ !c 4!s, offensif et très concentré (13-15)
 
@@ -398,7 +397,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
   2D 5!s-4+!h 6-9 ou 5+!s-4!h, 12+FM
     2H 4!h
     2S 3-!h
-  2H 5!s, 7-9H ou 5+!h irrégulier FM
+  2H 5!s, 7-9H ou 5+!s irrégulier FM
   2S Ask range
     2N Mini sans fit !s
       Pass Régulier limite ou 4!s-5m tendance sans singleton
@@ -485,12 +484,12 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
       3N 5!s régulier, quantitatif et NF
   2D 5+!s-4+!h 6-9 ou 5+!s-4!h 12+FM
     2H 4!h mais 1345 possible
+      2S 6!s-4!h, 8-9
+      3H 5!s-5!h 8-9 sous-limite
     2S 2-3!h - sans doute 2!s-3!h, mais 2245 possible
       Pass 5!s-4!h, 6-9
-      2S 6!s-4!h, 8-9 (sur 2!h)
       2N 5!s-4!h tendance 5422 15+
       3m 5!s-4!h-3(4)m, FM
-      3H 5!s-5!h 8-9 sous-limite (sur 2!h uniquement)
       3S 6!s-4!h FM
       3N 5!s-4!h, choix de manche, a priori 5422
   2H 5!s, 7-9H ou FM 5+!s irrégulier

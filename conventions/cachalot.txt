@@ -1,6 +1,6 @@
-* Cachalot
+** Cachalot
 
-** Conditions d'emploi et définition
+*** Conditions d'emploi et définition
 
 1. Ouverture d’1 !c ou d’1 !d
 2. Intervention par 1 !d ou 1 !h
@@ -90,7 +90,7 @@ Passe puis contre : punitif, remplace le surcontre
 Passe puis une enchère : 11+, se préparait à contrer punitif, donc deux couleurs 4eme.
 Les développements après Rdbl et 1!h sont ceux du Cachalot.
 
-** Attitude de l’ouvreur. Le répondant a 
+*** Attitude de l’ouvreur. Le répondant a 
 nommé une majeure
 
 1. Avec 4 cartes dans la majeure, l’ouvreur exprime son soutien 
@@ -129,7 +129,7 @@ Guarantissent 3 cartes à !s et s’utilisent dans 2 situations:
 1. Avec une distribution irrégulière ou 3226
 2. Avec 18-19H régulier sans tenue dans la couleur d’intervention
 
-** Développements après une redemande à 1NT
+*** Développements après une redemande à 1NT
 
 1. Le Double-Deux reste d’application comme sans intervention
 2. Le Texas qui rallonge la majeure, rectification obligatoire
@@ -153,9 +153,9 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
 1C-(1D)-1H-(Pass)
 1NT-(Pass)-2S
 
-** Développements après 1!c-(1!d)-Dbl-(Pass)-1!h
+*** Développements après 1!c-(1!d)-Dbl-(Pass)-1!h
 
-*** Retrouver un soutien !s de la bonne main
+**** Retrouver un soutien !s de la bonne main
 
 1C-(1D)-Dbl-(Pass)
 1H--
@@ -178,7 +178,7 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
   4S 16+-18H, court !d
   3D 18H+, court !d
 
-*** Le répondant a 5 cartes à !h (sans 4 cartes à !s)
+**** Le répondant a 5 cartes à !h (sans 4 cartes à !s)
 
 1C-(1D)-Dbl-(Pass)
 1H
@@ -189,7 +189,7 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
 
 Rem : L’enchère de 2 !d ne garantit pas 5 cartes à !h, on l’apprendra par la suite
 
-*** Le répondant exprime son soutien à !c
+**** Le répondant exprime son soutien à !c
 
 Il promet 5 cartes à !c et dénie 5 cartes à !h
 
@@ -202,7 +202,7 @@ Il promet 5 cartes à !c et dénie 5 cartes à !h
     3S résidu donc singleton à !d
     3H singleton à !s (par inférence)
 
-*** Le répondant utilise le relais à 1 !s
+**** Le répondant utilise le relais à 1 !s
 
 Cette enchère dénie 5 cartes à !h, elle dénie 4 cartes à !s et elle dénie un soutien à !c faible ou fort.
 Elle peut être utilisée avec un soutien limite 10+/11-H à !c
@@ -216,14 +216,14 @@ Demande de renseignements sur la force et la distribution de l’ouvreur.
 2S Bicolore cher, 17H+
 3C 6 cartes à !c, 14-16H
 
-*** Le répondant utilise le cue-bid à 2 !d
+**** Le répondant utilise le cue-bid à 2 !d
 
 Cette enchère est FM. Elle dénie 4 cartes à !s
 S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !h et 14H+ (voir avant).
 
-** Développements après 1!c-(1!d)-1!h-(Pass)-1!s
+*** Développements après 1!c-(1!d)-1!h-(Pass)-1!s
 
-*** Exprimer un soutien !s
+**** Exprimer un soutien !s
 
 Le répondant possède donc 5 cartes à !s
 
@@ -234,7 +234,7 @@ Le répondant possède donc 5 cartes à !s
 3S 9+-11H
 4S 11+-13H
 
-*** Exprimer son soutien à !c
+**** Exprimer son soutien à !c
 
 Il promet 5 cartes à !c et dénie 5 cartes à !s
 
@@ -243,7 +243,7 @@ Il promet 5 cartes à !c et dénie 5 cartes à !s
 2C 6-10H
 3C 11H+ FM
 
-*** Exprimer 4 cartes à !h
+**** Exprimer 4 cartes à !h
 
 L’enchère de 2 !h est naturelle, toute zone et donc forcing pour un tour.
 Naturel, forcing illimité 6H+
@@ -257,7 +257,7 @@ Naturel, forcing illimité 6H+
 3H 4 cartes à !h, 12/13H
 4H 4 cartes à !h, 14/16H
 
-***  Le relais à 1NT
+**** Le relais à 1NT
 
 Relais forcing un tour sans enchère naturelle. Dénie 5 cartes à !s et dénie 4 cartes à !h. 
 Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
@@ -274,7 +274,7 @@ Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
     3H (résidu) avec singleton !d
     3S avec singleton !h
 
-*** Le cue-bid à 2 !d
+**** Le cue-bid à 2 !d
 
 Soit un soutien !s 14H+
 Soit une main régulière, FM sans tenue à !d
@@ -287,7 +287,7 @@ Soit une main régulière, FM sans tenue à !d
 3C courte à !h sans tenue !d
 3D 18-19H régulière sans tenue !d
 
-** Développements après 1!c-(1!h)-Dbl-(Pass)-1!s
+*** Développements après 1!c-(1!h)-Dbl-(Pass)-1!s
 
 Peu de modifications par rapport à la séquence
 1!c-(1!d)-1!h-(Pass)-1!s
@@ -297,7 +297,7 @@ Le cue-bid des deux joueurs s’exprime par l’enchère de 2!h.
 L’enchère de 2!d est un bicolore cher chez l’ouvreur et non forcing, canapé avec 4!s 5+!d chez le 
 répondant.
 
-** Développements après une enchère au niveau de 2
+*** Développements après une enchère au niveau de 2
 
 1C-(1D/Dbl)-2D-(Pass)--
 2H Zone 1, une ou deux cartes

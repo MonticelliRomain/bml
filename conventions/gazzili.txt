@@ -1,5 +1,7 @@
 ** Le Gazzili
 
+*** La séquence 1!h - 1!s
+
 1H-1S--
 1N BAL 12-15 (2!c Roudi, Reste Nat)
 2C Gazilli : Soit NAT, soit Fort
@@ -42,6 +44,8 @@
 4H Sign-off
 4S Fit distributionnel
 
+*** La séquence 1!h - 1NT
+
 1H-1N--
 2C Gazilli : Nat ou 17+
   2D 8+ PH, FM si ouvreur fort. Reste plus faible
@@ -72,7 +76,9 @@
 3S 65 4 perdantes 
 3N Bal 18-19
 4m 65 sans TDC
-4H Sign-off 
+4H Sign-off
+
+*** La séquence 1!s - 1NT
 
 1S-1N--
 
@@ -108,6 +114,8 @@
 3N Bal 18-19 sans 3!h 
 4x 65 sans TDC 
 4S Sign-off
+
+*** Attitude en face de la réponse faible ou en cas d'intervention
 
 Après une réponse faible sur un Gazilli, 3x est 5M4x 17+ ou 5M5x 5 perdantes (sauf 3m sur la réponse de 2NT et sur la réponse de 2!s après 1!h-1NT), 3M Inv, 2NT Inv avec réponse naturelle et non forcing, 4M clôture.
 
