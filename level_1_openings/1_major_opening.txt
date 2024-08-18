@@ -12,9 +12,11 @@
 4x Bic (4!h après 1!h = 6!h5!s, 4!s après 1!s = 6!s5!h)
 #ENDCUT
 
-//Séquence 1S - 2S - 4H : Splinter ?
-//1x - X - 2y (au-dessus) : faible ou rencontre ?
-//Cue-bid de l'ouverture majeure : FM ? Développements à discuter
+Séquence 1!s - 2!s - 4!h : pour jouer
+
+1x-X-2y (au-dessus) : rencontre
+
+Cue-bid de l'ouverture majeure : FM - Développements à discuter
 
 ** 2NT Fitté par 3 cartes 11+
 
@@ -27,22 +29,63 @@
   3M Invit
 3D 12-14 Pas de courte
   3M Invit
+3H 15-17 toutes mains
+  3S Relais
+    3N pas de courte
+    4C court !d
+    4D court M'
+    4H court !c
+3S 18+ avec une courte
+  3N Relais
+    4C court !d
+    4D court M'
+    4H court !c
+3N 18-19 Balancé
+4X Bicolore 12-15 concentré
 
-** 3!c Fitté par 4 cartes 11+
+*** Après intervention
+
+1H
+  (P)
+    2N
+      3X
+        Dbl Contrôle X TDC
+        P Pour jouer 3!h en face de 11 pts
+        3H Main forte sans contrôle X
+        4H Main faible sans contrôle X
+        4X Splinter dans une main assez faible
+        3N Contrôle X avec une main faible
+        3/4Y (Sans saut) 5!h 5Y
+
+** 3!c Fitté par 4+ cartes 11+
 
 1M-3C
-3D  12-14
+3D  12-14 toutes mains
   3M Invit
   3M' Relais
-    3S (sur 3!h) court !h
+    3S (sur 3!h) court !c
     3N Pas de courte
-    4C Court !c
-    4D Court !d
-    4H (sur 3!s) court !s
+    4C Court !d
+    4D Court M'
+    4H (sur 3!s) court !c
+3H 15-17 toutes mains
+  3S Relais
+    3N pas de courte
+    4C court !d
+    4D court M'
+    4H court !c
+3S 18+ avec une courte
+  3N Relais
+    4C court !d
+    4D court M'
+    4H court !c
+3N 18-19 Balancé
+4X Bicolore 12-15 concentré
 
-** 3!d Fitté par 4 cartes 11+
+** 3!d Fitté par 4 cartes, 8-10 DH
 
 1H-3D
+3H SO
 3S Demande de courte
   3N Pas de courte
     4C Court !c
@@ -50,15 +93,16 @@
     4H Court !s
 3N Force à !s
 4CD Forces
+4H SO
 
 1S-3D
 3H Force à !h
+3S SO
 3N Demande de courte
   4C Court !c
   4D Court !d
   4H Court !h
 4CDH Forces
+4S SO
 
-// TODO redondance entre 3 et 4 C dans la séquence
-
-#INCLUDE conventions/gazzili.txt
+// #INCLUDE conventions/gazzili.txt

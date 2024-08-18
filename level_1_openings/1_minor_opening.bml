@@ -1,6 +1,7 @@
 * Ouverture de 1m
 
-#INCLUDE conventions/T-Walsh.txt
+#INCLUDE conventions/1T_T-Walsh.txt
+#INCLUDE conventions/1K_T-Walsh.txt
 
 ** Enchère du répondant après une inversée
 

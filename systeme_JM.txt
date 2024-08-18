@@ -1,30 +1,32 @@
-#+TITLE: Système Biarritz
+#+TITLE: Système Thomas-Jean-Marie
 
 #+AUTHOR: Thomas Monticelli
 
-#+DESCRIPTION: Short club with transfer responses.
+#+DESCRIPTION: Un système devant être illuminé.
 
 * Introduction
 
 // Here are the level 1 openings
 
-#INCLUDE level_1_openings/1_minor_opening.txt
-#INCLUDE conventions/minor_inverted_fit.txt
+#INCLUDE level_1_openings/1_minor_opening.bml
 #INCLUDE level_1_openings/1_major_opening.txt
-#INCLUDE level_1_openings/1_notrump_opening.txt
+#INCLUDE conventions/gazzili.txt
+#INCLUDE level_1_openings/1_notrump_opening_with_major5.txt
+
 
 // Level 2 openings
 
 #INCLUDE level_2_openings/2_club_opening.txt
+#INCLUDE level_2_openings/2_diamond_opening_old.txt
 #INCLUDE level_2_openings/2_majors_weak_opening.txt
 #INCLUDE level_2_openings/2_notrump_opening.txt
 
 // Others
 
+#INCLUDE conventions/cachalot.txt
 #INCLUDE defenses/defense_on_multi.txt
 #INCLUDE defenses/defense_on_1_nt.txt
 #INCLUDE preempts/preempts.txt
 #INCLUDE bidding_after_pass/bidding_after_pass.txt
 #INCLUDE slam_bidding/slam_bidding.txt
-#INCLUDE competitive_bidding/competitive_bidding.txt
 #INCLUDE cardplay/cardplay.txt

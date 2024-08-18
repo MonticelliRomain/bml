@@ -1,0 +1,69 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Ouverture de 1m}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Le Walsh}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1\textcolor {RedOrange}{$\vardiamondsuit $}{}}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}La séquence 1\textcolor {OliveGreen}{$\clubsuit $}{}\ - 1M}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}La séquence 1m - 1M}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}La séquence 1m - 2\textcolor {Red}{$\varheartsuit ${}}{}}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}La séquence 1m - 2\textcolor {Blue}{$\spadesuit ${}}{}}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}La séquence 1\textcolor {RedOrange}{$\vardiamondsuit $}{}\ - 2\textcolor {OliveGreen}{$\clubsuit $}{}}{5}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Le fit mineur inversé}{5}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Soutien au niveau de 3}{6}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Après interventions}{6}{subsubsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.9}Enchère du répondant après une inversée}{7}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Ouverture de 1M}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2NT Fitté par 3 cartes 11+}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Après intervention}{8}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}3\textcolor {OliveGreen}{$\clubsuit $}{}\ Fitté par 4+ cartes 11+}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}3\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Fitté par 4 cartes, 8-10 DH}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Ouverture de 1NT}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Stayman}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}1NT - 2\textcolor {RedOrange}{$\vardiamondsuit $}{}\ : Texas \textcolor {Red}{$\varheartsuit ${}}{}}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}1NT - 2\textcolor {Red}{$\varheartsuit ${}}{}\ : Texas \textcolor {Blue}{$\spadesuit ${}}{}}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}1NT-2\textcolor {Blue}{$\spadesuit ${}}{}\ : Texas \textcolor {OliveGreen}{$\clubsuit $}{}\ ou 8-9H régulier}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}1NT-2NT : Texas \textcolor {RedOrange}{$\vardiamondsuit $}{}}{12}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}1NT-3\textcolor {OliveGreen}{$\clubsuit $}{}\ : Puppet Stayman}{13}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}1NT-3\textcolor {Red}{$\varheartsuit ${}}{}/\textcolor {Blue}{$\spadesuit ${}}{}\ : 5/4 mineurs court \textcolor {Red}{$\varheartsuit ${}}{}/\textcolor {Blue}{$\spadesuit ${}}{}}{13}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Ouverture de 2\textcolor {OliveGreen}{$\clubsuit $}{}}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Définition}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Après intervention}{15}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Après contre}{15}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Ouverture de 2\textcolor {RedOrange}{$\vardiamondsuit $}{}}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Définition}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Après intervention en 2e}{16}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Contre}{16}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Passe RAS}{16}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}3\textcolor {OliveGreen}{$\clubsuit $}{}\textcolor {RedOrange}{$\vardiamondsuit $}{}\textcolor {Red}{$\varheartsuit ${}}{}\textcolor {Blue}{$\spadesuit ${}}{}\ Transferts (Transfert cue - Tricolore court)}{17}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}2NT Bicolore mineur}{17}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Après 2\textcolor {RedOrange}{$\vardiamondsuit $}{}\ - X}{17}{subsubsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.3}Après intervention en 4e}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Corollaires (à vérifier avec Gazilli !)}{17}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}\ et 2\textcolor {Blue}{$\spadesuit ${}}{}}{17}{section.7}%
+\contentsline {section}{\numberline {8}Ouverture de 2NT}{18}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Le Puppet Stayman}{18}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Les Texas}{18}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Autres réponses}{19}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Défense sur les ouvertures Multi}{19}{section.9}%
+\contentsline {subsection}{\numberline {9.1}2\textcolor {OliveGreen}{$\clubsuit $}{}\ multi (les deux M faibles ou fort)}{20}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}2\textcolor {RedOrange}{$\vardiamondsuit $}{}\ Multi (unicolore M faible ou fort)}{20}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}2\textcolor {Red}{$\varheartsuit ${}}{}\ Ekren (les deux M faible)}{20}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}2\textcolor {Red}{$\varheartsuit ${}}{}\ Multi (Faible \textcolor {Blue}{$\spadesuit ${}}{}\ ou \textcolor {Blue}{$\spadesuit ${}}{}\ + m ou fort)}{21}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}2\textcolor {Blue}{$\spadesuit ${}}{}\ Multi (les deux mineures faible ou fort)}{21}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Ouverture de 3X en Texas}{21}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Défense sur 1SA}{21}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Sur le SA fort}{21}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Sur le SA faible}{23}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Réponses à l'intervention d'1NT}{23}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}En réveil}{23}{subsection.10.4}%
+\contentsline {section}{\numberline {11}Les barrages et ouvertures à haut palier}{24}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Namyats 4\textcolor {OliveGreen}{$\clubsuit $}{}/4\textcolor {RedOrange}{$\vardiamondsuit $}{}}{24}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}3SA}{24}{subsection.11.2}%
+\contentsline {section}{\numberline {12}Enchères après passe}{24}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Après intervention}{24}{subsection.12.1}%
+\contentsline {section}{\numberline {13}Enchères de chelem}{25}{section.13}%
+\contentsline {section}{\numberline {14}Enchères compétitives}{26}{section.14}%
+\contentsline {section}{\numberline {15}Jeu de la carte}{26}{section.15}%
+\contentsline {subsection}{\numberline {15.1}L'entame}{26}{subsection.15.1}%
+\contentsline {subsubsection}{\numberline {15.1.1}Entame à SA}{26}{subsubsection.15.1.1}%
+\contentsline {subsubsection}{\numberline {15.1.2}Entame à la couleur}{27}{subsubsection.15.1.2}%
+\contentsline {subsubsection}{\numberline {15.1.3}Dans le cours du jeu}{27}{subsubsection.15.1.3}%

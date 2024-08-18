@@ -29,7 +29,7 @@ conseillé alors que le doubleton comporte un honneur. L’autre majeure troisi�
 
 ** Stayman
 
- Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
+ Pas utilisé avec une main régulière, FM et qui a 1 seule majeure 4e (dans ce cas de figure, passer par 3!c Puppet).
  Utilisé avec une majeure 5e dans la zone 8-9H.
 
 1NT-2C

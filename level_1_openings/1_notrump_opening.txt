@@ -22,8 +22,9 @@
 
 ** Stayman
 
- Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
-  Utilisé avec une majeure 5e dans la zone 8-9H.
+Pas utilisé avec des main régulières, FM et qui ont 1 seule majeure 4e (passer par 3!c Puppet avec ce type de main).
+Utilisé avec une majeure 5e dans la zone 8-9H.
+
 1NT-2C
   2D Pas de majeure 4e
     2H Misère dorée : 8-9H et 5!h

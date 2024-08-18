@@ -1,4 +1,4 @@
-** T-Walsh
+** 1!c -Walsh
 
 #CUT test_bock
 2\R Transfer
@@ -618,3 +618,4 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
     3m stop 
     3M naturel (valeurs +), FM 
     4m NF
+

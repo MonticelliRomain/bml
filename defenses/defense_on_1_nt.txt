@@ -4,21 +4,22 @@
 
 (1N)
   D Texas !c ou Landy (BIC M 4+/4+) si suivi de 2!d
-    2C Avec une préférence M (ou sans préférence avec un unicolore !c)
-      2D Landy 
-        2H/2S Nat NF 
-        2N Relais
-          3C mini
-          3D Max 5+!h/4!s 
-          3H Max 5+!s/4!h
-          4C 5/5 court !c 
-          4D 5/5 court !d
-        3C NF 
-        3D F1
-        3M Invit
+      2C Avec une préférence M (ou sans préférence avec un unicolore !c)
+        2D Landy 
+          2H/2S Nat NF 
+          2N Relais
+            3C mini
+            3D Max 5+!h/4!s 
+            3H Max 5+!s/4!h
+            4C 5/5 court !c 
+            4D 5/5 court !d
+          3C NF 
+          3D F1
+          3M Invit
     2D Sans préférence M (au mieux 2/2)
        Le répondant dit 2!d avec un unicolore !d ou un semi-bicolore m. 
-       L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. Les autres enchères sont naturelles avec du !c.
+       L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. 
+       Les autres enchères sont naturelles avec du !c.
     2H Unicolore
     2S Unicolore
     2N F1
