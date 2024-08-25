@@ -1,0 +1,13 @@
+*To do list 
+
+\begin{enumerate}
+    \item Corrections ouvertures au palier de 2
+    \item 1NT
+    \item 1X 1Y 1Z ?
+    \item 1X 1Y 2NT ?
+    \item Enchères à 4
+    \item Quelques gadgets ??
+\end{enumerate}   
+
+\newpage
+

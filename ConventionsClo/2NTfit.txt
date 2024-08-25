@@ -1,0 +1,46 @@
+**Fit majeure fort 2NT fitté
+
+2NT reste fitté après P X ou interventions cher l'adversaire.
+
+1H-2NT Fit 3+!h
+    3C 12-15 + une courte
+        3D Asking
+            3HS Singleton !c !d
+            3NT Singleton !s
+            4CDH  Chicane  !c !d !s
+        3H \textcolor{red}{Forcing ou pas?}
+    3D 12-15 Sans courte 
+        3H NF \textcolor{red}{Attention}
+    3H 15-19 Sans courte
+        3S Asking 
+            3NT 15-17
+            4x 17-19 Cue
+    3S 15-19 + une courte  
+        3NT Asking
+            4x Court !c !d !s
+    3NT 20+ DH
+    4CD 55+ Avec les points dans les couleures
+    4 Maj 6!h 5!s
+
+1S-2NT fit 3+!s 
+    3C 12-15 + une courte
+        3D Asking
+            3HS Singleton !c !d 
+            3NT Singleton !h
+            4CDH  Chicane  !c !d !h
+        3S \textcolor{red}{Forcing ou pas?}
+    3D 12-15 Sans courte 
+        3S NF \textcolor{red}{Attention}
+    3H 15-19 Sans courte
+        3S Asking 
+            3NT 15-17
+            4x 17-19 Cue
+    3S 15-19 + une courte  
+        3NT Asking
+            4x Court !c !d !h
+    3NT 20+ DH
+    4CDH 55+ Avec les points dans les couleures
+    4 Maj 6!s 5!h
+
+Si une couleur est nommée en sautant un relais. Possibilité de levées dans cettes couleure SI.
+EX : 1!s-2NT-3!c-3!h.. 

@@ -1,0 +1,76 @@
+* Ouverture de 2 SA
+
+Grandes lignes
+  - 3!c Puppet Stayman
+  - 3!d/3!h Texas
+  - 3!s Transfer 3NT or Minors forcing
+  - 3NT 5!s 4!h \textcolor{red}{Attention}
+  - 4x Transfer SI
+
+2NT -3!c Puppet Stayman
+  3D Au moins une Maj 4ème
+    3H 4!s
+      3S 4!s 
+      3NT 4!h 
+      4X 4!s SI 
+    3S 4!h
+      3NT 4!s 
+      4X 4!h SI 
+    3NT Max 33 Maj 
+    4m Naturel max 33 Maj
+  3H 5!h
+    3S Fit !h SI
+    4m naturel probablement 5-6m et 3-4!s 
+  3S 5!s
+    4m naturel probablement 5-6m et 3-4!h
+    4H fit !s SI  
+  3NT Max 33 Maj
+
+\textcolor{red}{Comment je développe 44MM inv ou Chelem?}
+
+2NT -3!d Texas Coeur
+  3H Non fitté ou pas intéressé (4333)
+    3S 4!s+
+      4CD \textcolor{red}{??}
+  3X/4X Fit + Cue
+
+
+2NT -3!h Texas Pique
+  3S Non fitté ou pas intéressé (4333)
+  3X/4X Fit + Cue
+
+2NT -3!s Texas pour 3SA ou des mineures fort
+  3NT Obligé
+    4C 5+!c 4+!d  GF+++
+      4D 4!d SI
+      4HS fit !c + Cue
+      4NT Negatif
+    4D 5+!d 4+!c 
+      4H fit !c SI
+      4S fit !d SI
+      4NT Negatif
+
+2NT -3NT 5!s 4!h 
+  4C fit !h SI
+  4D fit !s SI
+  4HS To play
+
+\textcolor{red}{Je fais quoi avec 5!s 4!h forcing chelem?}
+
+2NT -4!c 6+!d SI
+  4D Petit interêt
+  4HS Cue + Fit
+  4NT Negatif
+
+2NT -4!d 6+!h SI
+  4H Negatif
+  4S Positif
+  4NT BW !h 
+
+2NT -4!h 6+!s SI 
+  4S Negatif
+  4NT BW !s 
+
+2NT -4!s 6+!c SI
+  4NT Negatif
+  5C \textcolor{blue}{BW !c Attention} 
