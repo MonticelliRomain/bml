@@ -127,6 +127,34 @@
 1D
   1S
     1N 18-20 régulier (fit 4e possible)
+      2C Relais pour 2!d (2!h si fit !h 4e)
+        2D Dénie 4 !h
+        2H
+          P 4!h-5+!d ultra faible
+          2N 4!h limite (pas 4333), 5-6
+          3H 5!h limite, 5-6
+          2X/3X Naturel FM
+        2D 5!h, 3-5 ou FM 5+!h irrégulier
+          2H Obligé sauf fit !h 4e max
+            P 5!h ultra faible (pas 4!s)
+            2S 5+!h-4+!s
+            2N 5+!h-4+!c
+            3C 5+!h 4!d
+            3D 5+!h-5+!d
+            3H Laide couleur !h 6e sans courte, choix de manche ou TDC
+            3S Unicolore !h, court !s, 10/12
+            3N 5!h régulier, choix de manche
+            4m Unicolore !h, court m, 10/12
+          2N fit !h 4e max, suite naturelle sauf
+            3D Transfert pour 3!h (obligé pour la main 3-5H)
+        2H Transfert !s NF - 6!h-4!s faible, 3-5. L'ouvreur passe ou donne le plein
+        2S Ask range - 4333 régulier ou 4!h-5+m limite ou 1444/0454 FM
+        2N SO !c ou limite 4!h-6!d
+          3C 
+            P SO !c
+            3D Limite 4!h-6!d
+        3m 4!h-5+m, FM
+        3H 6+!h, au moins 2GH sans courte, FM 10+
     2C Naturel (4153 possible si mauvais !d); suite anturelle
       2S 4e CF FM, si suivi de 3!s : Naturelle et recherche de meilleure manche
       3C Limite
@@ -198,7 +226,29 @@
 
 *** La séquence 1!d-2!h
 
-
+1D
+  2H
+    2S Pour jouer
+    2N Relais FM
+      3C Résidu !c; 4513/4504
+      3D 4522, au mieux Vx à !c
+      3H 46xx
+      3S 56xx
+      3N 4522, au moins Dx à !c
+    3C Bic mineur 5+-5+ minim et misfit !, NF
+    3D Unicolore !d long, minimum et misfit !, NF
+    3HS Fitté, limite
+    4HS Pour jouer
 
 *** La séquence 1!d-2!s
+
+1D
+  2S
+    2N Souvent 18-20 régulier, FM
+      3C Des valeurs, max
+      3D Mini
+      3HS Court !h/!s
+    3C Naturel 3+ !s
+    3D Pour jouer
+    3HS Valeurs, FM
 
