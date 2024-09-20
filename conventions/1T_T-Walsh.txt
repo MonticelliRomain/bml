@@ -9,9 +9,8 @@
 
 
 
-1C  Soit naturel irrégulier 5+ cartes ou 4441 (2 noires).
+1C  Soit naturel irrégulier 5+ cartes ou tricolore court rouge.
    Soit balancé 12-14
-   Soit balancé 18-19
   1D  4+!h, 5+ HCP
   1H  4+!s, 5+ HCP
   1S  Soit pas de majeure, 5-11
@@ -62,12 +61,15 @@
       3S Splinter, 13-15H, 5(6) !h
       4CD Splinter, 13-15, 5(6) !h
     2S Irr 5+ !c/4 !s ou 4144, 18-22 ; suite naturelle
-    2N 18-19 Régulier, 3- !h
-      3C Relais
-        3D 5 (belles) +!c, FM
-        3H 3!h, FM
-        3S 5- !c, 2 !h, 4!s
-      3D Re-Texas !h, 5+!h
+    2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
+      3C relais
+        3D résidu !d (souvent court !s), (15)16 S
+          3C NF
+        3C résidu !s (souvent court !d), (15)16 S
+        3S 22+S court !s
+        4D 22+S court !d
+      3D transfert !h a priori pour jouer
+      3C pour jouer (rare)
     3C 7, 7.5 LJ à !c, pas de fit !h 3e ; suite naturelle
     3D 6!c 5!d, (12)13-15, 5 perdantes 
     3H fit !h 4e (irrégulier) 16-19 S ; suite Mathé (voir plus bas) 
@@ -368,11 +370,15 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
       3CDH Enchère d'essai dans la courte
       3S 5!s, 7-9H (sous-limite) - un ouvreur max distribué peut imposer la manche
       4CDH Splinter, 13-15H, 4(6)!s sans 4!h
-    2N 18-19 régulier, 2-3!s
-      3C Relais
-        3D 4 (belles) +!c, FM
-        3H 4!h, FM
-        3S 4-!c, 2-3!h, 3!s
+    2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
+      3C relais
+        3D résidu !d (souvent court !h), (15)16 S
+          3C NF
+        3C résidu !h (souvent court !d), (15)16 S
+        4D 22+S court !d
+        4H 22+S court !h
+      3H transfert !s a priori pour jouer
+      3S pour jouer (rare)
     3C 7, 7.5 LJ à !c, pas de fit !s 3e ; suite naturelle
     3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
     3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
@@ -541,7 +547,10 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
     2C Irrégulier, 11-17 
       2D Naturel, 5 !d ou 6 mauvais, (8) 9-11
       3D 6 beaux !d, 9-11
-    2DHS Inversée naturelle 
+    2DHS Inversée naturelle
+    2N 8 à 9 LJ !c
+      3C bon fit
+      3DHS naturel (des valeurs)
     3C 7, 7.5 LJ !c, suite naturelle 
     3HS 6!c 5!h/!s, 11-15
 
@@ -555,17 +564,17 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
       2S 6!d 4!h (voir bicolore 6!d-5!h), 12-15 FM 
       2N 6!d 322, valeurs réparties (au moins Qx), 12-15 FM
       3C Concentré dans les mineures, au moins 3+!c
-      3D 6 (7) !d pas de courte M 
+      3D 6 (7) !d pas de courte M
+      3HS Courte !h/!s
     2HS Irrégulier, 15+
     3C Longs !c (7+) 11-15
     3D Fit 3+ !d, 15+ - Forcing jusque 4!d 
-    3HS Courte !h/!s
 
 *** La séquence 1!c - 2!d 
 
 1C
   2D
-    2H passe ou corrige
+    2H poc
       P 6!h faible
       2S 6!s faible
       2X 6+ !d, (15)16+ FM
@@ -577,7 +586,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
     2N Relais forcing, suite comme 2!d multi ou autres 6+ !d, (15)16+ FM
     3C Naturel encourageant mais NF
     3D Soit naturel, soit recherche d'arrêt dans M', FM
-    3HS Barrage
+    3HS poc
     4H 6!c 5!h
     4S 6!c 5!s
 

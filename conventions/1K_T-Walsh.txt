@@ -1,7 +1,8 @@
 ** 1!d T-Walsh
 
 
-1D
+1D Soit naturel irrégulier 5+ cartes ou tricolore court noir
+    soit balancé 18-20
   1H 4+ !s, 4+ HCP, ou 4-4 M (tricolore ou régulier 4-11) ou 5!h-4!s, 4-8
   1S 4+ !h, 4+ HCP
   1N FM, 4-M; balancé ou à base de mineure(s)
