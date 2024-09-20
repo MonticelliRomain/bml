@@ -1,4 +1,4 @@
-** 1!c -Walsh
+** 1!c T-Walsh
 
 #CUT test_bock
 2\R Transfer
@@ -34,105 +34,105 @@
 
 *** La séquence 1!c - 1!d
 
-1C
-  1D 4+!h, 5+ HCP
-    1H  Soit fit !h 3e, régulier 12-14 ou irrégulier 11-16 (17)
-    1S  Irrégulier 5+!c-4!s ou 4144, pas de fit !h 3e, 11-17 ; suite nat (4e CF, etc.)
-    1N Balancé, pas 3!h 
-    2C 6 !c ou 5 !c/4 !d irrégulier, 11-16, 2- !h ; suite nat (3e CF, etc.)
-      2D 3e couleur forcing artificielle
-      2S Valeurs en !s, rarement 5!h, FM
-      3C Limite
-      3H Belle couleur 6e, FM+, des réserves
-      3S Bicolore 6!h-5!s (car saut au palier de 3)
-      4C Gros fit !c, FM+
-    2D Inversée nat
-      2H F1 
-      2S modérateur (pour jouer SA de la bonne main)/4e CF
-      3H 6+M belle couleur
-    2H Fit 4e, 11-14 irr
-      2S Enchères d'essai généralisée
-        2N Force à !s
-        3CD Force à !c/!d
-        3S Max, court !s
-      2N Enchère d'essai, court !s
-      3CD Enchère d'essai court !c/!d
-      3H 5!h, 7-9H (sous-limite), un ouvreur max distribué peut imposer la manche
-      3S Splinter, 13-15H, 5(6) !h
-      4CD Splinter, 13-15, 5(6) !h
-    2S Irr 5+ !c/4 !s ou 4144, 18-22 ; suite naturelle
-    2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
-      3C relais
-        3D résidu !d (souvent court !s), (15)16 S
-          3C NF
-        3C résidu !s (souvent court !d), (15)16 S
-        3S 22+S court !s
-        4D 22+S court !d
-      3D transfert !h a priori pour jouer
-      3C pour jouer (rare)
-    3C 7, 7.5 LJ à !c, pas de fit !h 3e ; suite naturelle
-    3D 6!c 5!d, (12)13-15, 5 perdantes 
-    3H fit !h 4e (irrégulier) 16-19 S ; suite Mathé (voir plus bas) 
-    3S4D Splinter (3-4 perdantes)
-    3N 18-19, 4!h
-    4C 6+ !c 4!h (3-4 perdantes)
-    4H 6+ !c 4!h, offensif et très concentré (13-15)
+1C-1D 4+!h, 5+ HCP
+  1H  Soit fit !h 3e, régulier 12-14 ou irrégulier 11-16 (17)
+  1S  Irrégulier 5+!c-4!s ou 4144, pas de fit !h 3e, 11-17 ; suite nat (4e CF, etc.)
+  1N Balancé, pas 3!h 
+  2C 6 !c ou 5 !c/4 !d irrégulier, 11-16, 2- !h ; suite nat (3e CF, etc.)
+    2D 3e couleur forcing artificielle
+    2S Valeurs en !s, rarement 5!h, FM
+    3C Limite
+    3H Belle couleur 6e, FM+, des réserves
+    3S Bicolore 6!h-5!s (car saut au palier de 3)
+    4C Gros fit !c, FM+
+  2D Inversée nat
+    2H F1 
+    2S modérateur (pour jouer SA de la bonne main)/4e CF
+    3H 6+M belle couleur
+  2H Fit 4e, 11-14 irr
+    2S Enchères d'essai généralisée
+      2N Force à !s
+      3CD Force à !c/!d
+      3S Max, court !s
+    2N Enchère d'essai, court !s
+    3CD Enchère d'essai court !c/!d
+    3H 5!h, 7-9H (sous-limite), un ouvreur max distribué peut imposer la manche
+    3S Splinter, 13-15H, 5(6) !h
+    4CD Splinter, 13-15, 5(6) !h
+  2S Irr 5+ !c/4 !s ou 4144, 18-22 ; suite naturelle
+  2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
+    3C relais
+      3D résidu !d (souvent court !s), (15)16 S
+        3C NF
+      3C résidu !s (souvent court !d), (15)16 S
+      3S 22+S court !s
+      4D 22+S court !d
+    3D transfert !h a priori pour jouer
+    3C pour jouer (rare)
+  3C 7, 7.5 LJ à !c, pas de fit !h 3e ; suite naturelle
+  3D 6!c 5!d, (12)13-15, 5 perdantes 
+  3H fit !h 4e (irrégulier) 16-19 S ; suite Mathé (voir plus bas) 
+  3S4D Splinter (3-4 perdantes)
+  3N 18-19, 4!h
+  4C 6+ !c 4!h (3-4 perdantes)
+  4H 6+ !c 4!h, offensif et très concentré (13-15)
 
 **** La séquence 1!c - 1!d - 1!h
 
 1C-1D 
-  1H  Soit fit !h 3e, régulier 12-14 ou irrégulier 11-16 (17). 
-      Soit fit !h 4e, 13-15 (7 perdantes) - régulier 12-14
-    Pass 4!h, 0-8 ou 5!h, 0-6
-    1S  Soit 4!h-5+m, 6-11 
-        Soit 4!h, (8)9-10 (souvent une tolérance !c)
-        Soit 4!h, régulier FM pour orienter les SA
-    1N 4!s-4!h, 6-10
-    2C  Relais pour 2!d (ou 2!h avec 4!h chez l'ouvreur)
-        Soit faible à !d
-        Soit limite avec 5+!h
-        Soit 5!h balancé mini quantitatif (au moins RDVxx sur 1SA)
-    2D  Relais pour 2!h (sauf si ouvreur est 5+!c 3!hxx 15-17)
-      2H 7-9H ou FM irrégulier ou choix de manche
-        Pass 5!h, 7-9
-        2S 5+!h 4+!s
-        2N 5+!h, 4+!c
-        3C 5+!h, 4!d
-        3D 5+!h, 5+!d
-        3H TDC avec une laide couleur 6e
-        3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 
-           16-18, 4/5 perdantes              
-        3N 5!h régulier (5332, ou parfois 5422, choix de manche)
-        4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 
-            16-18, 4/5 perdantes
-    2H Soit 4!s - 4!h 10-11 (+) H
-       Soit Tricolore court m 4441/4450 FM 
-    2S Range ask 
-      2N Mini
-        Pass 4!h régulier, limite
-        3S 1444/04(5)(4), FM
-      3C Max
-        3S 1444/04(5)(4), FM
-        3N Régulier limite
-      3H Mini fitté !h 4e
-    2N 11-12 4 !h (oriente les SA, tendance mauvaise couleur !h)
-    3C 5+ !c, 4!h FM+
-      3H Fitté 4!h
-        3S Serious
-        3N Court !s
-        4D Court !d
-    3D 5+ !d - 4!h, FM+
-      3H Arrêt !c ou fit !h
-      3S Arrêt !s
-      4m Fit !d 4e
-    3H 6+!h, FM 16+, sans courte (ou forcing chelem avec une courte)
-    3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
-    4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
+1H  Soit fit !h 3e, régulier 12-14 ou irrégulier 11-16 (17). 
+    Soit fit !h 4e, 13-15 (7 perdantes) - régulier 12-14
+  Pass 4!h, 0-8 ou 5!h, 0-6
+  1S  Soit 4!h-5+m, 6-11 
+      Soit 4!h, (8)9-10 (souvent une tolérance !c)
+      Soit 4!h, régulier FM pour orienter les SA
+  1N 4!s-4!h, 6-10
+  2C  Relais pour 2!d (ou 2!h avec 4!h chez l'ouvreur)
+      Soit faible à !d
+      Soit limite avec 5+!h
+      Soit 5!h balancé mini quantitatif (au moins RDVxx sur 1SA)
+  2D  Relais pour 2!h (sauf si ouvreur est 5+!c 3!hxx 15-17)
+    2H 7-9H ou FM irrégulier ou choix de manche
+      Pass 5!h, 7-9
+      2S 5+!h 4+!s
+      2N 5+!h, 4+!c
+      3C 5+!h, 4!d
+      3D 5+!h, 5+!d
+      3H TDC avec une laide couleur 6e
+      3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 
+          16-18, 4/5 perdantes              
+      3N 5!h régulier (5332, ou parfois 5422, choix de manche)
+      4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 
+          16-18, 4/5 perdantes
+  2H Soit 4!s - 4!h 10-11 (+) H
+      Soit Tricolore court m 4441/4450 FM 
+  2S Range ask 
+    2N Mini
+      Pass 4!h régulier, limite
+      3S 1444/04(5)(4), FM
+    3C Max
+      3S 1444/04(5)(4), FM
+      3N Régulier limite
+    3H Mini fitté !h 4e
+  2N 11-12 4 !h (oriente les SA, tendance mauvaise couleur !h)
+  3C 5+ !c, 4!h FM+
+    3H Fitté 4!h
+      3S Serious
+      3N Court !s
+      4D Court !d
+  3D 5+ !d - 4!h, FM+
+    3H Arrêt !c ou fit !h
+    3S Arrêt !s
+    4m Fit !d 4e
+  3H 6+!h, FM 16+, sans courte (ou forcing chelem avec une courte)
+  3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
+  4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
 
 
 **** La séquence 1!c - 1!d - 1!h - 1!s
 
-1C-1D-1H-1S --
+1C-1D
+1H-1S
   1N Régulier, fit !h 3e NF
     2C 4!h-5+!c, 6-10
     2D 4!h-5!d, 10-11
@@ -157,7 +157,8 @@
 
 **** La séquence 1!c - 1!d - 1!h - 1NT
 
-1C-1D-1H-1N
+1C-1D
+1H-1N
   2C Irrégulier fit !h 3e, 11-14, NF
   2D Irrégulier, fit !h 3e, 15-17, type 1345
   2H Régulier fit !h 4e, 12-14
@@ -168,7 +169,8 @@
 
 **** La séquence 1!c - 1!d - 1!h - 2!c
 
-1C-1D-1H-2C
+1C-1D
+1H-2C
   2D Fit !h 3e
     Pass 5+!d, faible
     2H 5!h, 10-11
@@ -197,7 +199,8 @@
 
 **** La séquence 1!c - 1!d - 1!s 
 
-1C-1D-1S
+1C-1D
+1S
   1N Naturel, 7-10
     2D Tricolore 4045, 15-17
   2C Pour jouer, 5-9
@@ -236,7 +239,8 @@ Rappel sur la 4e CF :
 
 **** La séquence 1!c - 1!d - 1NT
 
-1C-1D-1N
+1C-1D
+1N
   2C Relais pour 2!d
     2D
       Pass 5+!d, faible
@@ -295,7 +299,8 @@ Rappel sur la 4e CF :
 
 **** La séquence 1!c - 1!d - 2!c - 2!d
 
-1C-1D-2C-2D
+1C-1D
+2C-2D
   2H 2 cartes à !h, 11-13 NF
   2S 4e CF artificielle de l'ouvreur, (13)14-16, FM
   2N Naturel, couleurs extérieures tenues, 11-13, NF
@@ -316,14 +321,16 @@ Rappels sur la troisième enchère du répondant après départ 3e CF
 En cas de fit majeur au niveau de 3M de l'ouvreur (typiquement irrégulier 2e zone), le répondant utilisant un relais Mathe ci-dessous promet le plus souvent une main régulière ou une courte dans la mineure d'ouverture. Une autre enchère a donc tendance à montrer une courte (sauf 4m dans la mineur d'ouverture qui montre un gros 
 honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origine, prévoit que 4x dans l'ouverture promet un single et donc par extension, oblige tout répondant sans courte à passer par le relais Mathe. 
 
-1C-1D-3H
+1C-1D
+3H
   3S Relais Mathe
     3N Court !s (en écho)
     4C Pas de courte, maxi
     4D Court !d
     4H Pas de courte, mini
 
-1C-1H-3S
+1C-1H
+3S
   3N Relais Mathe
     4C Pas de courte, maxi
     4DH Court !d/!h
@@ -331,66 +338,65 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 
 *** La séquence 1!c - 1!h
 
-1C
-  1H  4+!s, 5+ HCP
-    1S Soit fit !s 3e, régulier 12-14 ou
-       Soit irrégulier 11-16 (17) 
-       Soit fit !s 4e, 13-15 (7 perdantes) - régulier 12-14
-    1N Balancé, pas 3!s 
-    2C 6 !c ou 5 !c/4 X irrégulier, 11-16, 2- !s ; suite nat (3e CF, etc.)
-      2D 3e CF artificielle
-        2H Soit 4 cartes !h et 11-13, soit 14-16 quelconque
-          2S NF
-          2N FM
-          Autres FM
-      2H 3e CF naturelle
-        2S Préférence !s dans 2 cartes, 11-13 NF
-          3H Bicolore M 5-5 limite
-          Reste FM
-        2N Naturel, 11-13, NF
-          3H Bicolore M 5-5 limite
-          Reste FM
-        3C Naturel, 11-13, NF
-          3H Bicolore M 5-5 limite
-          Reste FM
-        3D 4e couleur de l'ouvreur, misfit !h, (13) 14-16
-        3H Fit !h 4e, (13)14-16
-        3S Fit !h 4e, splinter !s, type 1435, 11-13
-        3N Naturel (13) 14-16
-        4C Fit !h 4e, splinter !s (et contrôle !c), type 1426, 11-13
-        4D Fit !h 4e, splinter !d, type 2416, 11-13
-        4H Fit !h 4e, type 2425, 11-13
-      3H Bicolore majeur 5-5 FM
-    2DH Inversée nat
-      2S F1 
-      2M' modérateur (?)/4e CF
-      3S 6+M belle couleur
-    2S Fit 4e, 11-14 irr
-      2N Enchère d'essai généralisé
-      3CDH Enchère d'essai dans la courte
-      3S 5!s, 7-9H (sous-limite) - un ouvreur max distribué peut imposer la manche
-      4CDH Splinter, 13-15H, 4(6)!s sans 4!h
-    2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
-      3C relais
-        3D résidu !d (souvent court !h), (15)16 S
-          3C NF
-        3C résidu !h (souvent court !d), (15)16 S
-        4D 22+S court !d
-        4H 22+S court !h
-      3H transfert !s a priori pour jouer
-      3S pour jouer (rare)
-    3C 7, 7.5 LJ à !c, pas de fit !s 3e ; suite naturelle
-    3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
-    3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
-    4CD Splinter (3-4 perdantes)
-    3N 18-19, 4!s
-    4C 6+ !c 4!s (3-4 perdantes)
-    4S 6+ !c 4!s, offensif et très concentré (13-15)
-
+1C-1H  4+!s, 5+ HCP
+  1S Soit fit !s 3e, régulier 12-14 ou
+      Soit irrégulier 11-16 (17) 
+      Soit fit !s 4e, 13-15 (7 perdantes) - régulier 12-14
+  1N Balancé, pas 3!s 
+  2C 6 !c ou 5 !c/4 X irrégulier, 11-16, 2- !s ; suite nat (3e CF, etc.)
+    2D 3e CF artificielle
+      2H Soit 4 cartes !h et 11-13, soit 14-16 quelconque
+        2S NF
+        2N FM
+        Autres FM
+    2H 3e CF naturelle
+      2S Préférence !s dans 2 cartes, 11-13 NF
+        3H Bicolore M 5-5 limite
+        Reste FM
+      2N Naturel, 11-13, NF
+        3H Bicolore M 5-5 limite
+        Reste FM
+      3C Naturel, 11-13, NF
+        3H Bicolore M 5-5 limite
+        Reste FM
+      3D 4e couleur de l'ouvreur, misfit !h, (13) 14-16
+      3H Fit !h 4e, (13)14-16
+      3S Fit !h 4e, splinter !s, type 1435, 11-13
+      3N Naturel (13) 14-16
+      4C Fit !h 4e, splinter !s (et contrôle !c), type 1426, 11-13
+      4D Fit !h 4e, splinter !d, type 2416, 11-13
+      4H Fit !h 4e, type 2425, 11-13
+    3H Bicolore majeur 5-5 FM
+  2DH Inversée nat
+    2S F1 
+    2M' modérateur (?)/4e CF
+    3S 6+M belle couleur
+  2S Fit 4e, 11-14 irr
+    2N Enchère d'essai généralisé
+    3CDH Enchère d'essai dans la courte
+    3S 5!s, 7-9H (sous-limite) - un ouvreur max distribué peut imposer la manche
+    4CDH Splinter, 13-15H, 4(6)!s sans 4!h
+  2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
+    3C relais
+      3D résidu !d (souvent court !h), (15)16 S
+        3C NF
+      3C résidu !h (souvent court !d), (15)16 S
+      4D 22+S court !d
+      4H 22+S court !h
+    3H transfert !s a priori pour jouer
+    3S pour jouer (rare)
+  3C 7, 7.5 LJ à !c, pas de fit !s 3e ; suite naturelle
+  3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
+  3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
+  4CD Splinter (3-4 perdantes)
+  3N 18-19, 4!s
+  4C 6+ !c 4!s (3-4 perdantes)
+  4S 6+ !c 4!s, offensif et très concentré (13-15)
 
 **** La séquence 1!c - 1!h - 1!s
 
-1C-1H-1S--
+1C-1H
+1S
   Pass 4!s, 0-8 ou 5!s, 0-6
   1N 8-10, NF
     2C Irrégulier, fit !s 3e, 11-14 NF
@@ -431,7 +437,8 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 
 **** La séquence 1!c - 1!h - 1!s - 2!c
 
-1C-1H-1S-2C
+1C-1H
+1S-2C
   2D Fit !s 3e
     Pass 5+!d faible
     2H 5!s-4!h 10-11
@@ -477,7 +484,8 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 
 **** La séquence 1!c - 1!h - 1NT
 
-1C-1H-1N
+1C-1H
+1N
   2C Relais pour 2!d
     2D
       Pass 5+!d, faible
@@ -533,97 +541,214 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 
 *** La séquence 1!c - 1!s
 
-1C
-  1S 
-    1N 12-14 (4414 ou 4144 possible)
-      2CD 5+ cartes, pour jouer
-      2HS limite, allonge les !c/!d (au moins 54 mineur) ; Puis 2NT/3m NF
-      2N Limite 
-      3C 6 !c, 9-11
-      3D 6 !d, 9-11 
-      3H 2245, pas/peu de points perdus en M, sans ambitions (12-14)
-      3S 2254, pas/peu de points perdus en M, sans ambitions (12-14)
-      3N Pour jouer (main orientée NT)
-    2C Irrégulier, 11-17 
-      2D Naturel, 5 !d ou 6 mauvais, (8) 9-11
-      3D 6 beaux !d, 9-11
-    2DHS Inversée naturelle
-    2N 8 à 9 LJ !c
-      3C bon fit
-      3DHS naturel (des valeurs)
-    3C 7, 7.5 LJ !c, suite naturelle 
-    3HS 6!c 5!h/!s, 11-15
+1C-1S 
+  1N 12-14 (4414 ou 4144 possible)
+    2CD 5+ cartes, pour jouer
+    2HS limite, allonge les !c/!d (au moins 54 mineur) ; Puis 2NT/3m NF
+    2N Limite 
+    3C 6 !c, 9-11
+    3D 6 !d, 9-11 
+    3H 2245, pas/peu de points perdus en M, sans ambitions (12-14)
+    3S 2254, pas/peu de points perdus en M, sans ambitions (12-14)
+    3N Pour jouer (main orientée NT)
+  2C Irrégulier, 11-17 
+    2D Naturel, 5 !d ou 6 mauvais, (8) 9-11
+    3D 6 beaux !d, 9-11
+  2DHS Inversée naturelle
+  2N 8 à 9 LJ !c
+    3C bon fit
+    3DHS naturel (des valeurs)
+  3C 7, 7.5 LJ !c, suite naturelle 
+  3HS 6!c 5!h/!s, 11-15
+
+*** La séquence 1!c - 1NT
+
+1C-1N
+  2C irrég 14-16
+  2D irrég a base de !c
+    soit 5+!c-4!d 11-13 ou 17-21(22) (=mini-maxi)
+    soit unicolore 6+!c 11-13
+    soit tricolore court !h
+  2H 5+!c-4!h 11-13 ou 17-21(22) (=mini-maxi)
+    ou tricolore "impossible" 0445 11-22
+  2S 5+!c-4!s 11-13 ou 17-21(22) (=mini-maxi)
+    ou tricolore court !d (=mini-maxi)
+  2N régulier 12-14
+  3CD/M 6(7)!c 17+
+  3N unicolore !c ARD 7e+, au mieux une dame annexe
+
+notes :	
+
+-	Après les débuts de séquences :	1m	1SA	
+	2/3x	le relais pour le code est toujours la collante (hormis 3SA)
+
+-	La logique du code se base sur la description des mains bicolores 5-4 zonées 11-13 ou 17-21 : 
+  l’ouvreur redemande « naturellement » à 2!d avec quatre cartes à !d
+  et à 2M avec quatre cartes dans l’AM (orientation), pour ensuite redemander à 3!c (zone 11-13) sans finaliser la description de la distribution (cela permet éventuellement au relayeur de clôturer la séquence en limitant les informations divulguées)
+  ou à 3M/3SA (zone 17-21), la fin du code étant identique pour ces deux zones
+
+-	Toutes les mains irrégulières zonées 14-16 passent obligatoirement d’abord par l’enchère de 2!c,
+et suivent ensuite la même logique que les deux autres zones,
+avec la différence que le bicolore 5!c-4!d redemande à 3!c directement (plus la place pour enchérir 2!d).
+A noter que les distributions 6-4 sont décrites avant ou à 3SA, profitant du fait qu’il n’y a que la zone 14-16 à décrire. 
+
+-	Les unicolores zonés 11-13 passent par l’enchère de 2!d,
+pour redemander à 2!s (avec courte) ou 2SA (sans courte),
+tandis que la zone 14-16 passe par 2!c pour redemander à 2SA (avec et sans courte)
+
+-	Enfin, les mains tricolores (4441 ou 5440) peu fréquentes et moins instinctives à décrire,
+suivent une logique de description relativement simple, qui se base sur le prérequis suivant : 
+
+Les tricolores 44 noirs s'ouvrent d'1!c, les 44 rouges d'1!d.
+
+1. La 2ème couleur décrite pour un tricolore (on suit le même mécanisme que pour les bicolores 5-4) est toujours celle qui est d’une couleur différente de celle de la mineure d’ouverture, 
+de sorte que la 3ème couleur du tricolore est automatiquement déduite par après, grâce au prérequis nommé ci-avant.
+2. Sur le relais suivant, l’ouvreur annonce qu’il est tricolore via le palier spécial de 3!d réservé pour tous les tricolores.
+3. Le problème des tricolores zonés 14-16,
+  où la deuxième couleur à décrire sont les carreaux (plus la place pour enchérir 2!d),
+  est résolu en annonçant d’abord la 3ème couleur (déjà connue ou en passe de l’être, cfr. prérequis) via l’enchère de 2M.
+  L’ambiguïté est levée au tour suivant par inférence, lorsque l’ouvreur passe par le palier spécial de 3!d (l’autre tricolore possible serait passé par le palier de 2AM).
+4. Pour être complet, il faut encore s’attarder sur les cas du 0445  [et 4054 après ouverture 1!d],
+  surnommés les "tricolores impossibles" (chicane de même couleur que l’ouverture).
+  Ces distributions très rares qui ne suivent pas la logique générale mise en place et qui ont une fin de code légèrement différente sont mises en évidence.
+
+
+*** La zone 14-16
+
+1C-1N
+2C
+  2D relais
+    2H irrégulier !c-!s (tricolores possibles : 4144, 4045) ou régulier « maxi » (13+) 14
+    2S irrégulier !c-!h (tricolores possibles : 4414, 4405) 
+    2N unicolore !c 6e+
+    3C bicolore 5!c-4!d
+      3D relais
+      3H 22
+      3S 13
+      3N 31
+    3D 2146 (x moins cher)  
+    3H 1246 (x plus cher) 
+    3S 3046 (chicane moins chère)
+    3N 0346 (chicane plus chère)
+    4C 2056 (chicane moins chère)
+    4D 0256 (chicane plus chère)
+    4H 1156, 14-16
+
+**** Développement des bicolores via les paliers de 3+!c (hormis 3!d réservé aux tricolores)
+
+1C-1N
+2C-2D
+2M-2S/2N
+  2N suite système comme après 1m 1SA 2SA
+  3C bicolore 5!c-4AM
+    3D relais
+      3H 22
+      3S 13
+      3N 31
+  3D tricolores possibles
+  3H  bicolore 6!c-4AM, résidu 21/30 (x moins cher)
+    3S relais 
+    3N 21
+    4C 30
+  3S bicolore 6!c-4AM, résidu 12 (x plus cher) 
+  3N bicolore 6!c-4AM, résidu 03 (chicane plus chère)
+  4C bicolore 6!c-5AM, résidu 20 (chicane moins chère)
+  4D bicolore 6!c-5AM, résidu 02 (chicane plus chère)
+  4M bicolore 6!c-5AM11
+
+**** Développement des tricolores 14-16 via le palier de 3!d
+
+1C-1N
+2C-2D
+2H-2S
+3D-3H
+  3S 4144
+  3N 4045
+
+1C-1N
+2C-2D
+2S-2N
+3D-3H
+  3S 4414
+  3N 4405
+
+**** Développement des unicolores !c 14-16 
+
+1C-1N
+2C-2D
+2N-3T
+  3D unicolore !c 6e+
+  3H 3316 voire xx17 (x le moins cher)
+  3S 3136 voire x1x7 (x médian)
+  3N 1336 voire 1xx7 (x le plus cher) 
+  4C 3307 (chicane la moins chère)
+  4D 3037 (chicane médiane)
+  4H 0337 (chicane la plus chère)
 
 *** La séquence 1!c - 2!c 
 
-1C
-  2C
-    2D Obligatoire si 11-14
-      P 4-8
-      2H 6!d 4!s (voir bicolore 6!d-5!s), 12-15 FM 
-      2S 6!d 4!h (voir bicolore 6!d-5!h), 12-15 FM 
-      2N 6!d 322, valeurs réparties (au moins Qx), 12-15 FM
-      3C Concentré dans les mineures, au moins 3+!c
-      3D 6 (7) !d pas de courte M
-      3HS Courte !h/!s
-    2HS Irrégulier, 15+
-    3C Longs !c (7+) 11-15
-    3D Fit 3+ !d, 15+ - Forcing jusque 4!d 
+1C-2C
+  2D Obligatoire si 11-14
+    P 4-8
+    2H 6!d 4!s (voir bicolore 6!d-5!s), 12-15 FM 
+    2S 6!d 4!h (voir bicolore 6!d-5!h), 12-15 FM 
+    2N 6!d 322, valeurs réparties (au moins Qx), 12-15 FM
+    3C Concentré dans les mineures, au moins 3+!c
+    3D 6 (7) !d pas de courte M
+    3HS Courte !h/!s
+  2HS Irrégulier, 15+
+  3C Longs !c (7+) 11-15
+  3D Fit 3+ !d, 15+ - Forcing jusque 4!d
 
 *** La séquence 1!c - 2!d 
 
-1C
-  2D
-    2H poc
-      P 6!h faible
-      2S 6!s faible
-      2X 6+ !d, (15)16+ FM
-      3X 6+ !d, (15)16+ FM
-    2S Passe/Corrige
-      P 6!s faible
-      3H 6!h faible
-      2/3X 6+!d, (15)16+ FM
-    2N Relais forcing, suite comme 2!d multi ou autres 6+ !d, (15)16+ FM
-    3C Naturel encourageant mais NF
-    3D Soit naturel, soit recherche d'arrêt dans M', FM
-    3HS poc
-    4H 6!c 5!h
-    4S 6!c 5!s
+1C-2D
+  2H poc
+    P 6!h faible
+    2S 6!s faible
+    2X 6+ !d, (15)16+ FM
+    3X 6+ !d, (15)16+ FM
+  2S Passe/Corrige
+    P 6!s faible
+    3H 6!h faible
+    2/3X 6+!d, (15)16+ FM
+  2N Relais forcing, suite comme 2!d multi ou autres 6+ !d, (15)16+ FM
+  3C Naturel encourageant mais NF
+  3D Soit naturel, soit recherche d'arrêt dans M', FM
+  3HS poc
+  4H 6!c 5!h
+  4S 6!c 5!s
 
 *** La séquence 1!c - 2!h 
 
-1C 
-  2H 
-    2S 12-14 régulier (désoriente les NT)
-      3C 6+ !c, 15+
-      3DHS court, 12-14 (15)
-      3N To play (sans doute 6+!c, 12-14 (15) sans courte)
-    2N Régulier 12-14, arrêts dans les 2 majeures
-      3C 6+!c, 15+
-      3DHS Court !d/!h/!s, 12-14(15)
-      3N pour jouer (sans doute 6+!c, 12-14 (15) sans courte)
-    3C 4+ !c, toutes distributions ; suite naturelle (3x une force et 4!d/!h/!s Splinter)
+1C-2H 
+  2S 12-14 régulier (désoriente les NT)
+    3C 6+ !c, 15+
+    3DHS court, 12-14 (15)
+    3N To play (sans doute 6+!c, 12-14 (15) sans courte)
+  2N Régulier 12-14, arrêts dans les 2 majeures
+    3C 6+!c, 15+
+    3DHS Court !d/!h/!s, 12-14(15)
+    3N pour jouer (sans doute 6+!c, 12-14 (15) sans courte)
+  3C 4+ !c, toutes distributions ; suite naturelle (3x une force et 4!d/!h/!s Splinter)
 
 *** La séquence 1!c - 2!s 
 
-1C 
-  2S 
-    2N Balancé 12-14 avec arrêts M 
-      3CD 5+m 4m', 12+ (12-14 22(5)(4) rare, car répond plutôt 1!s/1NT sur 1!c)
-      3HS 5+/5+, court !h/!s 
-      3N 2254/2245 concentré m, 15-17
-      4C 5+/5+, quasi forcing chelem, suite naturelle (comme après 1NT 4!c)
-    3CD Fit 4e 12-15 (pas contre jouer 5+m)
-      3M court M 
-    3HS Concentration en M, sans doute problème M' (peu intéressé à jouer 5+m)
-    3N Balancé et beaux arrêts M (souvent sans As), 12-14
-    4C Fit 4e, 16+ (rare)
+1C-2S 
+  2N Balancé 12-14 avec arrêts M 
+    3CD 5+m 4m', 12+ (12-14 22(5)(4) rare, car répond plutôt 1!s/1NT sur 1!c)
+    3HS 5+/5+, court !h/!s 
+    3N 2254/2245 concentré m, 15-17
+    4C 5+/5+, quasi forcing chelem, suite naturelle (comme après 1NT 4!c)
+  3CD Fit 4e 12-15 (pas contre jouer 5+m)
+    3M court M 
+  3HS Concentration en M, sans doute problème M' (peu intéressé à jouer 5+m)
+  3N Balancé et beaux arrêts M (souvent sans As), 12-14
+  4C Fit 4e, 16+ (rare)
 
 *** La séquence 1!c - 2NT 
 
-1C
-  2N 
-    3m stop 
-    3M naturel (valeurs +), FM 
-    4m NF
-
+1C-2N 
+  3m stop 
+  3M naturel (valeurs +), FM 
+  4m NF
