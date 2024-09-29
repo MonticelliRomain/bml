@@ -19,41 +19,64 @@
   3S Barrage (6 cartes possibles si NV/V tendance résidu !d)
   4C BIC mineur limite 10-12 HCP concentrés, ou FM au moins 6-5 (4!d NF en réponse)
 
+note : 	Avec une main de 3 à 4/5H sans majeur par 4 et sans 3+!d (3325 ou 6+!c sans 4M),
+un répondant qui ne veut pas passer doit annoncer 1 AM dans 3 cartes (si choix entre les 2 majeurs, il transfère dans la meilleure).
+Ce type de main passe souvent sur la redemande à 1 SA ou annonce 2 SA pour jouer 3!c.
+Un ouvreur 18-20 redemande donc systématiquement à 1 SA même avec un fit M 4e sauf s’il est maximum avec 4 atouts corrects, pas 4333 et avec arrêt AM, auquel cas il redemande à 3 SA.
+Avec une main de 6 à 9H sans majeur par 4 et sans 3+!d (3325 ou 6+!c sans 4M), un répondant annonce 1 AM dans 3 cartes, au pire 2!c avec seulement 2 cartes à !d si tous ses points sont en m.
+
+
+
+note : 	Avec 4!s-5!h, un répondant zoné :
+-	faible, de (3)4 à 8(9) H, annonce d'abord les !s (via l'enchère d'1!h), puis sur la redemande à 1SA de l’ouvreur, la zone 3-5H passe par 2!c et la zone 6-9H passe par 2!d transfert !h
+-	limite, de 9 à 11H, saute à 2!h sans 3!d ou annonce d'abord les !h (via l'enchère d'1!s) avec 3!d
+-	FM, 12+H, annonce d'abord les !h (via l'enchère d'1!s)
+
+note :	Dans les séquences du type suivant, 2SA n’est jamais naturel (le répondant doit passer par 2!s)
+
+1m-1X ou X est M-1
+1N-2N pas nat
+
+mais
+
+1C-1D
+1N-2N nat
 
 *** La séquence 1!d - 1!h
 
 1D-1H
-  1S Irrégulier (1444 possible) 4+!d-4+!h, 11-18. Suite naturelle :
-  1N Balancé 18-20 (fit !s 4e possible)
-  2C Naturel et suite naturelle
-    2H 4e CF
-      3C 5+!c/5+!d 11-17
-  2D Naturel. Suite naturelle (3 !c est 5+!c FM, canapé fréquent)
-  2H Inversée !d/!h, 19-21 (équivalent d'un BIC FM à saut)
-  2S Fit !s 4e, 13-15 S.
-  2N Fit 4e 15-16S avec courte, ou 22+S avec courte (au + 3 perdantes)
-    3C Relais, demande de courte
-      3D Court !c, 15-16DH; puis 3!s NF
-      3H Court !h, 15-16DH; puis 3!s NF
-      4C 22+S Court !c
-      4H 22+S Court !h
-    3H Tsf !s; a priori pour jouer 3!s
-    3S Pour jouer (rare)
-  3C Naturel FM (5!d4!c possible)
-  3D 7/7.5 LJ à !d ; suite artificielle au niveau de 3
-    3H Arrêt !h
-    3S Arrêt !c
-  3H 6!d/5!h, 12-15, 5 perdantes
-  3S Fit !s 4e à base de !d, 17-19 S; ensuite, 3NT relais Mathé
-  3N Beau fit !s 4e plat, supporte SA, 20-21 S; puis 4!h transfert pour 4!s
-  4C Fit !s 4e, 5+ !d, court !c, 20-21 S, 3-4 perdantes
-  4D Fit !s 4e, 6+ !d, 20-21 S, 3-4 perdantes
-  4H Fit !s 4e, 5+ !d, court !h, 20-21 S, 3-4 perdantes
-  4S Fit !s 4e, 6+ !d, concentré minimum 13-16
+1S Irrégulier (1444 possible) 4+!d-4+!h, 11-18. Suite naturelle :
+1N Balancé 18-20 (fit !s 4e possible)
+2C Naturel et suite naturelle
+  2H 4e CF
+    3C 5+!c/5+!d 11-17
+2D Naturel. Suite naturelle (3 !c est 5+!c FM, canapé fréquent)
+2H Inversée !d/!h, 19-21 (équivalent d'un BIC FM à saut)
+2S Fit !s 4e, 13-15 S.
+2N Fit 4e 15-16S avec courte, ou 22+S avec courte (au + 3 perdantes)
+  3C Relais, demande de courte
+    3D Court !c, 15-16DH; puis 3!s NF
+    3H Court !h, 15-16DH; puis 3!s NF
+    4C 22+S Court !c
+    4H 22+S Court !h
+  3H Tsf !s; a priori pour jouer 3!s
+  3S Pour jouer (rare)
+3C Naturel FM (5!d4!c possible)
+3D 7/7.5 LJ à !d ; suite artificielle au niveau de 3
+  3H Arrêt !h
+  3S Arrêt !c
+3H 6!d/5!h, 12-15, 5 perdantes
+3S Fit !s 4e à base de !d, 17-19 S; ensuite, 3NT relais Mathé
+3N Beau fit !s 4e plat, supporte SA, 20-21 S; puis 4!h transfert pour 4!s
+4C Fit !s 4e, 5+ !d, court !c, 20-21 S, 3-4 perdantes
+4D Fit !s 4e, 6+ !d, 20-21 S, 3-4 perdantes
+4H Fit !s 4e, 5+ !d, court !h, 20-21 S, 3-4 perdantes
+4S Fit !s 4e, 6+ !d, concentré minimum 13-16
 
 *** La séquence 1!d - 1!h - 1!s
 
-1D-1H-1S
+1D-1H
+1S
   1N naturel
     2C naturel, irrégulier court !s, 1453 ou tricolore (1444/0454), 13+-16
       P/2D/2H décourageant
@@ -81,7 +104,8 @@
 
 *** La séquence 1!d - 1!h - 1NT
 
-1D-1H-1N
+1D-1H
+1N
   2C Relais pour 2!d (2!s si fit !s 4e), suite système mais fit !s 3e possible
     2D Dénie 4!s
       P 5+!d faible
@@ -131,10 +155,33 @@
   4CDH Splinter, 6+ !s (2GH), 6331, 7-9H
   4S Pour jouer (rare, orientation)
 
+*** La séquence 1!d-1!s
+
+1D-1S
+1N Balancé 18-20 (fit !h 4e possible)
+2C naturel (4153 possible si mauvais !d) suite naturelle
+  2S 4e CF FM 
+2D naturel (4!s annexes possibles) suite systémique
+  2S 3°CF artificielle FM 
+  3C est FM canapé (5+!sc parfois avec 5!h s'il est préférable de mettre l'accent sur les !c) 
+2S inversée !d-!s, 17-21 suite naturelle
+  2N modérateur (3)4-6 H
+2N fitté 4ème (15)16 Savec courte, ou 22+ S avec courte (au plus 3 perdantes) 
+3C naturel, FM (5!d4!c possible)
+3D 7 à 7.5 LJ !d suite artificielle au niveau de 3
+3H fit !h 4e à base de !d, 17-19 S
+  3S relais Mathé
+3S 6!d-5!s, (12)13-15, 5 perdantes
+3N beau fit !h 4e plat, supporte SA (arrêt AM), 20-21 S
+  4D transfert pour 4!h 
+3S/4C fit !h 4e, splinter
+4D		fit !h 4e, 6e•, 20-21 S
+4H		fit !h 4e, couleur 6e!d,  concentré minimum 13-16
 
 *** La séquence 1!d-1!s-1NT
 
-1D-1S-1N 
+1D-1S
+1N 
   2C Relais pour 2!d (2!h si fit !h 4e)
     2D Dénie 4 !h
     2H
@@ -167,63 +214,63 @@
 *** La séquence 1!d-2!c
 
 1D-2C
-  2D (4)5+ !d, 11-15
-    2M 3-M, Arrêt(s) M avec fit !d 2/4e, 10-11, forcing jusque 2NT/3!d
-    2N Naturel, NF (souvent fit !d 3e, 3343 ou xx44)
-    3C 6+ !c, FM
-    3D 6+ !c et fit !d 3e, FM
-    3HS 6+!c, court !h/!s, FM 12-15 (peu ou pas de réserve de force)
-    3N 6+!c, arrêt(s) M
-  2M Des valeurs M
-    Soit couleur M 4e et main (semi-)irrégulière, 16+
-    Soit régulier 18-20 avec arrêt(s) M et problème ÂM/!c (rare)
-    3D MODERATEUR; Fit !s 3(4)e, 4-6 (décourageant face à 16-18)
-    2S Fit !d 3(4)e, 7-11; on nomme ses valeurs économiquement
-    2N Fit !d 3(4)e, 7-11; on nomme ses valeurs économiquement
-    3C 6+!c, 12+
-  2N 18-19(20) régulier tendance mini, NF
-  3C 4+!c, 16+
-    3N Arrêts M et fit :d 3(4)e, 7-9 (10-11 rare car 2!c et pas 2NT sur 1!d)
-  3D 7+ LJ à !d, NF
-  3HS 6!d-5!h/!s, environ 4 perdantes, NF
-    4D Simple préférence, NF
-  3N (18)19-20 régulier tendance max ou semi-régulier
+2D (4)5+ !d, 11-15
+  2M 3-M, Arrêt(s) M avec fit !d 2/4e, 10-11, forcing jusque 2NT/3!d
+  2N Naturel, NF (souvent fit !d 3e, 3343 ou xx44)
+  3C 6+ !c, FM
+  3D 6+ !c et fit !d 3e, FM
+  3HS 6+!c, court !h/!s, FM 12-15 (peu ou pas de réserve de force)
+  3N 6+!c, arrêt(s) M
+2M Des valeurs M
+  Soit couleur M 4e et main (semi-)irrégulière, 16+
+  Soit régulier 18-20 avec arrêt(s) M et problème ÂM/!c (rare)
+  3D MODERATEUR; Fit !s 3(4)e, 4-6 (décourageant face à 16-18)
+  2S Fit !d 3(4)e, 7-11; on nomme ses valeurs économiquement
+  2N Fit !d 3(4)e, 7-11; on nomme ses valeurs économiquement
+  3C 6+!c, 12+
+2N 18-19(20) régulier tendance mini, NF
+3C 4+!c, 16+
+  3N Arrêts M et fit :d 3(4)e, 7-9 (10-11 rare car 2!c et pas 2NT sur 1!d)
+3D 7+ LJ à !d, NF
+3HS 6!d-5!h/!s, environ 4 perdantes, NF
+  4D Simple préférence, NF
+3N (18)19-20 régulier tendance max ou semi-régulier
 
 *** La séquence 1!d-2!d
 
 1D-2D
-  2M Des valeurs M
-    Soit M 4e et main irrégulière
-    Soit régulier 18-20 avec arrêt(s) M et problème ÂM/!c; suite naturelle
-  2N Souvent 18-20 régulier (au moins Hxx/xxxx à !d), suite naturelle FM
-  3C Naturel 4+ !c, à base de !d (redemande à 3!d NF)
-  3D Unicolore, 7+ LJ à !d
-  3M Splinter 6+ !d, 12-14 (15) FM
-  3N 18-20 régulier, au mieux Hx/xxx à !d
+2M Des valeurs M
+  Soit M 4e et main irrégulière
+  Soit régulier 18-20 avec arrêt(s) M et problème ÂM/!c; suite naturelle
+2N Souvent 18-20 régulier (au moins Hxx/xxxx à !d), suite naturelle FM
+3C Naturel 4+ !c, à base de !d (redemande à 3!d NF)
+3D Unicolore, 7+ LJ à !d
+3M Splinter 6+ !d, 12-14 (15) FM
+3N 18-20 régulier, au mieux Hx/xxx à !d
 
 *** La séquence 1!d-2!h
 
 1D-2H
-  2S Pour jouer
-  2N Relais FM
-    3C Résidu !c; 4513/4504
-    3D 4522, au mieux Vx a !c
-    3H 46xx
-    3S 56xx
-    3N 4522, au moins Dx a !c
-  3C Bic mineur 5+-5+ minim et misfit !, NF
-  3D Unicolore !d long, minimum et misfit !, NF
-  3HS Fitté, limite
-  4HS Pour jouer
+2S Pour jouer
+2N Relais FM
+  3C Résidu !c; 4513/4504
+  3D 4522, au mieux Vx a !c
+  3H 46xx
+  3S 56xx
+  3N 4522, au moins Dx a !c
+3C Bic mineur 5+-5+ minim et misfit !, NF
+3D Unicolore !d long, minimum et misfit !, NF
+3HS Fitté, limite
+4HS Pour jouer
 
 *** La séquence 1!d-2!s
 
 1D-2S
-  2N Souvent 18-20 régulier, FM
-    3C Des valeurs, max
-    3D Mini
-    3HS Court !h/!s
-  3C Naturel 3+ !s
-  3D Pour jouer
-  3HS Valeurs, FM
+2N Souvent 18-20 régulier, FM
+  3C Des valeurs, max
+  3D Mini
+  3HS Court !h/!s
+3C Naturel 3+ !s
+3D Pour jouer
+3HS Valeurs, FM
 

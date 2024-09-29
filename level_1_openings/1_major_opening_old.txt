@@ -106,3 +106,58 @@ Cue-bid de l'ouverture majeure : FM - Développements à discuter
 4S SO
 
 // #INCLUDE conventions/gazzili.txt
+// #INCLUDE conventions/2_1FM.txt
+
+*** Développements après 1!d-2!c FM
+
+1D-2C
+2D 6!d ou 5 beaux !d et un petit doubleton
+  2H (force à !h)
+    2S 5332 (6322) : pas de tenue !s et 2!c 
+    2N 5332 (6322) : tenue !s 
+    3C 5332 (6322) : pas de tenue !s et 3!c 
+    3D 6!d, singleton !c sans tenue !s 
+    3H 6!d, singleton !h avec ou sans tenue !s (3!s demande)
+    3N 6!d, singleton !c et tenue !s
+  2S (force à !s) 
+    2N 5332 (6322) : tenue !h 
+    3C 5332 (6322) : pas de tenue !h et 3!c
+    3H 5332 (6322) : pas de tenue !h et 2!c 
+    3D 6!d, singleton !c sans tenue !h 
+    3S 6!d, singleton !s avec ou sans tenue !h
+    3N 6!d, singleton !c et tenue !h
+2H 5!d 4!h 11-20H
+2S 5!d 4!s 11-20H
+2N 12-14 ou 18-19H - Ne promet pas les arrêts majeurs, main régulière (4441 toléré)
+  3C Relais pour 3!d avec un unicolore !c
+    3D 
+      3H singleton !s 
+      3S singleton !h 
+      3N singleton !d
+      4C singleton !d, forcing
+  3D Texas !h 
+    3H pas de tenue !s, pas 4!h 
+    3S fit !h, ctrl !s, 14h 
+    3N tenue !s, pas 4!h 
+    4C 4!c, 18-19H
+    4D fit !h, ctrl !d, 14H
+    4H fit !h, 12-13H 
+    4S fit !h, 18-19H (BW !h ?)
+    4N 18-19H, 4342
+  3H Texas !s 
+    3S pas de tenue !h
+    3N tenue !h, pas 4!s 
+    4C 4!c, 18-19H
+    4D fit !s, ctrl !d, 14H
+    4H fit !s, 18-19H (BW !s ?)
+    4S fit !s, 12-13H
+    4N 18-19H, 3442 ou 3352
+  3S Texas !d : 6 !c/4 !d TDC
+3C 5!d 4!c 11-20H
+3N 15-17H, 4441
+  4C Texas !d 
+  4D Texas !h
+  4H Texas !s 
+  4S Texas !c Unicolore TDC. L'ouvreur freine à 4NT sans honneur !c
+
+

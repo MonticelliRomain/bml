@@ -160,35 +160,32 @@ la main de l’ouvreur.
 4C Splinter !c, sans ctrl !s - 11/13H
 
 1S-2C
-2x--
-2N Une certitude, le répondant n’a pas 3 cartes à !s. 
+2x-2N Une certitude, le répondant n’a pas 3 cartes à !s. 
   L’enchère exprime une distribution régulière ou semi-régulière (voir 2 séquences plus bas)
 
 1S-2C
-2D--
-2N Sans tenue !h, il utilise la 4ième couleur forcing à 2 !h.
-  3C 5143
-  3D 55 
-  3H 5341 
-  3S 64
-  3N 5242 limité à 16H
-  4N 5242 17/18H 
-  5N 5242 19/20H
+2D-2N Sans tenue !h, il utilise la 4ième couleur forcing à 2 !h.
+3C 5143
+3D 55 
+3H 5341 
+3S 64
+3N 5242 limité à 16H
+4N 5242 17/18H 
+5N 5242 19/20H
 
 1S-2C
-2H--
-2N Pas nécessairement l’arrêt !d
-  3C 5413
-  3D 5431 
-  3H 55 
-  3S 64
-  3N 5422 limité à 16H
-  4N 5422 17/18H 
-  5N 5422 19/20H
+2H-2N Pas nécessairement l’arrêt !d
+3C 5413
+3D 5431 
+3H 55 
+3S 64
+3N 5422 limité à 16H
+4N 5422 17/18H 
+5N 5422 19/20H
 
 
 
-1S-2C--
+1S-2C
 2S  L’enchère de 2 !s ne peut exprimer que 2 distributions : 5332 ou 6 cartes à !s.
     Avec 6 très beaux !s, à partir de 14H, l’ouvreur saute à 3 !s.
     Si il est 5332, il est limité a 14H.
@@ -212,11 +209,11 @@ la main de l’ouvreur.
     3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H
 
 1S-2C
-2D--
-3H 6-5 forcing
-4H 6-5 non forcing
+2D
+  3H 6-5 forcing
+  4H 6-5 non forcing
 
-1S-2C--
+1S-2C
 3C L’enchère de 3 !c est obligatoire avec 4 cartes à !c. 
   3S  L’enchère de 3 !s impose l’atout !s et montre une plus belle main que 4 !s.
       L’ouvreur précise sa distribution.
@@ -237,7 +234,7 @@ Rem:
 **** Séquences après 1 !s – 2 !h
 
 1S-2H
-2S-2N--
+2S-2N
 3C 5 !s 4+ !c
 3D 5 !s 4+ !d
 3H 6 !s et singleton !h
@@ -246,7 +243,7 @@ Rem:
 4C 6 !s et singleton !c
 4D 6 !s et singleton !d
 
-1S-2H--
+1S-2H
 3H 11H+, 3 ou 4 cartes à !h, ne garantit pas un Honneur à !h, fort ou faible.
 4H 5422, 11-13H, plutôt des points perdus dans les mineures (très faible)
 4CD Splinter atténué, environ 3 cartes clés
@@ -262,96 +259,43 @@ Rem:
 
 *** Séquences dérivées après 1!h d’ouverture
 
-1H-2C--
-  2S S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
-    2N  main régulière avec au moins 2 cartes à !h (peut cacher un soutien !h)
-      3C 5413
-      3D 5431 
-      3H 64
-      3S 5422 15H+ : seule enchère conventionnelle !
-      3N 5422 12-14H 
-    3S 14h+
-      3N OUI mais : pas minimum avec un problème pour nommer un ctrl.
-      4CDH Ctrl
-      4S minimum
-    4S 12-13H+
-  2H
-    2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). 
-       L’atout !s n’est plus recherché.
-      2N promet une tenue à !d.
-      3H 6 cartes. 
-      3C 3 cartes ou un honneur second sans tenue à !d
-      3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes 
-         (ou l’As pour jouer de la bonne main)
-    2N main régulière avec au moins 2 cartes à !h (relais qui ne promet pas d'arrêt)
-      3C 6 !h et singleton !c
-      3D 6 !h et singleton !d
-      3H 6322
-      3N 5332
-  3H Une perdante maximum en face d'un singleton 
-    3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
-    3N naturel : pas de fit !h et mini.
-    4C naturel : très beaux !c 
-    4D ctrl !d, court !s et ctrl !c 
-    4H frein
-    4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
-  2N 17-20 5332 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3!c limité à 16.
-    3C Naturel
-    3H Fit !h 
-    3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H
-  3N 17+ 1534 ou 3514
-    4C demande singleton pour jouer à !c (court bas-court haut)
-    4D demande singleton pour jouer à !h (court bas-court haut)
-
-*** Développements après 1!d-2!c FM
-
-1D-2C--
-2D 6!d ou 5 beaux !d et un petit doubleton
-  2H (force à !h)
-    2S 5332 (6322) : pas de tenue !s et 2!c 
-    2N 5332 (6322) : tenue !s 
-    3C 5332 (6322) : pas de tenue !s et 3!c 
-    3D 6!d, singleton !c sans tenue !s 
-    3H 6!d, singleton !h avec ou sans tenue !s (3!s demande)
-    3N 6!d, singleton !c et tenue !s
-  2S (force à !s) 
-    2N 5332 (6322) : tenue !h 
-    3C 5332 (6322) : pas de tenue !h et 3!c
-    3H 5332 (6322) : pas de tenue !h et 2!c 
-    3D 6!d, singleton !c sans tenue !h 
-    3S 6!d, singleton !s avec ou sans tenue !h
-    3N 6!d, singleton !c et tenue !h
-2H 5!d 4!h 11-20H
-2S 5!d 4!s 11-20H
-2N 12-14 ou 18-19H - Ne promet pas les arrêts majeurs, main régulière (4441 toléré)
-  3C Relais pour 3!d avec un unicolore !c
-    3D 
-      3H singleton !s 
-      3S singleton !h 
-      3N singleton !d
-      4C singleton !d, forcing
-  3D Texas !h 
-    3H pas de tenue !s, pas 4!h 
-    3S fit !h, ctrl !s, 14h 
-    3N tenue !s, pas 4!h 
-    4C 4!c, 18-19H
-    4D fit !h, ctrl !d, 14H
-    4H fit !h, 12-13H 
-    4S fit !h, 18-19H (BW !h ?)
-    4N 18-19H, 4342
-  3H Texas !s 
-    3S pas de tenue !h
-    3N tenue !h, pas 4!s 
-    4C 4!c, 18-19H
-    4D fit !s, ctrl !d, 14H
-    4H fit !s, 18-19H (BW !s ?)
-    4S fit !s, 12-13H
-    4N 18-19H, 3442 ou 3352
-  3S Texas !d : 6 !c/4 !d TDC
-3C 5!d 4!c 11-20H
-3N 15-17H, 4441
-  4C Texas !d 
-  4D Texas !h
-  4H Texas !s 
-  4S Texas !c Unicolore TDC. L'ouvreur freine à 4NT sans honneur !c
-
+1H-2C
+2S S’exprime dans la zone 11-20H. Par conséquent, 1 !h - 2 !c - 2 !h dénie 4 cartes à !s.
+  2N  main régulière avec au moins 2 cartes à !h (peut cacher un soutien !h)
+    3C 5413
+    3D 5431 
+    3H 64
+    3S 5422 15H+ : seule enchère conventionnelle !
+    3N 5422 12-14H 
+  3S 14h+
+    3N OUI mais : pas minimum avec un problème pour nommer un ctrl.
+    4CDH Ctrl
+    4S minimum
+  4S 12-13H+
+2H
+  2S Troisième couleur affirmative, jeu irrégulier (sinon 2SA). 
+      L’atout !s n’est plus recherché.
+    2N promet une tenue à !d.
+    3H 6 cartes. 
+    3C 3 cartes ou un honneur second sans tenue à !d
+    3D enchère coopérative : je n’ai pas l’arrêt mais 3 petites cartes 
+        (ou l’As pour jouer de la bonne main)
+  2N main régulière avec au moins 2 cartes à !h (relais qui ne promet pas d'arrêt)
+    3C 6 !h et singleton !c
+    3D 6 !h et singleton !d
+    3H 6322
+    3N 5332
+3H Une perdante maximum en face d'un singleton 
+  3S vers le chelem à !h. L'ouvreur dit 3N avec ctrl !s et le reste en ctrl.
+  3N naturel : pas de fit !h et mini.
+  4C naturel : très beaux !c 
+  4D ctrl !d, court !s et ctrl !c 
+  4H frein
+  4S à discuter : soit 6/5 naturel soit BW exclusion à !h 
+2N 17-20 5332 ou 2524 (15-16 on ouvre d'1NT) - Rappel 3!c limité à 16.
+  3C Naturel
+  3H Fit !h 
+  3N Minimum. 4!c de l'ouvreur 2524, 4NT 19-20H
+3N 17+ 1534 ou 3514
+  4C demande singleton pour jouer à !c (court bas-court haut)
+  4D demande singleton pour jouer à !h (court bas-court haut)

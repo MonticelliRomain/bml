@@ -2,7 +2,7 @@
 
 Cette ouverture peut contenir une majeure 5e.
 
-2N---
+2N
 3C  Puppet Stayman
 3D  Texas !h
 3H  Texas !s
@@ -14,7 +14,7 @@ Cette ouverture peut contenir une majeure 5e.
 
 ** Le Puppet Stayman
 
-2N-3C ---
+2N-3C
 3D 4!h et/ou 4!s
     3H 4 cartes à !s 
       3S fit !s
@@ -31,46 +31,45 @@ Cette ouverture peut contenir une majeure 5e.
 
 ** Les Texas
 
-2N---
-3D  
-  3H 2!h
-  3S 5!s et 2!h
-    4C/4D ctrl !c/!d et fit !s
-    4H/4S Arrêt
-  3N 3+!h et ctrl !s
-  4C 3+!h et ctrl !c (sans ctrl !s)
-  4D 3+!h et ctrl !d
-  4H 3+!h et tous les ctrl
+2N-3D  
+3H 2!h
+3S 5!s et 2!h
+  4C/4D ctrl !c/!d et fit !s
+  4H/4S Arrêt
+3N 3+!h et ctrl !s
+4C 3+!h et ctrl !c (sans ctrl !s)
+4D 3+!h et ctrl !d
+4H 3+!h et tous les ctrl
 
-3H  
-  3S 2!s
-  3N 5!h et 2!s
-    4C/4D ctrl !c/!d et fit !h
-    4H/4S Arrêt
-  4C 3+!s et ctrl !c 
-  4D 3+!s et ctrl !d (sans ctrl !c)
-  4H 3+!s et ctrl !h
-  4S 3+!s et tous les ctrl
+2N-3H  
+3S 2!s
+3N 5!h et 2!s
+  4C/4D ctrl !c/!d et fit !h
+  4H/4S Arrêt
+4C 3+!s et ctrl !c 
+4D 3+!s et ctrl !d (sans ctrl !c)
+4H 3+!s et ctrl !h
+4S 3+!s et tous les ctrl
 
-3S
-  3N
-    4CD Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
-    4HS Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
+2N-3S Texas pour 3SA
+3N
+  4CD Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
+  4HS Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
          Avec certitude de chelem, il faut passer par un texas.
 
 ** Autres réponses
 
-4C
-  4D fit !d
-  4H fit !c et ctrl !h
-  4S fit !c, ctrl !s, pas de ctrl !h
+2N-4C
+4D fit !d
+4H fit !c et ctrl !h
+4S fit !c, ctrl !s, pas de ctrl !h
 
-4D L'ouvreur choisit sa majeure
+2N-4D L'ouvreur choisit sa majeure
 
-4N Minimum, l'ouvreur passe. 
+2N-4N Minimum, l'ouvreur passe. 
    Maximum, les réponses sont les suivantes :
-  5C 1 ou 4 As
-  5D 0 ou 3 As
-  5H 2 As et 5!c
-  5S 2 As et 5!d
-  5N 2 As et pas de min 5e
+5C 1 ou 4 As
+5D 0 ou 3 As
+5H 2 As et 5!c
+5S 2 As et 5!d
+5N 2 As et pas de min 5e

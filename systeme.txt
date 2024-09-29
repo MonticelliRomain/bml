@@ -10,7 +10,6 @@
 
 #INCLUDE level_1_openings/1_minor_opening.bml
 #INCLUDE level_1_openings/1_major_opening.bml
-#INCLUDE conventions/double_2.txt
 #INCLUDE level_1_openings/1_notrump_opening_with_major5.txt
 #INCLUDE defenses/defense_on_1_nt.txt
 

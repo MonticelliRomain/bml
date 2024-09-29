@@ -7,36 +7,41 @@
 - GAMBLING solide en !c
 - FM sauf Bicolores Majeurs
 
-2C--
-  2D relais
-    P FAIBLE !d
-    2H 24+ balancé
-       Bicolore avec au moins 4!h
-       Unicolore !h balancé 22-25
-      2S relais
-        2N 25H et + (développements comme sur 2N)
-        3C 5+!c, =4!h
-        3D 5+!d, =4!h
-        3H 5+!h, 4+!c
-        3S 5+!h, 4+!d
-        3N Unicolore !h Gambling (style régulier avec 6/7!h plein et 2 As)
-        4CD 6!h/5m moins fort que 3!h suivi de 4!c (5+/5)
-            Ex: !s 2 !h ADV987 !d 8 !c ARDT2
-    2S Bicolore avec 4+!s
-       Unicolore !s balancé 22-25
-      2N relais
-        3C 5+!c, =4!s
-        3D 5+!d, =4!s
-        3H 5+!s, 4+!c
-        3S 5+!s, 4+!d
-        3N Unicolore !s Gambling
-        4CD 6!s/5m moins fort que 3!s suivi de 4!c (5+/5)
-    2N 22+ - 24H
-    3CD Unicolores ou bicolore mineur (la collante est ambigue)
-    3HS Unicolores irréguliers
-    3N Gambling !c
-    4CD Bicolores 6/5m !h (6!h-5!c/!d + faible que 2!c-2!d-2!h-2!s-4!c/!d)
-    4HS Bicolores 6/5m !s (pareil)
+*** La séquence 2!c-2!d
+
+2C-2D relais
+P FAIBLE !d
+2H 24+ balancé
+    Bicolore avec au moins 4!h
+    Unicolore !h balancé 22-25
+  2S relais
+    2N 25H et + (développements comme sur 2N)
+    3C 5+!c, =4!h
+    3D 5+!d, =4!h
+    3H 5+!h, 4+!c
+    3S 5+!h, 4+!d
+    3N Unicolore !h Gambling (style régulier avec 6/7!h plein et 2 As)
+    4CD 6!h/5m moins fort que 3!h suivi de 4!c (5+/5)
+        Ex: !s 2 !h ADV987 !d 8 !c ARDT2
+2S Bicolore avec 4+!s
+    Unicolore !s balancé 22-25
+  2N relais
+    3C 5+!c, =4!s
+    3D 5+!d, =4!s
+    3H 5+!s, 4+!c
+    3S 5+!s, 4+!d
+    3N Unicolore !s Gambling
+    4CD 6!s/5m moins fort que 3!s suivi de 4!c (5+/5)
+2N 23-24H
+3CD Unicolores ou bicolore mineur (la collante est ambigue)
+3HS Unicolores irréguliers
+3N Gambling !c
+4CD Bicolores 6/5m !h (6!h-5!c/!d + faible que 2!c-2!d-2!h-2!s-4!c/!d)
+4HS Bicolores 6/5m !s (pareil)
+
+*** Les autres séquences
+
+2C
   2HS3C F1T (pas forcing en paires !)
         Nouvelle couleur GF
     2N Max misfit
