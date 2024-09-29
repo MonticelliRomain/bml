@@ -40,10 +40,14 @@ Après le BW, 5NT est une demande de roi :
 
   4NT 
     Passe mini 
-    5C 4 ou 1 As 
-    5D 3 ou 0 As 
-    5H 2 As et 5!c 
-    5S 2 As et 5!d 
+    5C 4!c 
+    5D 4!d 
+    5H 4!h max ou 5!h min
+    5S 4!s max ou 5!s min
+    6T 5+ !c
+    6D 5+ !d
+    6H 5+!h max
+    6P 5+!s max
 
 D0PI/R0PI
 

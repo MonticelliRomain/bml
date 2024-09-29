@@ -3,7 +3,7 @@
 *** La séquence 1!h - 1!s
 
 1H-1S--
-1N BAL 12-15 (2!c Roudi, Reste Nat)
+1N BAL 12-14 (2!c Roudi, Reste Nat)
 2C Gazilli : Soit NAT, soit Fort
   2D 8+PH, FM si ouvreur fort. Tout le reste est plus faible, sauf 3M.
     2H 5!h4!c 12-16 NF. Ensuite, Passe ou NAT Inv+

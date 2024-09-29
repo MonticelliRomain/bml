@@ -1,29 +1,30 @@
 * Défense sur 1SA
 
+La défense sur le NT est jouée dans les 3 séquences suivantes :
+
+- (1NT)
+- (1m) - P - (1NT)
+- 1m - (1NT)
+
+Sur 1M - (1NT), tout est naturel.
+
 ** Sur le SA fort
 
 (1N)
-  D Texas !c ou Landy (BIC M 4+/4+) si suivi de 2!d
-      2C Avec une préférence M (ou sans préférence avec un unicolore !c)
-        2D Landy 
-          2H/2S Nat NF 
-          2N Relais
-            3C mini
-            3D Max 5+!h/4!s 
-            3H Max 5+!s/4!h
-            4C 5/5 court !c 
-            4D 5/5 court !d
-          3C NF 
-          3D F1
-          3M Invit
-    2D Sans préférence M (au mieux 2/2)
-       Le répondant dit 2!d avec un unicolore !d ou un semi-bicolore m. 
-       L'intervenant passe, nomme une majeure cinquième ou 3!c naturel NF. 
-       Les autres enchères sont naturelles avec du !c.
-    2H Unicolore
-    2S Unicolore
-    2N F1
-  2C Texas !d. Si fort, suivi par 2M (6!d4M), 3!c (5!d4+!c), 3!d unicolore
+  D Punitif : 17+ ou 7+ levées
+    2X faible et longue couleur présentable
+  2C Landy 
+    2D Pas 2 cartes d'écart entre les majeures
+    2HS NF
+    2N Relais
+      3C mini
+      3D Max 5+!h/4!s 
+      3H Max 5+!s/4!h
+      4C 5/5 court !c 
+      4D 5/5 court !d
+    3C NF 
+    3D F1
+    3M Invit
   2D Unicolore M
     2HS P/C. Ensuite si maxi : 
       2N Invit avec des !h
@@ -77,7 +78,7 @@ En réveil :
 
 ** Sur le SA faible
 
-  - Contre : tendance punitive. Au minimum le maximum du NT, main +- balancée. Le répondant passe avec une main plate à partir de 8H.
+  - Contre : tendance punitive. 14+ en 2e, 12+ en 4e. Le répondant passe avec une main plate à partir de 8H (en 4e, 10H en 2e). 
     2!c est stayman, 2!d, 2!h, 2!s et 2NT sont des Texas.
   - 2!c : Landy - Bicolore majeur au moins 5/4.
   - 2!d, 2!h, 2!s, 2NT : Texas.

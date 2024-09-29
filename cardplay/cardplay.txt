@@ -36,11 +36,9 @@ Jeu des honneurs :
 
 *** Dans le cours du jeu
 
+   - Après l'entame, si le mort prend la main, une petite carte appelle dans la couleur d'entame.
    -  Switch petit prometteur - en fonction du mort.
-
    -  Quand le partenaire entame d'un honneur et que le mort est court - italien.
-
    -  Confirmation d'entame par les petites - si nécessaire.
-
    -  Première défausse Lavinthal.
 
