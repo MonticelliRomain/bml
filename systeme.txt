@@ -19,7 +19,7 @@
 #INCLUDE level_2_openings/2_diamond_opening.txt
 #INCLUDE level_2_openings/2_heart_opening.txt
 #INCLUDE level_2_openings/2_spade_opening.txt
-#INCLUDE level_2_openings/2_notrump_opening.txt
+#INCLUDE level_2_openings/2_notrump_new.bml
 
 // Others
 

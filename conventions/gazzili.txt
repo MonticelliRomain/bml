@@ -2,7 +2,7 @@
 
 *** La séquence 1!h - 1!s
 
-1H-1S--
+1H-1S
 1N BAL 12-14 (2!c Roudi, Reste Nat)
 2C Gazilli : Soit NAT, soit Fort
   2D 8+PH, FM si ouvreur fort. Tout le reste est plus faible, sauf 3M.
@@ -46,7 +46,7 @@
 
 *** La séquence 1!h - 1NT
 
-1H-1N--
+1H-1N
 2C Gazilli : Nat ou 17+
   2D 8+ PH, FM si ouvreur fort. Reste plus faible
     2H 5!h4!c 12-16
@@ -80,8 +80,7 @@
 
 *** La séquence 1!s - 1NT
 
-1S-1N--
-
+1S-1N
 2C Gazilli : Naturel ou Fort
   2D 8+ PH, FM si ouvreur fort. Reste plus faible
     2H 3+!h (4!h 17+, inversée avec 3!h, 6!s3!h 6 levées ou Bal 15+ avec 3!h)

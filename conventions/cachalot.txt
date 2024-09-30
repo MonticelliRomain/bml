@@ -158,25 +158,25 @@ de 5 cartes forcing de manche dans la mineure d’ouverture
 **** Retrouver un soutien !s de la bonne main
 
 1C-(1D)-Dbl-(Pass)
-1H--
-1N 4 cartes à !s, illimité donc forcing
-  2C 12-13H le plus souvent 6 cartes
-    2D demande des précisions (pas obligatoire)
-      2S singleton !d (on donne son résidu)
-      2N pas de singleton mais tenue à !d
-      2H pas de singleton 2326
-      3C singleton !s sans tenue à !d
-  2D fit 18-19H reg ou irreg 17H+
-  2S 12-14H
-  2N 18-19H sans tenue
-  3C 14-16H le plus souvent 6 cartes
-    3D demande des précisions (pas obligatoire)
-      3S résidu donc singleton !d
-      3N tenue à !d singleton !s
-      3H singleton !s sans tenue à !d
-  3S 14-16H, court !d
-  4S 16+-18H, court !d
-  3D 18H+, court !d
+1H
+  1N 4 cartes à !s, illimité donc forcing
+    2C 12-13H le plus souvent 6 cartes
+      2D demande des précisions (pas obligatoire)
+        2S singleton !d (on donne son résidu)
+        2N pas de singleton mais tenue à !d
+        2H pas de singleton 2326
+        3C singleton !s sans tenue à !d
+    2D fit 18-19H reg ou irreg 17H+
+    2S 12-14H
+    2N 18-19H sans tenue
+    3C 14-16H le plus souvent 6 cartes
+      3D demande des précisions (pas obligatoire)
+        3S résidu donc singleton !d
+        3N tenue à !d singleton !s
+        3H singleton !s sans tenue à !d
+    3S 14-16H, court !d
+    4S 16+-18H, court !d
+    3D 18H+, court !d
 
 **** Le répondant a 5 cartes à !h (sans 4 cartes à !s)
 
@@ -209,7 +209,7 @@ Elle peut être utilisée avec un soutien limite 10+/11-H à !c
 Demande de renseignements sur la force et la distribution de l’ouvreur.
 
 1C-(1D)-Dbl-(Pass)
-1H-(Pass)-1S-(Pass)--
+1H-(Pass)-1S-(Pass)
 1N 12-14H régulier avec ou sans l’arrêt (et donc il possède 4 !s et 3 !h)
 2C 12-14H 5 ou 6 cartes à !c irrégulier (ou 6322)
 2D FM, 17H+ régulier sans tenue, ou unicolore !c
@@ -228,20 +228,20 @@ S’utilise soit à la recherche de l’arrêt !d, soit avec 5 cartes à !h et 1
 Le répondant possède donc 5 cartes à !s
 
 1C-(1D)-1H-(Pass)
-1S--
-2D 14H+
-2S 6-9H
-3S 9+-11H
-4S 11+-13H
+1S
+  2D 14H+
+  2S 6-9H
+  3S 9+-11H
+  4S 11+-13H
 
 **** Exprimer son soutien à !c
 
 Il promet 5 cartes à !c et dénie 5 cartes à !s
 
 1C-(1D)-1H-(Pass)
-1S--
-2C 6-10H
-3C 11H+ FM
+1S
+  2C 6-10H
+  3C 11H+ FM
 
 **** Exprimer 4 cartes à !h
 
@@ -249,7 +249,7 @@ L’enchère de 2 !h est naturelle, toute zone et donc forcing pour un tour.
 Naturel, forcing illimité 6H+
 
 1C-(1D)-1H-(Pass)
-1S-(Pass)-2H-(Pass)--
+1S-(Pass)-2H-(Pass)
 2S 12/14H irrégulier (ou 3226)
 2N 18/19H régulier sans tenue !d (on jouera à !s une manche ou plus)
 3C 15H+ irrégulier
@@ -263,7 +263,7 @@ Relais forcing un tour sans enchère naturelle. Dénie 5 cartes à !s et dénie 
 Si on est FM, on garantit une tenue à !d (faible, pas besoin de tenue).
 
 1C-(1D)-1H-(Pass)
-1S-(Pass)-1N-(Pass)--
+1S-(Pass)-1N-(Pass)
 2C irreg ,11/14H, 5 ou 6 cartes à !c (3226 possible)
 2D irreg ,17H+ sans 4 cartes à !h
 2H irreg ,17H+ naturel bicolore cher
@@ -280,7 +280,7 @@ Soit un soutien !s 14H+
 Soit une main régulière, FM sans tenue à !d
 
 1C-(1D)-1H-(Pass)
-1S-(Pass)-2D-(Pass)--
+1S-(Pass)-2D-(Pass)
 2H résidu 3 ou 4 cartes à !h et donc cours à !d 
 2S montre 6322 sans tenue à !d
 2N tenue à !d, 6322 ou singleton !h possible.
@@ -299,7 +299,7 @@ répondant.
 
 *** Développements après une enchère au niveau de 2
 
-1C-(1D/Dbl)-2D-(Pass)--
+1C-(1D/Dbl)-2D-(Pass)
 2H Zone 1, une ou deux cartes
 2S naturel (bicolore cher), singleton !h, F1
 2N Soutien FM 
@@ -313,7 +313,7 @@ répondant.
 3H Barrage. Le répondant nomme la manche en zone 2, 3 et + 
 4H gambling en face d'un 2 faible.
 
-1C-(1D/Dbl)-2H-(Pass)--
+1C-(1D/Dbl)-2H-(Pass)
 2S Zone 1, une ou deux cartes
 2N Soutien FM 
   3H Re-Texas 
@@ -327,7 +327,7 @@ répondant.
 3S Barrage. Le répondant nomme la manche en zone 2, 3 et + 
 4S Gambling en face d'un 2 faible
 
-1CD-(1H)-2H-(Pass)--
+1CD-(1H)-2H-(Pass)
 2S rectification pas nécessairement fittée (passe sur une enchère naturelle d'un 2!s)
   3S Et/ou toute autre enchère FM 
 2N Soutien FM
@@ -341,12 +341,12 @@ répondant.
 3S Proposition en face d'un 2 faible
 4S Gambling en face d'un 2 faible
 
-1C-(Dbl)-2S-(Pass)--
+1C-(Dbl)-2S-(Pass)
 2N Naturel, tenue dans les majeures
 3C Régulier, problème de tenue 
 3DHS Singleton
 
-1C-(1D)-2S-(Pass)--
+1C-(1D)-2S-(Pass)
 2N Tenue à !d, toutes distributions (singleton possible)
 3C Régulier, sans tenue !d
 3DHS Singleton sans tenue !d

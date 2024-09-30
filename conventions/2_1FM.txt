@@ -64,16 +64,20 @@ Minimum 14H avec 2 gros honneurs dans une couleur au moins 6ième
 
 *** Les nouveaux soutiens directs
 
-1H--
-2H 8-10DH (dans la zone 5-7DH répondre 1 !s ou 1SA)
-3H 8-10DH - 4 atouts (évitez 8H – 4333)
-2N 11-14DH – 3 ou 4 atouts, en-dessous du 2/1 FM
-3S Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 3NT demande de courte : !c, !d, !s
-3N/4CD  Splinter singleton : 7-10H - 2 cartes clés.
+1H
+  2H 5-10DH
+  3H 6-10DH - 4 atouts (évitez 8H – 4333)
+  2N 11-14DH – 3 ou 4 atouts, en-dessous du 2/1 FM
+  3S Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 3NT demande de courte : !c, !d, !s
+  3N/4CD  Splinter singleton : 7-10H - 2 cartes clés.
 
-1S--
-3N Splinter chicane : 7-10H; 5 atouts - 2 cartes clés. Ensuite 4!c demande de courte : !d, !h, !c
-4C/4D/4H Splinter singleton : 7-10H - 2 cartes clés.
+1S
+  3N Splinter chicane : 7-10H; 5 atouts - 2 cartes clés
+    4C demande de courte
+      4D !d
+      4H !h
+      4S !c
+  4C/4D/4H Splinter singleton : 7-10H - 2 cartes clés.
 
 *** La séquence 1M – 2SA
 
@@ -112,7 +116,7 @@ la main de l’ouvreur.
 *** Séquences après 1M – 2 !c
 
 1S-2C
-2D-2S--
+2D-2S
 2N 14H+ avec les mains qui ne correspondent pas aux autres enchères
   3C Relais
     3D singleton le moins cher
@@ -128,7 +132,7 @@ la main de l’ouvreur.
 4H Splinter !h, sans ctrl !c - 11/13H
 
 1S-2C
-2H-2S--
+2H-2S
 2N 14H+ avec les mains qui ne correspondent pas aux autres enchères
   3C Relais
     3D singleton le moins cher
