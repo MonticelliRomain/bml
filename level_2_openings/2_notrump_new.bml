@@ -1,66 +1,101 @@
 * Ouvertue de 2SA
 
+** Le stayman
+
+2N-3C stayman 3 paliers
+3D pas de majeures
+  3H 5!s4!h
+    3S fit !s pas une peau
+    3N
+      4C 5431 5440
+      4D 5431 5440
+      4H 5-5 invit
+        4S positif mais pas assez pour BW
+        4N BW 6 clés (dame couleur pas nommée)
+      4S 6-4M invit
+      4N quanti 5422
+    4C 4!c-4!s positif
+    4D 4!d-4!s positif
+    4S très négatif avec le fit (rare)
+  3S 5!h4!s
+    3N
+      4C 5431 5440
+      4D 5431 5440
+      4H 6-4M invit
+      4S 5-5 forcing chelem
+        4N BW a 6 cles
+    4C 4!c-4!h positif
+    4D 4!d-4!h positif
+  3N to play
+  4m 5m-4M chelemisant
+    4N négatif
+  4M 64M faible   
+3H 4+!h
+  3S soit 4!s TDC soit fit !h TDC
+    3N pas 4!s
+      4CD controle TDC !h
+      4H invite light
+    4CDH premier controle avec 4!s
+  3N to play
+  4m (5)6m-4!s TDC
+  4H to play
+  4S exclusion
+3S 4+!s
+  3N to play
+  4m (5)6m-4!h TDC
+  4H fit !s invit
+
+** Le texas
+
+La dérogation au texas montre 4 atouts et la couleur au moins 4e concentrée, ensuite retexas si le répondant voulait jouer 4 dans la majeure
+
 2N
-  3C stayman 3 paliers
-    3D pas de majeures
-      3H 5!s4!h
-        3S fit !s pas une peau
-        3N
-          4C 5431 5440
-          4D 5431 5440
-          4H 5-5 invit 4S positif mais pas assez pour BW 4N BW 6 clés (dame couleur pas nommée)
-          4S 6-4M invit
-          4N quanti 5422
-        4C 4!c-4!s positif
-        4D 4!d-4!s positif
-        4S très négatif avec le fit (rare)
-      3S 5!h4!s
-        3N
-          4C 5431 5440
-          4D 5431 5440
-          4H 6-4M invit
-          4S 5-5 forcing chelem 4N BW a 6 cles
-      3N to play
-      4m 5m-4M chelemisant
-        4N négatif
-      4M 64M faible   
-    3H 4+!h
-      3S soit 4!s TDC soit fit !h TDC
-        3N pas 4!s
-          4CD controle TDC !h
-          4H invite light
-        4CDH premier controle avec 4!s
-      3N to play
-      4m (5)6m-4!s TDC
-      4H to play
-      4S exclusion
-    3S 4+!s
-      3N to play
-      4H fit !s invit
-  3D texas dérogation 4 atouts et la couleur (au moins 4e concentrée) ensuite retexas
+  3D texas dérogation
     3H rectification
       3S ?
       4C 5!h(4)5!c
         4D fit !c positif
         4S fit !h positif
-      4D
+        4N to play
+      4D 5!h(4)5!d
         4S fit !d positif
+        4N to play
         5C fit !h positif
     3N bon fit (a priori 2 gros honneurs) plutot max
     4H fit 4 atouts tous les controles
   3H texas
     3S rectification
-      4C 55M faible
-  3S stayman mineur
-    3N négatif
-      4C chelemisant avec 5+-4+ 4D fit !d 4CP fit !c
-      4D chelemisant avec 5+-4+ 4H fit !c 4S fit !d
-      4N quanti 44m
-    4C postif avec !c
-    4D positif avec !d
-    4H positf avec !d ?
-    4S positf avec !d ?
-    4N BW 6 clés
+      4C 5!s(4)5!c
+        4D fit !c positif
+        4H fit !s positif
+        4N to play
+      4D 5!s(4)5!d
+        4H fit !d positif
+        4N to play
+        5C fit !s positif
+      4H 55M faible
+    3N bon fit (a priori 2 gros honneurs) plutot max
+  
+** Le stayman mineur
+
+2N-3S stayman mineur
+3N négatif
+  4C chelemisant avec 5+-4+
+    4D fit !d
+    4HS fit !c
+  4D chelemisant avec 5+-4+
+    4H fit !c
+    4S fit !d
+  4N quanti 44m
+4C postif avec !c
+4D positif avec !d
+4H positf avec !d ?
+4S positf avec !d ?
+4N BW 6 clés
+
+** Le reste
+
+2N
   3N to play
   4C !d invit+
     4N négatif
@@ -72,7 +107,17 @@
   4S !c invit+
     4N négatif
     5C BW
-  4N quanti
+  4N quanti 
+    5C 4!c
+    5D 4!d
+    5H 4!h max ou 5!h min
+    5S 4!s max ou 5!s min
+    5N choisis partenaire (entre mini et maxi)
+    6C 5!c
+    6D 5!d
+    6H 5!h max
+    6S 5!s max
+    6N to play
   5C to play
   5D to play
   5H ?

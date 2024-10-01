@@ -63,7 +63,7 @@
 2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
   3C relais
     3D résidu !d (souvent court !s), (15)16 S
-      3C NF
+      3H NF
     3C résidu !s (souvent court !d), (15)16 S
     3S 22+S court !s
     4D 22+S court !d
@@ -73,7 +73,7 @@
 3D 6!c 5!d, (12)13-15, 5 perdantes 
 3H fit !h 4e (irrégulier) 16-19 S ; suite Mathé (voir plus bas) 
 3S4D Splinter (3-4 perdantes)
-3N 18-19, 4!h
+3N 2425 3-4 perdantes
 4C 6+ !c 4!h (3-4 perdantes)
 4H 6+ !c 4!h, offensif et très concentré (13-15)
 
@@ -379,7 +379,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 2N Fitté 4e (15)16 S avec courte ou 22+S avec courte (au plus 3 perdantes)
   3C relais
     3D résidu !d (souvent court !h), (15)16 S
-      3C NF
+      3S NF
     3C résidu !h (souvent court !d), (15)16 S
     4D 22+S court !d
     4H 22+S court !h
@@ -389,7 +389,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
 3DH 6!c 5!d/!h, (12)13-15, 5 perdantes 
 3S fit !s 4e (irrégulier) 17-19 S ; suite Mathé 
 4CD Splinter (3-4 perdantes)
-3N 18-19, 4!s
+3N 4225 3-4 perdantes
 4C 6+ !c 4!s (3-4 perdantes)
 4S 6+ !c 4!s, offensif et très concentré (13-15)
 
