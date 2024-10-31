@@ -4,9 +4,9 @@
 
 #+DESCRIPTION: Short club with transfer responses.
 
-* Introduction
+*Introduction
 
-// Here are the level 1 openings
+
 
 #INCLUDE level_1_openings/1_minor_opening.bml
 #INCLUDE level_1_openings/1_major_opening.bml
