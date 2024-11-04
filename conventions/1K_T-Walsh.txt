@@ -3,8 +3,8 @@
 
 1D Soit naturel irrégulier 5+ cartes ou tricolore court noir
     soit balancé 18-20
-  1H 4+ !s, 4+ HCP, ou 4-4 M (tricolore ou régulier 4-11) ou 5!h-4!s, 4-8
-  1S 4+ !h, 4+ HCP
+  1H (3)4+!s, 4+ HCP, ou 4-4 M (tricolore ou régulier 4-11) ou 5!h-4!s, 4-8
+  1S (3)4+!h, 4+ HCP
   1N FM, 4-M; balancé ou à base de mineure(s)
   2C Dénie 4M (sauf 6-7 !c-4M considéré comme unicolore). 6+ !c FM+
     Ou fit !d 3e (voire 4/5 !d si 4-7, voire 8-11 si très plat) 5-11
@@ -62,7 +62,7 @@ Dans les séquences de type suivant 2SA est toujours naturel
     4N misfit M, 17-18 quantitatif
 
 2D Naturel. Suite naturelle (3 !c est 5+!c FM, canapé fréquent)
-  2C 3e forcing
+  2H 3e forcing
     2S (2)3!s, 11-13
       2N forcing
     2N arrêts extérieurs, 11-13	 
@@ -88,9 +88,8 @@ Dans les séquences de type suivant 2SA est toujours naturel
 3H 6!d/5!h, 12-15, 5 perdantes
 3S Fit !s 4e à base de !d, 17-19 S; ensuite, 3NT relais Mathé
 3N Beau fit !s 4e plat, supporte SA, 20-21 S; puis 4!h transfert pour 4!s
-4C Fit !s 4e, 5+ !d, court !c, 20-21 S, 3-4 perdantes
+4CH Fit !s 4e, 5+ !d, court !c/!h, 20-21 S, 3-4 perdantes
 4D Fit !s 4e, 6+ !d, 20-21 S, 3-4 perdantes
-4H Fit !s 4e, 5+ !d, court !h, 20-21 S, 3-4 perdantes
 4S Fit !s 4e, 6+ !d, concentré minimum 13-16
 
 *** La séquence 1!d - 1!h - 1!s
@@ -119,7 +118,7 @@ Dans les séquences de type suivant 2SA est toujours naturel
     3H enchère d'attente
     3S 11-17, fit !s 3e
   3D Fit !d limite
-  3C Fit !h limite
+  3H Fit !h limite
   3S 6!s limite
   4CD Splinter !c/!d, fit !h
   
@@ -212,7 +211,7 @@ note :	Les mains limites canapés (4M-5+m ) doivent comporter 6+m pour proposer 
 2D naturel (4!s annexes possibles) suite systémique
   2S 4e forcing, 5+!h-4!s ou 5+!h-4!c ou 1444 ou 5!h332 ou 6+!h, FM
   2N naturel NF
-  3C FM canapé (5+!s, parfois avec 5!h s'il est préférable de mettre l'accent sur les !c)
+  3C FM canapé (5+!c, parfois avec 5!h s'il est préférable de mettre l'accent sur les !c)
     3D 6+!d (possibilité de 3 cartes à !h)
       3H 5+!h-5+!c
       3S 4ème CF
@@ -224,6 +223,7 @@ note :	Les mains limites canapés (4M-5+m ) doivent comporter 6+m pour proposer 
   3D limite NF (4531 possible),
 	3H limite 6!h
 	3S 6!h-5!s FM
+2C fit !h 4e, 13-15 S
 2S inversée !d-!s, 17-21 suite naturelle
   2N modérateur (3)4-6 H
 2N fitté 4ème (15)16 Savec courte, ou 22+ S avec courte (au plus 3 perdantes) 
@@ -246,7 +246,7 @@ note :	Les mains limites canapés (4M-5+m ) doivent comporter 6+m pour proposer 
 
 1D-1S
 1N 
-  2C Relais pour 2!d (2!h si fit !h 4e) faible 5+• ou limite 4+!h ou FM+ régulier
+  2C Relais pour 2!d (2!h si fit !h 4e) faible 5+!d ou limite 4+!h ou FM+ régulier
     2D Dénie 4 !h idem départ 1!c - 1!d sauf redemande à 2SA (limite avec seulement 4!h)
     2H fit !h
       P 4!h-5+!d ultra faible
@@ -273,7 +273,7 @@ note :	Les mains limites canapés (4M-5+m ) doivent comporter 6+m pour proposer 
       3S 1444 ou 04(5)(4), FM
     3C maxi sans fit !h
       3D 4!h-6!c-2/3!d, limite
-      3H 4!h-6!c-2/3!h, limite
+      3H 4!h-6!c-2/3!s, limite
       3S 1444 ou 04(5)(4), FM
       3N régulier limite ou 4!h-5m tendance sans singleton
     3H maxi avec fit !h pas 4333
@@ -295,7 +295,7 @@ note :	Les mains limites canapés (4M-5+m ) doivent comporter 6+m pour proposer 
   3C relais
     3D 6+!d (arrêt !s)
       3S demande l’arrêt !c
-    3H	Hx à !h (sans 6 beaux !d)
+    3H Hx à !h (sans 6 beaux !d)
       3S demande l’arrêt !c
     3S 5(6)!d-4!s, 11-13, sans arrêt !c
     3N 5(6)!d-4!s, 11-13, arrêt !c

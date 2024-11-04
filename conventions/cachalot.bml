@@ -1,0 +1,313 @@
+** Cachalot
+
+*** Conditions d'emploi et définition
+
+1. Ouverture d'1 !c ou d'1 !d
+2. Intervention par 1 !d ou 1 !h
+3. Réponse avec au moins 4 cartes dans une majeure
+4. Modification de l'enchère de 1 !s
+
+Le but est de faire jouer le contrat par l'ouvreur et donc le joueur 
+qui est intervenu devra entamer.
+
+1C-(1D)
+D remplace l'enchère d'1!h
+1H remplace l'enchère d'1!s
+1S remplace le contre d'appel
+1N 8-10H avec tenue
+2C soutien !c 
+2D Texas 6!h toutes zones 
+2H Texas 6!s toutes zones 
+2S 5+!c, FM
+2N Naturel 
+3C mixed raised !c 
+3D 5!h + 5!s 8-10H 
+3H Barrage !h 
+3S Barrage !s 
+4D 5!h + 5!s 11-12H
+
+1CD-(1H)
+D remplace l'enchère d'1!s
+1S remplace le contre d'appel
+1N 8-10H avec tenue
+2CD soutien !c/!d 
+2DC naturel !d/!c 
+2H Texas 6!s toutes zones 
+2S 5+ !c/!d, FM 
+2N Naturel
+3CD mixed raised !c/!d 
+3H Barrage !s 
+3S L'enchère de 3NT avec Axx à !h 
+
+1C-(Dbl)
+R 11H+ punitif
+1D Texas !h 
+1H Texas !s 
+1S 8+ régulier ou du !d
+1N Texas !c 
+2C 5 !s/4+ !h 5-9H
+  2N Relay
+    3C Mini
+      3D Relay
+        3H 54
+        3S 55
+        3N 64
+    3D Max 54
+    3H Max 55
+    3S Max 64
+2D Texas 6!h toutes zones 
+2H Texas 6!s toutes zones 
+2S Soutien FM !c 
+2N Soutien limite !c, supporte 3NT 
+3C Barrage !c 
+3DHS Splinter, vers la manche 
+
+Les développements après 1!d et 1!h sont ceux du Cachalot.
+
+1D-(Dbl) 
+R Texas !h 
+1H Texas !s 
+1S 8+ régulier ou soutien !d
+1N Texas !c
+2C 5 !s/4+ !h 5-9H
+  2N Relay
+    3C Mini
+      3D Relay
+        3H 54
+        3S 55
+        3N 64
+    3D Max 54
+    3H Max 55
+    3S Max 64
+2D Texas 6!h toutes zones 
+2H Texas 6!s toutes zones 
+2S Soutien FM !d 
+2N Soutien limite !d, supporte 3NT 
+3D Barrage !d 
+3CHS Splinter, vers la manche 
+
+Passe puis contre : punitif, remplace le surcontre
+Passe puis une enchère : 11+, se préparait à contrer punitif, donc deux couleurs 4eme.
+Les développements après Rdbl et 1!h sont ceux du Cachalot.
+
+*** Attitude de l'ouvreur. Le répondant a 
+nommé une majeure
+
+1. Avec 4 cartes dans la majeure, l'ouvreur exprime son soutien 
+au palier qui convient. (*)
+2. Avec 12-14H régulier, l'ouvreur redemande à 1SA, avec ou 
+sans tenue, avec 2 ou 3 cartes dans la majeure du répondant 
+mais sans 4 cartes à !s (comme sans cachalot).
+3. La rectification au niveau de 1 montre précisément 3 cartes. 
+Elle est forcing, donc illimitée. Ne s'emploie pas si l'ouvreur 
+peut répondre 1SA ou 2SA (2SA promet une tenue)
+
+(*)Rem :
+
+1. 3SA n'est plus un fit 18-19 régulier lorsqu'il y a une intervention. On passe
+par un cue-bid puis on fit.
+2. Les splinters existent mais attention de bien faire jouer le contrat de la 
+bonne main.
+3. l'inversée existe mais dénie 3 cartes dans la majeure du répondant.
+
+1C-(1D)-Dbl-(Pass)
+1H garantit 3 cartes à !h et s'utilise dans 3 situations
+
+1. Avec 4 cartes à !s
+2. Avec une distribution irrégulière ou 2326
+3. Avec 18-19H régulier sans tenue à !d
+Rem : par inférence, 3 !c dénie 3 cartes à !h
+
+1C-(1D)-1H-(Pass)
+1S
+
+1CD-(1H)-Dbl-(Pass)
+1S
+
+Guarantissent 3 cartes à !s et s'utilisent dans 2 situations:
+
+1. Avec une distribution irrégulière ou 3226
+2. Avec 18-19H régulier sans tenue dans la couleur d'intervention
+
+*** Développements après une redemande à 1NT
+
+1. Le Double-Deux reste d'application comme sans intervention
+2. Le Texas qui rallonge la majeure, rectification obligatoire
+
+Avec 5 !s et 4 !h nommer les !h en Texas qui est faible ou FM. 
+Propositionnel, il faut passer par le Roudi fixe.
+
+1C-(1D)-1H-(Pass)
+1N-(Pass)-2D
+
+L'ouvreur ne dira 2 !h qu'avec 4 cartes à !h, sinon 2 !s
+
+Rem : le Texas est également employé sur la redemande de 2NT de l'ouvreur
+
+La répétition de la majeure montre exactement 4 cartes et un soutien 
+de 5 cartes forcing de manche dans la mineure d'ouverture
+
+1C-(1D)-Dbl-(Pass)
+1NT-(Pass)-2H
+
+1C-(1D)-1H-(Pass)
+1NT-(Pass)-2S
+
+*** La séquence 1!c-(1!d)-1!h-(Pass)-1NT
+
+1C-(1D)-1H-(Pass)
+1N
+    2C double deux (peut cacher 5!s-4!h limite)
+    2D double deux 5!s-4!h faible 6-9 ou FM
+    2H Texas P
+        2S
+            2N limite
+            3C nat limite
+            3D FM
+    2S FM 4!s-5!c
+    3C FM 5!s-4!c
+    3H FM 5!s-5!h 13+ (sinon 3!d ou 4!d directement)
+
+*** La séquence 1!c-(1!d)-Dbl-(Pass)-1!h
+
+1C-(1D)-Dbl-(Pass)
+1H
+    1S pas 5!h, pas 4!s, pas soutien !c faible ou fort
+       peut etre un fit !c limite 10+/11-, demande des renseignements
+        1N 12-14H régulier avec ou sans l'arrêt (et donc il possède 4 !s et 3 !h)
+        2C 12-14H 5 ou 6 cartes à !c irrégulier (ou 6322)
+        2D FM, 17H+ régulier sans tenue, ou unicolore !c
+        2S Bicolore cher, 17H+
+        3C 6 cartes à !c, 14-16H
+    1N 4 cartes a !s, forcing
+        2C 12-13H le plus souvent 6 cartes
+            2D demande des précisions (pas obligatoire)
+                2S singleton !d (on donne son résidu)
+                2N pas de singleton mais tenue à !d
+                2H pas de singleton 2326
+                3C singleton !s sans tenue à !d
+        2D fit 18-19H reg ou irreg 17H+
+        2S 12-14H
+        2N 18-19H sans tenue
+        3C 14-16H le plus souvent 6 cartes
+            3D demande des précisions (pas obligatoire)
+                3S résidu donc singleton !d
+                3N tenue à !d singleton !s
+                3H singleton !s sans tenue à !d
+        3S 14-16H, court !d
+        4S 16+-18H, court !d
+        3D 18H+, court !d
+    2C 5!c-4!h 6-10
+    2D FM, 14H+ 5!h ou problème d'arret !d (pas 4!s)
+    2H 6-9H 5!h
+    3C 5!c-4!h 11+ FM
+        3N tenue a !d régulier (donc 4!s)
+        3D idem sans tenue a !d
+        3S résidu donc court !d
+        3C court !s par inférence
+    3H 9+-11H 5!h
+    4H 11+-13H 5!h
+
+*** La séquence 1!c-(1!d)-1!h-(Pass)-1!s
+
+1C-(1D)-1H-(Pass)
+1S
+    1N relais dénie 5!s et dénie 4!h, si FM avec une tenue a !d
+        2C 11-14 irreg 5 ou 6 !c irreg (3226 possible)
+        2D 17+ irreg sans 4!h
+        2H 17+ nat bicolore cher
+        2S 15-16 irreg, 5 cartes a !c NF (singleton !d ou !h mais on devrait pouvoir le deviner)
+        2N seule main reg, 18-19 sans tenue a !d
+        3C 15-16 irreg 6 cartes a !c
+            3D relais
+                3H résidu, court !d
+                3S court !h
+    2C 5!-4!s 6-10
+    2D 14H+ 5!s ou problème d'arret !d (pas 4!h)
+        2H résidu 3 ou 4 cartes a !h, court !d
+        2S 3226 sans tenue !d
+        2N tenue !d, 3226 ou court !h possible
+        3C court !h pas de tenue a !d
+        3D 18-19 pas de tenue !d
+    2H nat forcing (5!s-4!h)
+        2S 3!s, 12-14 irreg ou 3226
+        2N 3!s, 18-19 sans tenue !d
+        3C 3!s, 15+ irreg
+        3D 17+ 4!h
+        3H 12-13 4!h
+        4H 14-16 4!h
+    2S 6-9H 5!s
+    3C 5!c-4!s 11+ FM
+    3S 9+-11H 5!s
+    4S 11+-13H 5!s
+
+
+*** La séquence 1!c-(1!h)-Dbl-(Pass)-1!s
+
+1C-(1H)-Dbl-(Pass)
+1S
+    1N idem que la section précédente (voir les implications sur les enchères qui montrent 4!h)
+    2C 5!-4!s 6-10
+    2D canapé 4!s-5!d
+    2H 14H+ 5!s ou problème d'arret !h
+    2S 6-9H 5!s
+    3C 5!c-4!s 11+ FM
+    3S 9+-11H 5!s
+    4S 11+-13H 5!s
+2D bicolore cher NF
+
+*** Développement après une enchère au niveau de 2
+
+1C-(1D/Dbl)
+2D
+    2H Zone 1, une ou deux cartes
+    2S naturel (bicolore cher), singleton !h, F1
+    2N Soutien FM 
+    3D Re-Texas 
+        3H
+        4H Deux faible
+        3S TDC
+        3N Zone 2
+    3C 6 cartes, singleton !h 
+    3D FM sans soutien !h ni enchère naturelle à !s (même sur le contre)
+    3H Barrage. Le répondant nomme la manche en zone 2, 3 et + 
+    4H gambling en face d'un 2 faible.
+2H
+    2S Zone 1, une ou deux cartes
+    2N Soutien FM 
+    3H Re-Texas 
+        3S
+        4S Deux faible
+        4C TDC
+        3N Zone 2
+    3C 6 cartes, singleton !s 
+    3D FM sans soutien !s (même sur le contre)
+    3H naturel (bicolore cher), singleton !s, F1
+    3S Barrage. Le répondant nomme la manche en zone 2, 3 et + 
+    4S Gambling en face d'un 2 faible
+
+1CD-(1H)-2H
+2S rectification pas nécessairement fittée (passe sur une enchère naturelle d'un 2!s)
+  3S Et/ou toute autre enchère FM 
+2N Soutien FM
+  3H Re-Texas 
+    3S
+      4S Deux faible
+      4C TDC
+      3N Zone 2
+3CD NF
+3H Forcing dans la mineure d'ouverture
+3S Proposition en face d'un 2 faible
+4S Gambling en face d'un 2 faible
+
+1C-(Dbl)-2S
+2N Naturel, tenue dans les majeures
+3C Régulier, problème de tenue 
+3DHS Singleton
+
+1C-(1D)-2S
+2N Tenue à !d, toutes distributions (singleton possible)
+3C Régulier, sans tenue !d
+3DHS Singleton sans tenue !d
+
+

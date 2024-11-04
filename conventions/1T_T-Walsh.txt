@@ -64,7 +64,7 @@
   3C relais
     3D résidu !d (souvent court !s), (15)16 S
       3H NF
-    3C résidu !s (souvent court !d), (15)16 S
+    3H résidu !s (souvent court !d), (15)16 S
     3S 22+S court !s
     4D 22+S court !d
   3D transfert !h a priori pour jouer
@@ -125,8 +125,7 @@
     3S Arrêt !s
     4m Fit !d 4e
   3H 6+!h, FM 16+, sans courte (ou forcing chelem avec une courte)
-  3S Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
-  4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
+  3S4CD Splinter, 6+ !h avec 2GH, type 6331 (pas de chicane), 13-15, 5/6 perdantes
 
 
 **** La séquence 1!c - 1!d - 1!h - 1!s
@@ -175,22 +174,14 @@
   Pass 5+!d, faible
   2H 5!h, 10-11
   2S 5!h-4!s, 10-11
-  2N 5!h-5!c, 9-10
-  3C 5!h Régulier avec un petit doubleton. Ensuite
-      l'ouvreur nomme économiquement sa 1e couleur (de xxx jusqu'à une belle 5e)
-      en face de laquelle xx n'est pas un problème (3!h montre des !c). 
-      Sans problème, il dit 3NT directement.
-  3D 5!h-5!d, 9-10
+  2N 5!h régulier
+  3m 5!h-5m 9-10
   3H 6 (mauvais) !h sans courte, 10-11
   3N 5!h régulier, quantitatif et NF
 2H Fit !h 4e, 12-14 régulier
   2S 5!h-4!s, 10-11
-  2N 5!h-5!c, 9-10
-  3C 5!h Régulier avec un petit doubleton. Ensuite
-      l'ouvreur nomme économiquement sa 1e couleur (de xxx jusqu'à une belle 5e)
-      en face de laquelle xx n'est pas un problème (3!h montre des !c). 
-      Sans problème, il dit 3NT directement.
-  3D 5!h-5!d, 9-10
+  2N 5!h régulier
+  3m 5!h-5m 9-10
   3H 6 (mauvais) !h sans courte, 10-11
   3N 5!h régulier, quantitatif et NF
 2N 6!c, 15-16, tendance semi-régulier, 3!h, NF
@@ -380,7 +371,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
   3C relais
     3D résidu !d (souvent court !h), (15)16 S
       3S NF
-    3C résidu !h (souvent court !d), (15)16 S
+    3H résidu !h (souvent court !d), (15)16 S
     4D 22+S court !d
     4H 22+S court !h
   3H transfert !s a priori pour jouer
@@ -443,23 +434,15 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
   Pass 5+!d faible
   2H 5!s-4!h 10-11
   2S 5!s 10-11
-  2N 5!s-5!c, 9-10
-  3C 5!s Régulier avec un petit doubleton. Ensuite
-      l'ouvreur nomme économiquement sa 1e couleur (de xxx jusqu'à une belle 5e)
-      en face de laquelle xx n'est pas un problème (3!h montre des !c). 
-      Sans problème, il dit 3NT directement.
-  3D 5!s-5!d, 9-10
+  2N 5!s régulier choix de manche avec un petit doubleton
+  3m 5!s-5m 9-10
   3H 5!s-5!h, 9-10
   3S 6 (mauvais) !s sans courte, 10-11
   3N 5!s régulier, quantitatif et NF
 2H Irrégulier, fit !s 3e, 15-17, type 3415
 2S Fit !s 4e
-  2N 5!s-5!c, 9-10
-  3C 5!s Régulier avec un petit doubleton. Ensuite
-      l'ouvreur nomme économiquement sa 1e couleur (de xxx jusqu'à une belle 5e)
-      en face de laquelle xx n'est pas un problème (3!h montre des !c). 
-      Sans problème, il dit 3NT directement.
-  3D 5!s-5!d, 9-10
+  2N 5!s régulier choix de manche avec un petit doubleton
+  3m 5!s-5m 9-10
   3H 5!s-5!h, 9-10
   3S 6 (mauvais) !s sans courte, 10-11
   3N 5!s régulier, quantitatif et NF
@@ -479,6 +462,7 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
   3S Laide couleur !s 6e, TDC
   3N 5!s régulier, NF, choix de manche
   4CDH Unicolore !s 6e, court !c/!d/!h, 16-18, 4 à 5 perdantes
+2C Fit !s 3e irrégulier 15+, 5+!c
 2N Fit !s 3e irrégulier 15+, 5+!c
 3m Fit !s 3e irrégulier 15+, 5+!c
 
@@ -498,8 +482,13 @@ honneur dans cette mineur). Rmq : ce système très populaire, polonais d'origin
       3N 5!s régulier, quantitatif et NF
   2D 5+!s-4+!h 6-9 ou 5+!s-4!h 12+FM
     2H 4!h mais 1345 possible
+      Pass 5!s-4!h, 6-9
       2S 6!s-4!h, 8-9
+      2N 5!s-4!h tendance 5422 15+
+      3m 5!s-4!h-3(4)m, FM
       3H 5!s-5!h 8-9 sous-limite
+      3S 6!s-4!h FM
+      3N 5!s-4!h, choix de manche, a priori 5422
     2S 2-3!h - sans doute 2!s-3!h, mais 2245 possible
       Pass 5!s-4!h, 6-9
       2N 5!s-4!h tendance 5422 15+
