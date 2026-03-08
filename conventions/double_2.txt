@@ -19,7 +19,7 @@
           Force le partenaire à dire 3!c
       3C TDC fitté trèfles avec 5 coeurs
       3D TDC 5-5. 3!h montre le fit, 3NT est négatif, le reste est contrôle fitté carreaux
-      3H TDC 6 mauvaises cartes. Avec 6 belles cartes on aurait dit 2!h sur 1!c
+      3H TDC 6 cartes.
       3S 4 piques 5 coeurs, pour laisser le choix entre 3SA, 4C et 4P
       3N Pour les jouer
       4H Pour les jouer
@@ -31,6 +31,7 @@
     Après un 2!c - 2!d, les réponses du répondant sont naturelles:
 
     1C-1H-1N-2C-2D
+      Pass To play
       2H Invit avec 5!h. Une nouvelle couleur de la part de l'ouvreur montre une force et
          est une enchère d'essais. 2NT est enchère d'essais généralisée fittée.
          3NT et 4!h sont pour jouer.
@@ -85,7 +86,7 @@
          ou 3NT si pas intéressé
       3S 6!c 5!s
       3N 4225 non forcing
-      3C 6 trèfles, demande à l'ouvreur de nommer les contrôles.
+      4C 6 trèfles, demande à l'ouvreur de nommer les contrôles.
       4N 4225 invit
       5N 4225 invit pour 7
 

@@ -15,8 +15,8 @@
   1N   8-10 3-!h!s
   2C   FMI : fit !c, 10+ (voir développements plus loin)
   2D   6+!d (et 2GH), 18H+
-  2H   5+!s 4+!h, 5-9H, idem sur 1!d
-  2S   5+!s 4+!h, 10-11H, idem sur 1!d
+  2H   5+!s 4+!h, 5-8H, idem sur 1!d
+  2S   5+!s 4+!h, 9-11H, idem sur 1!d
   2N	 11-12 BAL (3!c NF, reste FM)
   3C	 5!c, main irrégulière ~5-9 H
   3X	 Barrage 7 cartes
@@ -79,7 +79,7 @@
      
 ** La séquence 1m - 2!h
 
-1m-2H 5+!s 4+!h 5-9
+1m-2H 5+!s 4+!h 5-8
   2S Nat NF
   2N Relay
     3C Mini
